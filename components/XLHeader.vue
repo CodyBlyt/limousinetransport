@@ -2961,24 +2961,9 @@
               </ul>
             </div>
           </li>
-          <li class="hover:bg-theme-700">
+		  <li class="hover:bg-theme-700">
             <NuxtLink
-              to="/book-an-appointment"
-              class="
-                inline-block
-                px-2
-                py-2
-                menu-item
-                hover:text-white
-                text-theme-900
-              "
-            >
-              Book Showflat
-            </NuxtLink>
-          </li>
-          <li class="hover:bg-theme-700">
-            <NuxtLink
-              to="/contact-us"
+              to="/contact"
               class="
                 inline-block
                 px-2
@@ -2991,23 +2976,33 @@
               Contact
             </NuxtLink>
           </li>
+          <li class="hover:bg-theme-700 ">
+            <a href="https://1.lt.sg/01/customer/login" 
+			class="	inline-block
+					px-2
+					py-2
+					menu-item
+					hover:text-white
+					text-theme-900"
+            >Customer Login</a
+          >
+          </li>
+          <li class="hover:bg-theme-700">
+            <NuxtLink
+              to="/book-now"
+              class="
+                inline-block
+                px-2
+                py-2
+                menu-item
+                hover:text-white
+                text-theme-900
+              "
+            >
+              Book Now
+            </NuxtLink>
+          </li>
         </ul>
-      </div>
-      <div class="flex flex-wrap items-center p-1">
-        <NuxtLink
-          to="/book-an-appointment"
-          class="
-            inline-block
-            font-medium
-            text-white
-            transition
-            rounded
-            bg-theme-600
-            hover:bg-theme-900
-            p-2
-          "
-          >Get VVIP Discount</NuxtLink
-        >
       </div>
     </div>
     <div

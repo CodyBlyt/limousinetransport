@@ -3049,9 +3049,9 @@
                         </ul>
                       </div>
                     </div>
-                    <div>
+					<div>
                       <NuxtLink
-                        to="/book-an-appointment"
+                        to="/contact"
                         class="
                           inline-block
                           w-full
@@ -3065,12 +3065,27 @@
                           hover:text-theme-900
                         "
                       >
-                        Book Showflat
+                        Contact
                       </NuxtLink>
                     </div>
                     <div>
+                      <a href="https://1.lt.sg/01/customer/login" 
+						class="	inline-block
+								w-full
+								px-2
+								py-1
+								font-medium
+								rounded
+								bg-theme-100
+								hover:bg-theme-200
+								mobile-menu
+								hover:text-theme-900"
+						>Customer Login</a
+					>
+                    </div>
+                    <div>
                       <NuxtLink
-                        to="/contact-us"
+                        to="book-now"
                         class="
                           inline-block
                           w-full
@@ -3084,7 +3099,7 @@
                           hover:text-theme-900
                         "
                       >
-                        Contact Us
+                        Book Now
                       </NuxtLink>
                     </div>
                     <NuxtLink
