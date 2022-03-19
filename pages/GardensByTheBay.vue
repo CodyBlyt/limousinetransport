@@ -1,24 +1,14 @@
 
 <template>
+
   <div>
     <div class="py-12 select-none bg-theme-700 ">
       <div class="text-xl font-semibold text-center text-white sm:text-4xl">
         River Safari Singapore
       </div>
     </div>
-
-    <div class="image123">
-    <div class="imgContainer">
-        <img src="~assets/img/garden-2.jpg" height="450" width="335"/>
-        <p>This is image 1</p>
-    </div>
-    <div class="imgContainer">
-        <img class="middle-img" src="~assets/img/garden-4.jpg" height="200" width="200"/>
-        <p>This is image 2</p>
-    </div>
-</div>
-
-  <div id="images" >
+<section>
+  <div>
 	<div class="column">
     
     <img src="~assets/img/garden-2.jpg" alt="Snow" style="width:100%">
@@ -27,7 +17,7 @@
     <img src="~assets/img/garden-4.jpg" alt="Forest" style="width:100%">
   </div>
   </div>
-
+</section>
       
  <section>
    <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
@@ -707,21 +697,15 @@
   </div>
 </template>
 <style>
+
 	
 	.column {
   float: left;
   width: 25%;
   padding: 10px;
-  
-  
-  
 }
 
-#images{
-    text-align:center;
-}
-.imgContainer{
-    float:center;
-}
+
+
 	
 </style>
