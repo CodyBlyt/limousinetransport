@@ -2281,47 +2281,8 @@
               <div class="relative flex-1 px-4 mt-6 sm:px-6">
                 <div class="absolute inset-0 px-4 sm:px-6">
                   <div aria-hidden="true" class="h-full space-y-2">
-                    <div>
-                      <NuxtLink
-                        to="/"
-                        aria-current="page"
-                        class="
-                          inline-block
-                          w-full
-                          px-2
-                          py-1
-                          font-medium
-                          rounded
-                          bg-theme-100
-                          hover:bg-theme-200
-                          mobile-menu
-                          hover:text-theme-900
-                          nuxt-link-exact-active nuxt-link-active
-                        "
-                      >
-                        Home
-                      </NuxtLink>
-                    </div>
-                    <div>
-                      <NuxtLink
-                        to="/developer"
-                        class="
-                          inline-block
-                          w-full
-                          px-2
-                          py-1
-                          font-medium
-                          rounded
-                          bg-theme-100
-                          hover:bg-theme-200
-                          mobile-menu
-                          hover:text-theme-900
-                        "
-                      >
-                        Developer
-                      </NuxtLink>
-                    </div>
-                    <div>
+                
+					<div>
                       <div class="cursor-pointer" @click.prevent="tlMenuClick">
                         <div
                           class="
@@ -2337,7 +2298,7 @@
                             hover:text-theme-900 hover:bg-theme-200
                           "
                         >
-                          <p>The Lilium</p>
+                          <p>Home</p>
                           <svg
                             fill="currentColor"
                             viewBox="0 0 24 24"
@@ -2356,6 +2317,7 @@
                               : 'display: none'
                           "
                         >
+                          
                           <li
                             class="
                               ml-3
@@ -2365,26 +2327,17 @@
                             "
                           >
                             <NuxtLink
-                              to="/project-details"
+                              to="/CustomerExperience"
                               class="inline-block w-full"
-                              >Project Details</NuxtLink
+                              >Customer Experience</NuxtLink
                             >
                           </li>
-                          <li
-                            class="
-                              ml-3
-                              transition
-                              hover:text-theme-600
-                              mobile-sub-menu
-                            "
-                          >
-                            <NuxtLink
-                              to="/location-map"
-                              class="inline-block w-full"
-                              >Location Map</NuxtLink
-                            >
+						  <li class="pt-4 ml-3">
+                            <div class="border-b border-dashed">
+                              <div class="-mt-3 text-gray-400">Favourite Destination</div>
+                            </div>
                           </li>
-                          <li
+						  <li
                             class="
                               ml-3
                               transition
@@ -2393,9 +2346,9 @@
                             "
                           >
                             <NuxtLink
-                              to="/site-plan"
+                              to="/SingaporeChangi"
                               class="inline-block w-full"
-                              >Site Plan</NuxtLink
+                              >Singapore Changi Airport</NuxtLink
                             >
                           </li>
 						  <li
@@ -2407,11 +2360,139 @@
                             "
                           >
                             <NuxtLink
-                              to="/360-degree-view-site-plan"
+                              to="/UniversalStudioSingapore"
                               class="inline-block w-full"
-                              >Virtual Tour</NuxtLink
+                              >Universal Studio Singapore</NuxtLink
                             >
                           </li>
+						  <li
+                            class="
+                              ml-3
+                              transition
+                              hover:text-theme-600
+                              mobile-sub-menu
+                            "
+                          >
+                            <NuxtLink
+                              to="/SingaporeZoo"
+                              class="inline-block w-full"
+                              >Singapore Zoo</NuxtLink
+                            >
+                          </li>
+						  <li
+                            class="
+                              ml-3
+                              transition
+                              hover:text-theme-600
+                              mobile-sub-menu
+                            "
+                          >
+                            <NuxtLink
+                              to="/JurongBirdPark"
+                              class="inline-block w-full"
+                              >Jurong Bird Park</NuxtLink
+                            >
+                          </li>
+						  <li
+                            class="
+                              ml-3
+                              transition
+                              hover:text-theme-600
+                              mobile-sub-menu
+                            "
+                          >
+                            <NuxtLink
+                              to="/NightSafariSingapore"
+                              class="inline-block w-full"
+                              >Night Safari Singapore</NuxtLink
+                            >
+                          </li>
+						  <li
+                            class="
+                              ml-3
+                              transition
+                              hover:text-theme-600
+                              mobile-sub-menu
+                            "
+                          >
+                            <NuxtLink
+                              to="/RiverSafariSingapore"
+                              class="inline-block w-full"
+                              >River Safari Singapore</NuxtLink
+                            >
+                          </li>
+						  <li
+                            class="
+                              ml-3
+                              transition
+                              hover:text-theme-600
+                              mobile-sub-menu
+                            "
+                          >
+                            <NuxtLink
+                              to="/SingaporeTop5"
+                              class="inline-block w-full"
+                              >Singapore Top 5</NuxtLink
+                            >
+                          </li>
+						  <li
+                            class="
+                              ml-3
+                              transition
+                              hover:text-theme-600
+                              mobile-sub-menu
+                            "
+                          >
+                            <NuxtLink
+                              to="/GardensByTheBay"
+                              class="inline-block w-full"
+                              >Gardens By The Bay, Singapore</NuxtLink
+                            >
+                          </li>
+
+
+                          
+                          
+                        </ul>
+                      </div>
+                    </div>
+                    
+                    <div>
+                      <div class="cursor-pointer" @click.prevent="tlMenuClick">
+                        <div
+                          class="
+                            flex
+                            items-center
+                            justify-between
+                            w-full
+                            px-2
+                            py-1
+                            font-medium
+                            rounded
+                            bg-theme-100
+                            hover:text-theme-900 hover:bg-theme-200
+                          "
+                        >
+                          <p>Singapore</p>
+                          <svg
+                            fill="currentColor"
+                            viewBox="0 0 24 24"
+                            class="w-5 h-5 transition transform rotate-180"
+                          >
+                            <path
+                              d="M18.707 15.707a1 1 0 01-1.414 0L12 10.414l-5.293 5.293a1 1 0 01-1.414-1.414l6-6a1 1 0 011.414 0l6 6a1 1 0 010 1.414z"
+                            ></path>
+                          </svg>
+                        </div>
+                        <ul
+                          class="py-2 space-y-2 text-gray-600"
+                          :style="
+                            theLiliumSubmenu
+                              ? 'display: block'
+                              : 'display: none'
+                          "
+                        >
+                          
                           <li
                             class="
                               ml-3
@@ -2426,83 +2507,8 @@
                               >Floor Plan</NuxtLink
                             >
                           </li>
-                          <li
-                            class="
-                              ml-3
-                              transition
-                              hover:text-theme-600
-                              mobile-sub-menu
-                            "
-                          >
-                            <NuxtLink to="/pricing" class="inline-block w-full"
-                              >Pricing</NuxtLink
-                            >
-                          </li>
-                          <li
-                            class="
-                              ml-3
-                              transition
-                              hover:text-theme-600
-                              mobile-sub-menu
-                            "
-                          >
-                            <NuxtLink to="/gallery" class="inline-block w-full"
-                              >Gallery</NuxtLink
-                            >
-                          </li>
-                          <li
-                            class="
-                              ml-3
-                              transition
-                              hover:text-theme-600
-                              mobile-sub-menu
-                            "
-                          >
-                            <NuxtLink to="/video" class="inline-block w-full"
-                              >Video</NuxtLink
-                            >
-                          </li>
-                          <li
-                            class="
-                              ml-3
-                              transition
-                              hover:text-theme-600
-                              mobile-sub-menu
-                            "
-                          >
-                            <NuxtLink
-                              to="/e-brochure"
-                              class="inline-block w-full"
-                              >e-Brochure</NuxtLink
-                            >
-                          </li>
-                          <li
-                            class="
-                              ml-3
-                              transition
-                              hover:text-theme-600
-                              mobile-sub-menu
-                            "
-                          >
-                            <NuxtLink to="/elevation-chart" class="inline-block w-full"
-                              >Elevation Chart</NuxtLink
-                            >
-                          </li>
-                          <li
-                            class="
-                              ml-3
-                              transition
-                              hover:text-theme-600
-                              mobile-sub-menu
-                            "
-                          >
-                            <NuxtLink
-                              to="/balance-units-chart"
-                              class="inline-block w-full"
-                            >
-                              Balance Units Chart
-                            </NuxtLink>
-                          </li>
+                          
+                          
                         </ul>
                       </div>
                     </div>
@@ -2522,7 +2528,7 @@
                             hover:text-theme-900 hover:bg-theme-200
                           "
                         >
-                          <p>The Gazania</p>
+                          <p>Singapore to Malaysia</p>
                           <svg
                             fill="currentColor"
                             viewBox="0 0 24 24"
@@ -2555,139 +2561,7 @@
                               >Project Details</NuxtLink
                             >
                           </li>
-                          <li
-                            class="
-                              ml-3
-                              transition
-                              hover:text-theme-600
-                              mobile-sub-menu
-                            "
-                          >
-                            <NuxtLink
-                              to="/gazania/location-map"
-                              class="inline-block w-full"
-                              >Location Map</NuxtLink
-                            >
-                          </li>
-                          <li
-                            class="
-                              ml-3
-                              transition
-                              hover:text-theme-600
-                              mobile-sub-menu
-                            "
-                          >
-                            <NuxtLink
-                              to="/gazania/site-plan"
-                              class="inline-block w-full"
-                              >Site Plan</NuxtLink
-                            >
-                          </li>
-						  <li
-                            class="
-                              ml-3
-                              transition
-                              hover:text-theme-600
-                              mobile-sub-menu
-                            "
-                          >
-                            <NuxtLink
-                              to="/gazania/360-degree-view-site-plan"
-                              class="inline-block w-full"
-                              >Virtual Tour</NuxtLink
-                            >
-                          </li>
-                          <li
-                            class="
-                              ml-3
-                              transition
-                              hover:text-theme-600
-                              mobile-sub-menu
-                            "
-                          >
-                            <NuxtLink
-                              to="/gazania/floor-plan"
-                              class="inline-block w-full"
-                              >Floor Plan</NuxtLink
-                            >
-                          </li>
-                          <li
-                            class="
-                              ml-3
-                              transition
-                              hover:text-theme-600
-                              mobile-sub-menu
-                            "
-                          >
-                            <NuxtLink to="/gazania/pricing" class="inline-block w-full"
-                              >Pricing</NuxtLink
-                            >
-                          </li>
-                          <li
-                            class="
-                              ml-3
-                              transition
-                              hover:text-theme-600
-                              mobile-sub-menu
-                            "
-                          >
-                            <NuxtLink to="/gazania/gallery" class="inline-block w-full"
-                              >Gallery</NuxtLink
-                            >
-                          </li>
-                          <li
-                            class="
-                              ml-3
-                              transition
-                              hover:text-theme-600
-                              mobile-sub-menu
-                            "
-                          >
-                            <NuxtLink to="/gazania/video" class="inline-block w-full"
-                              >Video</NuxtLink
-                            >
-                          </li>
-                          <li
-                            class="
-                              ml-3
-                              transition
-                              hover:text-theme-600
-                              mobile-sub-menu
-                            "
-                          >
-                            <NuxtLink
-                              to="/gazania/e-brochure"
-                              class="inline-block w-full"
-                              >E-Brochure</NuxtLink
-                            >
-                          </li>
-                          <li
-                            class="
-                              ml-3
-                              transition
-                              hover:text-theme-600
-                              mobile-sub-menu
-                            "
-                          >
-                            <NuxtLink to="/gazania/elevation-chart" class="inline-block w-full"
-                              >Elevation Chart</NuxtLink
-                            >
-                          </li>
-                          <li
-                            class="
-                              ml-3
-                              transition
-                              hover:text-theme-600
-                              mobile-sub-menu
-                            "
-                          >
-                            <NuxtLink
-                              to="/gazania/balance-units-chart"
-                              class="inline-block w-full"
-                            >
-                              Balance Units Chart
-                            </NuxtLink>
-                          </li>
+                          
                         </ul>
                       </div>
                     </div>
@@ -2710,7 +2584,7 @@
                             hover:text-theme-900 hover:bg-theme-200
                           "
                         >
-                          <p>Bidadari</p>
+                          <p>Malaysia</p>
                           <svg
                             fill="currentColor"
                             viewBox="0 0 24 24"
@@ -2742,66 +2616,7 @@
                               Serangoon Ura Master Plan
                             </NuxtLink>
                           </li>
-						  <li
-                            class="
-                              ml-3
-                              transition
-                              hover:text-theme-600
-                              mobile-sub-menu
-                            "
-                          >
-                            <NuxtLink
-                              to="/payar-lebar"
-                              class="inline-block w-full"
-                            >
-                              Payar Lebar Airbase
-                            </NuxtLink>
-                          </li>
-						              <li
-                            class="
-                              ml-3
-                              transition
-                              hover:text-theme-600
-                              mobile-sub-menu
-                            "
-                          >
-                            <NuxtLink
-                              to="/bidadari-park"
-                              class="inline-block w-full"
-                            >
-                              Bidadari Park
-                            </NuxtLink>
-                          </li>
-                          <li
-                            class="
-                              ml-3
-                              transition
-                              hover:text-theme-600
-                              mobile-sub-menu
-                            "
-                          >
-                            <NuxtLink
-                              to="/cross-island-line"
-                              class="inline-block w-full"
-                            >
-                              Cross Island Line (CRL)
-                            </NuxtLink>
-                          </li>
-                          <li
-                            class="
-                              ml-3
-                              transition
-                              hover:text-theme-600
-                              mobile-sub-menu
-                            "
-                          >
-                            <NuxtLink
-                              to="/bidadari-estate"
-                              class="inline-block w-full"
-                            >
-                              URA: Bidadari Estate
-                            </NuxtLink>
-                          </li>
+						  
                         </ul>
                       </div>
                     </div>
@@ -2824,7 +2639,7 @@
                             hover:text-theme-900 hover:bg-theme-200
                           "
                         >
-                          <p>Press</p>
+                          <p>Event Transfer</p>
                           <svg
                             fill="currentColor"
                             viewBox="0 0 24 24"
@@ -2856,68 +2671,28 @@
                               New Private Home Sales Up 57%, Highest For December In 8 Years: Ura Data
                             </NuxtLink>
                           </li>
-                          <li
-                            class="
-                              ml-3
-                              transition
-                              hover:text-theme-600
-                              mobile-sub-menu
-                            "
-                          >
-                            <NuxtLink
-                              to="/press/press-two"
-                              class="inline-block w-full"
-                            >
-                              Resale Condo Prices Maintain Upward Trend
-                            </NuxtLink>
-                          </li>
-                          <li
-                            class="
-                              ml-3
-                              transition
-                              hover:text-theme-600
-                              mobile-sub-menu
-                            "
-                          >
-                            <NuxtLink
-                              to="/press/press-three"
-                              class="inline-block w-full"
-                            >
-                              Private Home Prices Up 2.1% In Third Straight Quarterly Gain
-                            </NuxtLink>
-                          </li>
-                          <li
-                            class="
-                              ml-3
-                              transition
-                              hover:text-theme-600
-                              mobile-sub-menu
-                            "
-                          >
-                            <NuxtLink
-                              to="/press/press-four"
-                              class="inline-block w-full"
-                            >
-                              New Home Sales Set To Rise After Falling In Oct On Fewer Launches, Options Curb
-                            </NuxtLink>
-                          </li>
-                          <li
-                            class="
-                              ml-3
-                              transition
-                              hover:text-theme-600
-                              mobile-sub-menu
-                            "
-                          >
-                            <NuxtLink
-                              to="/press/press-five"
-                              class="inline-block w-full"
-                            >
-                              New Private Home Sales Hit A High In September
-                            </NuxtLink>
-                          </li>
+                          
                         </ul>
                       </div>
+                    </div>
+					<div>
+                      <NuxtLink
+                        to="FAQs"
+                        class="
+                          inline-block
+                          w-full
+                          px-2
+                          py-1
+                          font-medium
+                          rounded
+                          bg-theme-100
+                          hover:bg-theme-200
+                          mobile-menu
+                          hover:text-theme-900
+                        "
+                      >
+                        FAQs
+                      </NuxtLink>
                     </div>
                     <div>
                       <div class="cursor-pointer" @click="financingMenuClick">
@@ -2935,7 +2710,7 @@
                             hover:text-theme-900 hover:bg-theme-200
                           "
                         >
-                          <p>Financing</p>
+                          <p>Careers</p>
                           <svg
                             fill="currentColor"
                             viewBox="0 0 24 24"
@@ -2963,9 +2738,9 @@
                             "
                           >
                             <NuxtLink
-                              to="/financing/stamp-duty"
+                              to="/Careers/drivercareer"
                               class="inline-block w-full"
-                              >Stamp Duty</NuxtLink
+                              >Drivers Join Us</NuxtLink
                             >
                           </li>
                           <li
@@ -2977,9 +2752,9 @@
                             "
                           >
                             <NuxtLink
-                              to="/financing/purchase-timeline"
+                              to="/Careers/CustomerServiceOfficer"
                               class="inline-block w-full"
-                              >Purchase Timeline</NuxtLink
+                              >Customer Service Officer</NuxtLink
                             >
                           </li>
                           <li
@@ -2991,9 +2766,9 @@
                             "
                           >
                             <NuxtLink
-                              to="/financing/payment-scheme"
+                              to="/Careers/AccountClerk"
                               class="inline-block w-full"
-                              >Payment Scheme</NuxtLink
+                              >Account Clerk</NuxtLink
                             >
                           </li>
                           <li
@@ -3005,30 +2780,10 @@
                             "
                           >
                             <NuxtLink
-                              to="/financing/housing-loan-information"
+                              to="/Careers/ContentWriter"
                               class="inline-block w-full"
                             >
-                              Housing Loan Information
-                            </NuxtLink>
-                          </li>
-                          <li class="pt-4 ml-3">
-                            <div class="border-b border-dashed">
-                              <div class="-mt-3 text-gray-400">Calculator</div>
-                            </div>
-                          </li>
-                          <li
-                            class="
-                              ml-3
-                              transition
-                              hover:text-theme-600
-                              mobile-sub-menu
-                            "
-                          >
-                            <NuxtLink
-                              to="/financing/maximum-loan-eligibility-calculator-tdsr"
-                              class="inline-block w-full"
-                            >
-                              Maximum Loan Eligibility Calculator (TDSR)
+                              Content Writer / Copywriter
                             </NuxtLink>
                           </li>
                           <li
@@ -3040,10 +2795,10 @@
                             "
                           >
                             <NuxtLink
-                              to="/financing/rental-yield-calculator"
+                              to="/Careers/WebDesignInternship"
                               class="inline-block w-full"
                             >
-                              Rental Yield Calculator
+                              Web Design Internship
                             </NuxtLink>
                           </li>
                         </ul>
@@ -3102,22 +2857,7 @@
                         Book Now
                       </NuxtLink>
                     </div>
-                    <NuxtLink
-                      to="/book-an-appointment"
-                      class="
-                        inline-block
-                        font-medium
-                        text-white
-                        transition
-                        rounded
-                        bg-theme-600
-                        hover:bg-theme-900
-                        w-full
-                        p-2
-                        text-center
-                      "
-                      >Get VVIP Discount</NuxtLink
-                    >
+                    
                   </div>
                 </div>
               </div>
