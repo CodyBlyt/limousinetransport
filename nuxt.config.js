@@ -3,13 +3,13 @@ export default {
   ssr: false,
 
   // Target: https://go.nuxtjs.dev/config-target
-  /* target: 'static',
+  target: 'static',
    router: {
-    base: '/lilium-gazania',
-  }, */
+    base: '/limousinetransport',
+  }, 
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
-    title: 'The Lilium',
+    title: 'Limousine Transport',
     htmlAttrs: {
       lang: 'en',
     },
@@ -51,7 +51,7 @@ export default {
   // Modules: https://go.nuxtjs.dev/config-modules
   modules: ['nuxt-flatpickr','@nuxtjs/gtm'],
   gtm:{
-    id:'GTM-NXNK4P8'
+    id:''
   },
 
   // Build Configuration: https://go.nuxtjs.dev/config-build

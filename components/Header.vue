@@ -2298,7 +2298,12 @@
                             hover:text-theme-900 hover:bg-theme-200
                           "
                         >
-                          <p>Home</p>
+						 <NuxtLink
+                              to="/CustomerExperience"
+                              class="inline-block w-full"
+                              ><p>Home</p></NuxtLink
+                            >
+                          
                           <svg
                             fill="currentColor"
                             viewBox="0 0 24 24"
