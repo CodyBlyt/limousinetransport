@@ -47,7 +47,6 @@
 				<hr>
 
         
-
         <img class="mr-4" border="0" width="485px" height="150px"  align="left" src="~assets/img/home/kl.jpg" /> 
 				<div class="work_description" style="font-size:12px;">
 				
@@ -55,10 +54,10 @@
 					
 					<p >Kuala Lumpur, more commonly known as KL is the capital of Malaysia. It is one of the fastest growing metropolitan region in South East Asia. As the heart of Malaysia, KL has been seen blooming with skyscrapers and advancing science park. KL International Airport is the largest and busiest airport in Malaysia. With our limousine services, guest will be able to explore into Greater KL, Malacca, Genting Highlands, Cameron Highlands and other cities throughout West Malaysia.<br><br>Take a look at our limousine vehicles <a href= "#" class="links" style="color:#C24641;">here</a> to bring you and your guest comfortably around Kuala Lumpur.</p>
 
+
 				</div>
 
-        <hr>
-        
+				<hr>
 
         <img class="mr-4" border="0" width="485px" height="150px"  align="left" src="~assets/img/home/malacca.jpg" /> 
 				<div class="work_description" style="font-size:12px;">
@@ -67,22 +66,22 @@
 					
 					<p >Malacca, is a living museum full of colours and wonders. If you love serenity and looking forward to living in history, Malacca is a place to visit with style. Located in the southern region of Peninsular Malaysia, it takes 3 hours by road from Singapore, and 3 hours from Kuala Lumpur. Take a walk at the Straits of Malacca during sunset with your loved ones, and indulge in ravishing food delight afterwards. Walk the history and visit as many museums as you can.</p>
 					<p>Feel free to visit Malacca in style with our <a href= "#" class="links" style="color:#C24641;">limo</a></p>
+
 				</div>
 
-        <hr>
-
+				<hr>
 
         <img class="mr-4" border="0" width="485px" height="150px"  align="left" src="~assets/img/home/johor.jpg" /> 
 				<div class="work_description" style="font-size:12px;">
 				
 					<h3 class="">Johor</h3>
-					
 					<p>Johor Darul Ta'zim is like a sister of Malacca. The royalties and the land itself have a very close history with Malacca makes it the best sequel of history ride. Modern and stylish, friendly Johorians will welcome you with smile and there are many to see. Johor is never too boring and always in tune for many kinds of excitement, be it history, shopping, wonderland (they have Legoland and Hello Kitty Land, to name a few!) and nature adventures.</p>
 					
 					<p>Book a trip to Johor with us <a href= "#" class="links" style="color:#C24641;">here</a>.</p>
+
 				</div>
 
-        <hr>
+				<hr>
 
         
         <div style="padding:30px 0 35px;text-align:center;">

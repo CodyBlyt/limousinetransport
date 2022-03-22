@@ -9,12 +9,13 @@
 
 				<br><h2 style="font-size:28px;"><a name="Singapore Changi Airport" href="#"><b>Singapore Top 5</b></a></h2>
 
-        <hr>
         
-        <img class="sm_work_img" border="0" alt="Jumbo Seafood"  align="left" src="~assets/img/jumbo-sea.jpg" /> 
+
+				<hr>
+        <img class="mr-4" border="0" width="485px" height="150px"  align="left" src="~assets/img/jumbo-sea.jpg" /> 
 				<div class="work_description" style="font-size:12px;">
 				
-					<h3 style="font-size:18px;">Jumbo Seafood</h3>
+				<h3 style="font-size:18px;">Jumbo Seafood</h3>
 					
 					<p >Singapore is one of Southeast Asia's most popular tourist destination with its seafood cuisine as one of the main attraction. In 1987, Jumbo Seafood started in Singapore as an outlet at East Coast Seafood Centre, however it quickly received great responses for its amazingly fresh and delicious seafood for all. Today, JUMBO Seafood has multiple restaurants in Singapore - East Coast Seafood Centre, Riverside Point, The Riverwalk, Dempsey Hill and NSRCC’s Changi Clubhouse, and also in Shanghai!</p>
 					
@@ -24,11 +25,12 @@
 					
 					<p>And of course, book your cab <a href= "#" class="links" style="color:#C24641;">here</a> so that we can take you there!</p>
 
+
 				</div>
 
 				<hr>
 
-        <img class="sm_work_img" border="0" alt="Jumbo Seafood"  align="right" src="~assets/img/jumbo-sea.jpg" /> 
+        <img class="sm_work_img" border="0" alt="Jumbo Seafood"  align="right" src="~assets/img/satay5.jpg" /> 
 				<div class="work_description" style="font-size:12px;">
 				
 					<h3 style="font-size:18px;">Satay By The Bay</h3>
@@ -45,10 +47,11 @@
 
         <hr>
         
-        <img class="sm_work_img" border="0" alt="Jumbo Seafood"  align="left" src="~assets/img/jumbo-sea.jpg" /> 
+
+        <img class="mr-4" border="0" width="485px" height="150px"  align="left" src="~assets/img/chinatown3.jpg" /> 
 				<div class="work_description" style="font-size:12px;">
 				
-					<h3 style="font-size:18px;">Chinatown Food Street</h3>
+				<h3 style="font-size:18px;">Chinatown Food Street</h3>
 					
 					<p>Chinatown Food Street (CFS) is one of the favourite spots for cheap, tasty and authentic local food in Singapore. As visitors stroll along the famous Chinatown Street Market, all they gotta do is head straight to Smith Street and they will definitely find the Chinatown Food Street. The great place assembles not only special Chinese cuisine but cuisines from all other races all under one roof.</p>
 					
@@ -57,11 +60,12 @@
 					<p>Last but not least, make sure to book a cab here to visit the Chinatown Food Street when you are in Singapore to reward yourself with great foods with authentic flavours, served in generous portion plus the quick and friendly service.</p>
 					
 
+
 				</div>
 
-        <hr>
+				<hr>
 
-        <img class="sm_work_img" border="0" alt="Jumbo Seafood"  align="right" src="~assets/img/jumbo-sea.jpg" /> 
+        <img class="sm_work_img" border="0" alt="Jumbo Seafood"  align="right" src="~assets/img/kublai3.jpg" /> 
 				<div class="work_description" style="font-size:12px;">
 				
 					<h3 style="font-size:18px;">Kublai Khan Mongolian BBQ Restaurant</h3>
@@ -78,10 +82,11 @@
 
         <hr>
         
-        <img class="sm_work_img" border="0" alt="Jumbo Seafood"  align="left" src="~assets/img/satay5.jpg" /> 
+
+        <img class="mr-4" border="0" width="485px" height="150px"  align="left" src="~assets/img/nox4.jpg" /> 
 				<div class="work_description" style="font-size:12px;">
 				
-					<h3 style="font-size:18px;">NOX - Dine in the Dark</h3>
+				<h3 style="font-size:18px;">NOX - Dine in the Dark</h3>
 					
 					<p>Interested in the most Unique Dining Experience in Singapore? Then head over to NOX - Dine in the Dark: A thrilling concept dining experience! Seated along Beach Road, Nox offers a dining experience that strips you of your sight and plunge into a culinary journey through taste, smell, touch and sound, in pitch-black darkness. Visitors will be served by visually impaired individuals who have been professionally trained to offer guidance to sighted guests.</p>
 					
@@ -91,9 +96,11 @@
 					
 					<p>Let us take you there by booking a cab with us here to experience this thrilling adventure of the senses.</p>
 
+
+
 				</div>
-        
-        <hr>
+
+				<hr>
         
 
 
