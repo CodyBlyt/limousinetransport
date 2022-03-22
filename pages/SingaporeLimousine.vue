@@ -1807,7 +1807,146 @@ Coach Bus)</font><br> </td>
                       </tr>
                     </tbody>
 
-                    
+
+                    <tbody class="bg-white divide-gray-200 divide-x divide-gray-200">
+                      <tr class="divide-x divide-gray-200">
+                        <td class="px-6 py-4 text-left">Hourly Disposal</td>
+                        <td class="px-6 py-4 text-left" colspan = "3">
+                          • Driver and vehicle will be with the guest on disposal for required duration (hourly time blocks). Minimum of 2 hrs for Limousine Cab or 3 hrs for Private Limousine for Hourly Disposal service.<br><br>
+                          • Package rates - Minimum of 6 consecutive hours for Half Day package rates, and 10 consecutive hours for Full Day package rates for selected vehicles.<br><br><br>
+                          Hourly disposal with Arrivals<br><br>
+                          • Hourly disposal starts upon flight landing time for pick-ups from arrival flight(s), cruise or entry point(s) in Singapore, and driver will wait for the guest within no. of hours booked. Waiting time and transfers to be completed within duration booked. Arrival transfers require advance payment by Credit or Debit card online (Except for Immediate Arrivals).<br><br><br>
+                          Hourly disposal for multiple passengers<br><br>
+                          • Each driver will only be able to transport one group of passenger(s) traveling together during the hourly disposal, as there may be a possibility of passengers requiring pick-up and/or drop-off at different locations which the same driver may not be able to cater in time. Please book additional vehicle(s) for each passenger group if there are multiple passenger(s) requiring pick-up or drop-off at different locations.<br>
+
+                        </td>
+                      </tr>
+                    </tbody>
+
+
+                    <tbody class="bg-white divide-gray-200 divide-x divide-gray-200">
+                      <tr class="divide-x divide-gray-200">
+                        <td class="px-6 py-4 text-left">Vehicle inspection / Briefing for driver</td>
+                        <td class="px-6 py-4 text-left" colspan = "3">
+                          • Complimentary 30 mins vehicle inspection and briefing for driver at your location, available for Hourly Disposal service of at least 12 hours and above.<br><br>
+                          • For bookings of at least 6 hours and above, an additional surcharge of S$60 for 30 mins disposal of vehicle inspection and briefing for driver is applicable.<br><br>
+                        </td>
+                      </tr>
+                    </tbody>
+
+
+                    <tbody class="bg-white divide-gray-200 divide-x divide-gray-200">
+                      <tr class="divide-x divide-gray-200">
+                        <td class="px-6 py-4 text-left">Seating capacity</td>
+                        <td class="px-6 py-4 text-left" colspan = "3">
+                          • Age 3 years and above is considered as an adult passenger and will required an individual seat with seatbelt.<br><br>
+                          • Age 2 years and below may sit on parent's lap.<br><br>
+                          • <font style="color:#C24641; text-decoration: underline;" >View vehicle capacity</font>
+                        </td>
+                      </tr>
+                    </tbody>
+
+
+                    <tbody class="bg-white divide-gray-200 divide-x divide-gray-200">
+                      <tr class="divide-x divide-gray-200">
+                        <td class="px-6 py-4 text-left">Luggage space</td>
+                        <td class="px-6 py-4 text-left" colspan = "3">
+                          • Please refer to the capacity limit for each vehicle. Each passenger seat may be replaced to fit a large size luggage, golf bag or baby stroller.<br><br>
+                          • Luggage measurements are based on 26" large size: Height: 26 inch (67 cm) / Width: 18 inch (45 cm) / Depth: 11 inch (28 cm).<br><br>
+                          • Each luggage space may be replaced to fit a standard size golf bag or baby stroller.<font style="color:#C24641; text-decoration: underline;" >View vehicle capacity</font><br><br>
+                          • Please note that any additional luggage beyond the maximum vehicle capacity stated will not be carried onboard for safety reasons.<br>
+                        </td>
+                      </tr>
+                    </tbody>
+
+
+                    <tbody class="bg-white divide-gray-200 divide-x divide-gray-200">
+                      <tr class="divide-x divide-gray-200">
+                        <td class="px-6 py-4 text-left">Car child seat</td>
+                        <td class="px-6 py-4 text-left" colspan = "3">
+                          • Car child seats are not mandatory for taxis, limos &amp; buses, as they cannot be reasonably expected to carry a variety of different child seats and restraints, due to luggage space constraints.<br><br>
+                          • Parents taking the vehicle should bring or take all precautions to keep their children seated quietly for the entire ride. Please bring one if you need it.<br><br>
+                          • Isofix car child seat base is not available for all vehicle.<br><br>
+                          • Each car child seat will take up one seat.<font style="color:#C24641; text-decoration: underline;" >View vehicle capacity</font>
+                        </td>
+                      </tr>
+                    </tbody>
+
+
+                    <tbody class="bg-white divide-gray-200 divide-x divide-gray-200">
+                      <tr class="divide-x divide-gray-200">
+                        <td class="px-6 py-4 text-left">Wheelchair</td>
+                        <td class="px-6 py-4 text-left" colspan = "3">
+                          • Wheelchair (folding type only) - Free of charge, please make sure the vehicle you have selected is large enough to accommodate them. If in any doubt, please select a larger vehicle. Disabled passengers must be able to board the vehicle independently or with the assistance of those in their party.<br><br>
+                          • Wheelchair ramp - Only available on London Cab with no additional charges. Please book at least 24 hours in advance. Subjected to availability.<br><br>
+                        </td>
+                      </tr>
+                    </tbody>
+
+
+                    <tbody class="bg-white divide-gray-200 divide-x divide-gray-200">
+                      <tr class="divide-x divide-gray-200">
+                        <td class="px-6 py-4 text-left">Bicycle</td>
+                        <td class="px-6 py-4 text-left" colspan = "3">
+                          • Free of charge, please make sure the vehicle you have selected is large enough to accommodate them. If in any doubt, please select a larger vehicle.<br><br>
+                          • Maxi Cab fits 2 bicycles (front-wheel intact) + 2 passengers + 2 luggage or; <br>3 bicycles (front-wheel removed) + 2 passengers + 0 luggage<br><br>
+                          • Minibus fits 4 bicycles (front-wheel intact) + 4 passengers + 4 luggage or; <br>5 bicycles (front-wheel removed) + 4 passengers + 0 luggage.<br>
+                        </td>
+                      </tr>
+                    </tbody>
+
+
+                    <tbody class="bg-white divide-gray-200 divide-x divide-gray-200">
+                      <tr class="divide-x divide-gray-200">
+                        <td class="px-6 py-4 text-left">Food and beverages</td>
+                        <td class="px-6 py-4 text-left" colspan = "3">
+                          • No food or drinks allowed onboard except mineral water.<br>
+                        </td>
+                      </tr>
+                    </tbody>
+
+
+                    <tbody class="bg-white divide-gray-200 divide-x divide-gray-200">
+                      <tr class="divide-x divide-gray-200">
+                        <td class="px-6 py-4 text-left">Places of interest<br> • e.g. Sentosa, Singapore Zoo, Bird park, etc.</td>
+                        <td class="px-6 py-4 text-left" colspan = "3">
+                          • Please note the transfers does not include admission fee to places of interest (if any).<br><br>
+                          • <font style="color:#C24641; text-decoration: underline;" >Tour Guide </font>- Does not include Tour Guide's admissions fee if Tour Guide is required. To be borne by customer.<br><br>
+                        </td>
+                      </tr>
+                    </tbody>
+
+
+                    <tbody class="bg-white divide-gray-200 divide-x divide-gray-200">
+                      <tr class="divide-x divide-gray-200">
+                        <td class="px-6 py-4 text-left">Sentosa</td>
+                        <td class="px-6 py-4 text-left" colspan = "3">
+                          • Entrance to Sentosa Island, payable by passenger directly to Sentosa gantry at the entrance on the day of transfer. Learn more about <font style="color:#C24641; text-decoration: underline;" >Getting to Sentosa</font>.<br>
+                        </td>
+                      </tr>
+                    </tbody>
+
+
+                    <tbody class="bg-white divide-gray-200 divide-x divide-gray-200">
+                      <tr class="divide-x divide-gray-200">
+                        <td class="px-6 py-4 text-left">Jurong Island</td>
+                        <td class="px-6 py-4 text-left" colspan = "3">
+                          • Private vehicle requires a pass provided by Jurong Island based company to enter the island. Driver's name and NRIC number will be provided once booking is confirmed.<br><br>
+                          • Please book a Limousine Cab (with taxi sign) if Jurong Island pass is not provided for the driver.<br>
+                        </td>
+                      </tr>
+                    </tbody>
+
+
+                    <tbody class="bg-white divide-gray-200 divide-x divide-gray-200">
+                      <tr class="divide-x divide-gray-200">
+                        <td class="px-6 py-4 text-left">About</td>
+                        <td class="px-6 py-4 text-left" colspan = "3">
+                          • Singapore Limousine Transfers<br><br>
+                          Enjoy the flexibility of Limousine Transport's on-demand limousine transfer service. It is the ideal choice for business or pleasure. Whatever your needs, our private limo door-to-door transfer service provides you an exclusive use of the Limousine Transport with a personal chauffeur for your journey.<br>
+                        </td>
+                      </tr>
+                    </tbody>
                   </table>
 
                   
@@ -1820,8 +1959,98 @@ Coach Bus)</font><br> </td>
       </div>
     </section>
 
+<hr>
+  
+    <div class="max-w-6xl px-4 mx-auto prose text-justify">
+
+				<br><h2 style="font-size:24px;"><b>Provide during Reservation</b></h2>
+
+				<p style="font-size:15px;">
+					&nbsp;<strong>1. Transfer details </strong>(date, time or no. of hours required, pick-up point, destination and address)
+          </p>
+
+				<p style="font-size:15px;">
+					&nbsp;<strong>2. Flight details, if any </strong>(note that we will follow the actual flight time in case of any early or delayed flight arrivals)
+        </p>
+
+				<p style="font-size:15px;">
+					&nbsp;<strong>3. Limousine Transport </strong>(vehicle type, no. of passengers)
+        </p>
+
+				<p style="font-size:15px;">
+					&nbsp;<strong>4. Guest details </strong>(lead passenger's name, mobile no. with calling code)
+        </p>
+
+        <p style="font-size:15px;">
+					&nbsp;<strong>5. Special remarks </strong>(note that we will follow the actual flight time in case of any early or delayed flight arrivals)
+        </p>
+
+        <p style="font-size:13px;">
+          Booking can be confirmed with a credit or debit card payment during reservation.<br>
+					Don't forget to book your return trip!
+				</p>
+				<hr>
+			</div>
+
+
+      <div class="max-w-6xl px-4 mx-auto prose text-justify">
+
+				<br><h2 style="font-size:24px;"><b>Reservations</b></h2>
+
+				<img class="mr-4" border="0"  align="left" src="~assets/img/con_tel.png" /> 
+				<div class="work_description" style="font-size:12px;">
+					+65 6535 3534
+
+				</div>
+        <hr style="clear: both;visibility: hidden;">
+				<img class="mr-4" border="0"  align="left" src="~assets/img/emailButton.png" /> 
+				<div class="work_description" style="font-size:12px;">
+						booking@limousinetransport.com<br><br>Please call us via our hot-line at +65 6535 3534 for transfers within 24 Hrs.
+
+				</div>
+        <hr style="clear: both;visibility: hidden;">
+        <img class="mr-4" border="0"  align="left" src="~assets/img/con_info.png" /> 
+				<div class="work_description" style="font-size:12px;">
+          Booking and reservations are available 24 hours daily, Mon - Sun including Public Holidays.<br>There are no additional charges for booking and reservations made in advance.
+        <br><br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
+                        <NuxtLink
+                        to="/book-now"
+                        class="
+                          inline-block
+                          font-medium
+                          text-white
+                          transition
+                          rounded
+                          bg-theme-700
+                          px-4
+                          py-2
+                        "
+                        >
+                          Book Now
+                        </NuxtLink>
+      
+      	<hr>
+         <a class="twitter-share-button"
+  href="https://twitter.com/intent/tweet?text=Hello%20world"
+  data-size="large">
+Tweet</a>
+			</div>
+        
+
+    </div>
 
 
     
   </div>
+  
 </template>
+
+<style scoped>
+clear {
+    clear: both;
+    visibility: hidden;
+    border: 0 none;
+    height: 1px;
+    color: #ffffff;
+}
+</style>

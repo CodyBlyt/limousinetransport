@@ -2540,9 +2540,37 @@
                             "
                           >
                             <NuxtLink
-                              to="/floor-plan"
+                              to="/SingaporeLimousine"
                               class="inline-block w-full"
-                              >Floor Plan</NuxtLink
+                              >View Limousine Cab<br><font style="font-size:10px;">with taxi sign</font></NuxtLink
+                            >
+                          </li>
+						  <li
+                            class="
+                              ml-3
+                              transition
+                              hover:text-theme-600
+                              mobile-sub-menu
+                            "
+                          >
+                            <NuxtLink
+                              to="/MercedesCab"
+                              class="inline-block w-full"
+                              >Mercedes Cab<br><font style="font-size:11px;" >2 Seater</font></NuxtLink
+                            >
+                          </li>
+						  <li
+                            class="
+                              ml-3
+                              transition
+                              hover:text-theme-600
+                              mobile-sub-menu
+                            "
+                          >
+                            <NuxtLink
+                              to="/MaxiCab"
+                              class="inline-block w-full"
+                              >Maxi Cab<br><font style="font-size:11px;" >7 Seater</font></NuxtLink
                             >
                           </li>
                           

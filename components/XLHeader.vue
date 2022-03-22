@@ -2382,6 +2382,38 @@
                     View Limousine Cab<br><font style="font-size:10px;">with taxi sign</font></NuxtLink
                   >
                 </li>
+				<li>
+                  <NuxtLink
+                    class="
+                      inline-block
+                      w-full
+                      px-2
+                      py-2
+                      menu-item
+                      text-theme-900
+                      hover:bg-theme-100
+                    "
+                    to="/MercedesCab"
+                  >
+                    Mercedes Cab<br><font style="font-size:11px;" >2 Seater</font></NuxtLink
+                  >
+                </li>
+				<li>
+                  <NuxtLink
+                    class="
+                      inline-block
+                      w-full
+                      px-2
+                      py-2
+                      menu-item
+                      text-theme-900
+                      hover:bg-theme-100
+                    "
+                    to="/MaxiCab"
+                  >
+                    Maxi Cab<br><font style="font-size:11px;" >7 Seater</font></NuxtLink
+                  >
+                </li>
               </ul>
             </div>
           </li>
