@@ -2129,7 +2129,7 @@
           <li class="menu-item group hover:bg-theme-700">
             <NuxtLink
               class="inline-block px-2 py-2 hover:text-white text-theme-900"
-               to="/SingaporeChangi"
+               to="/"
               >Home</NuxtLink
             >
             <div

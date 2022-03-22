@@ -2299,7 +2299,7 @@
                           "
                         >
 						 <NuxtLink
-                              to="/CustomerExperience"
+                              to="/"
                               class="inline-block w-full"
                               ><p>Home</p></NuxtLink
                             >
