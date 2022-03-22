@@ -2298,6 +2298,45 @@
                     Gardens By The Bay, Singapore</NuxtLink
                   >
                 </li>
+				<li class="py-3 text-center text-gray-600 select-none">
+                  <div class="relative border-t border-gray-500 border-dashed">
+                    <p class="relative -mt-3">
+                      <span class="bg-white text-theme-900">About</span>
+                    </p>
+                  </div>
+                </li>
+				<li>
+                  <NuxtLink
+                    class="
+                      inline-block
+                      w-full
+                      px-2
+                      py-2
+                      menu-item
+                      text-theme-900
+                      hover:bg-theme-100
+                    "
+                    to="/Privacy"
+                  >
+                    Privacy</NuxtLink
+                  >
+                </li>
+				<li>
+                  <NuxtLink
+                    class="
+                      inline-block
+                      w-full
+                      px-2
+                      py-2
+                      menu-item
+                      text-theme-900
+                      hover:bg-theme-100
+                    "
+                    to="/Terms"
+                  >
+                    Terms</NuxtLink
+                  >
+                </li>
 
 
               </ul>
@@ -2338,9 +2377,9 @@
                       text-theme-900
                       hover:bg-theme-100
                     "
-                    to="/project-details"
+                    to="/SingaporeLimousine"
                   >
-                    Project Details</NuxtLink
+                    View Limousine Cab<br><font style="font-size:10px;">with taxi sign</font></NuxtLink
                   >
                 </li>
               </ul>

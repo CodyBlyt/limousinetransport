@@ -2454,6 +2454,39 @@
                               >Gardens By The Bay, Singapore</NuxtLink
                             >
                           </li>
+						  <li class="pt-4 ml-3">
+                            <div class="border-b border-dashed">
+                              <div class="-mt-3 text-gray-400">About</div>
+                            </div>
+                          </li>
+						  <li
+                            class="
+                              ml-3
+                              transition
+                              hover:text-theme-600
+                              mobile-sub-menu
+                            "
+                          >
+                            <NuxtLink
+                              to="/Privacy"
+                              class="inline-block w-full"
+                              >Privacy</NuxtLink
+                            >
+                          </li>
+						  <li
+                            class="
+                              ml-3
+                              transition
+                              hover:text-theme-600
+                              mobile-sub-menu
+                            "
+                          >
+                            <NuxtLink
+                              to="/Terms"
+                              class="inline-block w-full"
+                              >Terms</NuxtLink
+                            >
+                          </li>
 
 
                           
