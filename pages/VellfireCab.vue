@@ -1,15 +1,13 @@
-
 <template>
   <div>
     <div class="py-12 select-none bg-theme-700">
       <div class="text-xl font-semibold text-center text-white sm:text-4xl">
-        Mercedes Cab
+        Toyota Vellfire Taxi
       </div>
     </div>
       <div class="max-w-6xl px-4 mx-auto prose text-justify"><br><br>
-        <img src="~assets/img/mercedes-taxi-limocab.jpg" alt="Paris" class="center">
-        <p style="font-size:11px;" class="center">*For illustrative purposes only. Limousine Cabs come with taxi signs. Mercedes Cabs are only available
-in white. Private Mercedes E Class limos are available here.</p>
+        <img src="~assets/img/toyota-vellfire-cab.jpg" alt="Paris" class="center">
+        <p style="font-size:11px;" class="center">*For illustrative purposes only. Toyata Vellfire come with taxi signs.</p>
 			</div>
      <section>
    <div>
@@ -37,7 +35,7 @@ in white. Private Mercedes E Class limos are available here.</p>
                   "
                 >
                   <table class="min-w-full divide-y divide-gray-200">
-                    <thead class="bg-theme-100 bg-white " >
+                    <thead class="bg-white bg-white " >
                       <tr class="divide-x divide-gray-200" >
                         <th
                           colspan = "1"
@@ -53,7 +51,7 @@ in white. Private Mercedes E Class limos are available here.</p>
                             text-left
                           "
                         >
-                        Transfer Type
+                        Flat rates
                         </th>
                         <th
                           colspan = "1"
@@ -106,21 +104,11 @@ in white. Private Mercedes E Class limos are available here.</p>
                       </tr>
                     </thead>
                     
-                    <tbody class="bg-white divide-gray-200 divide-x divide-gray-200">
+                    <tbody class="bg-theme-50 divide-gray-200 divide-x divide-gray-200">
                       <tr class="divide-x divide-gray-200">
                         
                      
-                        <td class="px-6 py-4 text-left"><font style ="text-decoration: underline;">Mercedes Cab Transfer</font></td>
-                        <td class="px-6 py-4 text-left">$45</td>
-                        <td class="px-6 py-4 text-left">$57</td>
-                        <td class="px-6 py-4 text-left"><font style ="color:#C24641; text-decoration: underline;">Learn More</font></td>
-                      </tr>
-                    </tbody>
-                    <tbody class="bg-white divide-gray-200 divide-x divide-gray-200">
-                      <tr class="divide-x divide-gray-200">
-                        
-                     
-                        <td class="px-6 py-4 text-left"><font style ="text-decoration: underline;">Arrival Transfer (includ. Meet &amp; Greet)</font></td>
+                        <td class="px-6 py-4 text-left"><font style ="text-decoration: underline;">Vellfire Cab Transfer</font></td>
                         <td class="px-6 py-4 text-left">$55</td>
                         <td class="px-6 py-4 text-left">$67</td>
                         <td class="px-6 py-4 text-left"><font style ="color:#C24641; text-decoration: underline;">Learn More</font></td>
@@ -130,9 +118,19 @@ in white. Private Mercedes E Class limos are available here.</p>
                       <tr class="divide-x divide-gray-200">
                         
                      
+                        <td class="px-6 py-4 text-left"><font style ="text-decoration: underline;">Arrival Transfer (includ. Meet &amp; Greet)</font></td>
+                        <td class="px-6 py-4 text-left">$65</td>
+                        <td class="px-6 py-4 text-left">$77</td>
+                        <td class="px-6 py-4 text-left"><font style ="color:#C24641; text-decoration: underline;">Learn More</font></td>
+                      </tr>
+                    </tbody>
+                    <tbody class="bg-theme-50 divide-gray-200 divide-x divide-gray-200">
+                      <tr class="divide-x divide-gray-200">
+                        
+                     
                         <td class="px-6 py-4 text-left"><font style ="text-decoration: underline;">Departure Transfer</font></td>
-                        <td class="px-6 py-4 text-left">$45</td>
-                        <td class="px-6 py-4 text-left">$57</td>
+                        <td class="px-6 py-4 text-left">$55</td>
+                        <td class="px-6 py-4 text-left">$67</td>
                         <td class="px-6 py-4 text-left"><font style ="color:#C24641; text-decoration: underline;">Learn More</font></td>
                       </tr>
                     </tbody>
@@ -142,16 +140,16 @@ in white. Private Mercedes E Class limos are available here.</p>
                         
                      
                         <td class="px-6 py-4 text-left"><font style ="text-decoration: underline;">Hourly Disposal (min. 2 consecutive hrs)</font></td>
-                        <td class="px-6 py-4 text-left">$45</td>
-                        <td class="px-6 py-4 text-left">$57</td>
+                        <td class="px-6 py-4 text-left">$55</td>
+                        <td class="px-6 py-4 text-left">$67</td>
                         <td class="px-6 py-4 text-left"><font style ="color:#C24641; text-decoration: underline;">Learn More</font></td>
                       </tr>
                     </tbody>
-                    <tbody class="bg-white divide-gray-200 divide-x divide-gray-200">
+                    <tbody class="bg-theme-50 divide-gray-200 divide-x divide-gray-200">
                       <tr class="divide-x divide-gray-200">
                         
                      
-                        <td class="px-6 py-4 text-left" colspan="4">Flat rates quoted in Singapore Dollars (SGD), per vehicle per transfer. Learn more about the <font style="color:#C24641; text-decoration: underline;" >applicable surcharge</font> or compare Limousine Cab <font style="color:#C24641; text-decoration: underline;" >rates</font>.</td>
+                        <td class="px-6 py-4 text-left" colspan="4">Flat rates quoted in Singapore Dollars (SGD), per vehicle per transfer. Learn more about the <font style="color:#C24641; text-decoration: underline;" >applicable surcharge</font> or compare Limousine Cab <font style="color:#C24641; text-decoration: underline;" >rates</font>here.</td>
                       </tr>
                     </tbody>
                   </table>
@@ -170,10 +168,10 @@ in white. Private Mercedes E Class limos are available here.</p>
 
 
      <div class="max-w-6xl px-4 mx-auto prose text-justify"><br><br>
-        <img src="~assets/img/mercedes-e-class-new.jpg" alt="Paris" class="center">
+        <img src="~assets/img/toyota-vellfire-move.jpg" alt="Paris" class="center">
 			</div>
      <section>
-       <br><h2 style="font-size:28px;" class="center"><a name="Singapore Changi Airport" href="#"><b>Mercedes Cab Package Rates</b></a></h2>
+       <br><h2 style="font-size:28px;" class="center"><a name="Singapore Changi Airport" href="#"><b>Vellfire Cab Package Rates</b></a></h2>
    <div class="Table1">
       <div class="max-w-6xl px-4 py-12 mx-auto space-y-6">
         <div class="space-y-6">
@@ -203,22 +201,22 @@ in white. Private Mercedes E Class limos are available here.</p>
                      
                     </thead>
                     
-                    <tbody class="bg-white divide-gray-200 divide-x divide-gray-200">
+                    <tbody class="bg-theme-50 divide-gray-200 divide-x divide-gray-200">
                       <tr class="divide-x divide-gray-200">
                         <td class="px-6 py-4 text-left">Full-Day Package (10 consecutive hrs)</td>
-                        <td class="px-6 py-4 text-left">$450</td>
+                        <td class="px-6 py-4 text-left">$550</td>
                       </tr>
                     </tbody>
                     <tbody class="bg-white divide-gray-200 divide-x divide-gray-200">
                       <tr class="divide-x divide-gray-200">
                         <td class="px-6 py-4 text-left">Half-Day Package (6 consecutive hrs)</td>
-                        <td class="px-6 py-4 text-left">$270</td>
+                        <td class="px-6 py-4 text-left">$330</td>
                       </tr>
                     </tbody>
-                    <tbody class="bg-white divide-gray-200 divide-x divide-gray-200">
+                    <tbody class="bg-theme-50 divide-gray-200 divide-x divide-gray-200">
                       <tr class="divide-x divide-gray-200">
                         <td class="px-6 py-4 text-left">Hourly Disposal (3 consecutive hrs)</td>
-                        <td class="px-6 py-4 text-left">$135</td>
+                        <td class="px-6 py-4 text-left">$165</td>
                       </tr>
                     </tbody>
                   </table>
@@ -238,54 +236,84 @@ in white. Private Mercedes E Class limos are available here.</p>
 
 
     <div class="max-w-6xl px-4 mx-auto prose text-justify"><br><br>
-        <img src="~assets/img/mercedes-cab-comfort.jpg" alt="Paris" class="center">
+        <img src="~assets/img/toyota-vellfire-seating-capacity.png" alt="Paris" class="center">
 			</div>
+      
       <div class="max-w-6xl px-4 py-12 mx-auto space-y-6"> 
-        <h3 style="font-size:28px;"><a name="Singapore Changi Airport" href="#"><b>Mercedes Cab Seating Capacity</b></a></h3>
-      <p>No Luggage:</p><div style="display:block;">4<img align="left" src="~assets/img/pax.gif" border="0"></div>
+        <h3 style="font-size:28px;"><a name="Singapore Changi Airport" href="#"><b>Maxi Cab Seating Capacity</b></a></h3>
+      <p>Comfortable:</p><div style="display:block;">3<img align="left" src="~assets/img/pax.gif" border="0"></div>
+      <p>No Luggage:</p><div style="display:block;">6<img align="left" src="~assets/img/pax.gif" border="0"></div>
                         <div style="display:block;">0<img align="left" src="~assets/img/luggage.gif" border="0"></div>
+      <p>With Luggage:</p><div style="display:block;">4<img align="left" src="~assets/img/pax.gif" border="0"></div>
+                        <div style="display:block;">4<img align="left" src="~assets/img/luggage.gif" border="0"></div>
+      
       </div>
-      <div class="max-w-6xl px-4 py-12 mx-auto space-y-6"> 
-      <p>With Luggage:</p><div style="display:block;">2<img align="left" src="~assets/img/pax.gif" border="0"></div>
-                        <div style="display:block;">2<img align="left" src="~assets/img/luggage.gif" border="0"></div>
-      </div>
-
+      
+      
 
 <hr>
 
 
 <div class="max-w-6xl px-4 mx-auto prose text-justify"><br><br>
-        <img src="~assets/img/mercedes-cab-seating-capacity.jpg" alt="Paris" class="center">
+        <img src="~assets/img/Velffire_new-1.png" alt="Paris" class="center">
 			</div>
       
       <div class="max-w-6xl px-4 py-12 mx-auto space-y-6"> 
-      <h2 style="font-size:28px;"><a name="Singapore Changi Airport" href="#"><b>Comfort Enjoyed on a Mercedes Cab</b></a></h2>
-      <p>Comfort of the highest order is a defining attribute of the E-Class. The standard-fit THERMATIC automatic climate control system or optional THERMOTRONIC luxury automatic climate control system, provides a pleasant atmosphere for the occupants, while the comfortable leather seats make for an extremely relaxing ride.<br><br>Passengers can also enjoy the sound of the optional harman/kardon LOGIC7® surround-sound system, for example.</p>
+      <h2 style="font-size:28px;"><a name="Singapore Changi Airport" href="#"><b>The new Toyota Vellfire</b></a></h2>
+      <p>The Toyota Vellfire's energy and imposing presence are enhanced by the Vellfire's striking and strong design.<br><br>The Toyota Vellfire, which was designed to be Toyota's flagship model, has a lively and friendly attitude, and is presented in a streamlined, uniquely grand body with a large cabin and a long list of extras to provide outstanding driving enjoyment. Travelers in the Toyota Vellfire can be confident that they will have an inexhaustible supply of joy and pride while on the road.</p>
 </div>
 <hr>
 
 <div class="max-w-6xl px-4 mx-auto prose text-justify"><br><br>
-        <img src="~assets/img/mercedes-cab-sovereign-presidio-prestige2.jpg" alt="Paris" class="center">
+        <img src="~assets/img/toyota-vellfire-elegant.jpg" alt="Paris" class="center">
 			</div>
       
       <div class="max-w-6xl px-4 py-12 mx-auto space-y-6"> 
-      <h2 style="font-size:28px;"><a name="Singapore Changi Airport" href="#"><b>A Luxury Phenomenon</b></a></h2>
-      <p>The Mercedes Cab is the pioneer of the luxury brand taxi phenomenon in Singapore. Synonymous with prestige and power, the Mercedes E-class cab delivers comfort of the highest order.<br><br>Comfortable leather seats ensconce the passenger throughout a deeply relaxing and swift ride to their destination. With the Mercedes Cab, a taxi ride is no longer just an ordinary journey but a premium experience.</p>
+      <h2 style="font-size:28px;"><a name="Singapore Changi Airport" href="#"><b>Elegant Toyota Vellfire</b></a></h2>
+      <p>The new Toyota Vellfire has a more refined design and a more opulent interior. The Toyota Vellfire features specially designed front and back bumpers, as well as cladding panels, discharge headlights with tinted-glass extensions, rear combination lamps, a big, polished tailpipe, and 17-inch wheels for a more rugged and intrepid appearance.</p>
 </div>
 <hr>
 
 <div class="max-w-6xl px-4 mx-auto prose text-justify"><br><br>
-        <img src="~assets/img/mercedes-cab-specifications.jpg" alt="Paris" class="center">
+        <img src="~assets/img/toyota-vellfire-luxury-dashboard.png" alt="Paris" class="center">
 			</div>
       
       <div class="max-w-6xl px-4 py-12 mx-auto space-y-6"> 
-      <h2 style="font-size:28px;"><a name="Singapore Changi Airport" href="#"><b>Mercedes Cab Services</b></a></h2>
-      <p> • Executive Chauffeur&emsp;&emsp;&emsp;&emsp;• Wedding Limousine<br><br><br><br>
-          • Meetings Transfers&emsp;&emsp;&emsp;&emsp;&nbsp;• Special Occasions<br><br><br><br>
-          • Client Pickup&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;• Event Transfer<br><br><br><br>
-          • Airport Transfer&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;• Singapore Tours<br><br><br><br>
+      <h2 style="font-size:28px;"><a name="Singapore Changi Airport" href="#"><b>Interior Design</b></a></h2>
+      <p> The opulent, luxurious interior cabin is equipped with the most cutting-edge technical advancements to ensure maximum enjoyment. Luxurious leather chairs, woodgrain panelling, and plenty of leg and headroom define this ultimate comfort zone.<br><br>The best-in-class cabin on the Vellfire blends the convenience of modern and highly useful facilities with a well-designed interior.
 
       </p>
+</div>
+<hr>
+
+<div class="max-w-6xl px-4 mx-auto prose text-justify"><br><br>
+        <img src="~assets/img/toyota-vellfire-luxury-seats.jpg" alt="Paris" class="center">
+			</div>
+      
+      <div class="max-w-6xl px-4 py-12 mx-auto space-y-6"> 
+      <h2 style="font-size:28px;"><a name="Singapore Changi Airport" href="#"><b>Your Luxurious Space</b></a></h2>
+      <p>The Toyota Vellfire is a premium 7-seater that blends the convenience of modern and highly useful amenities with a well-designed interior. The Vellfire comes equipped with climate control air conditioning and various air vents for all passengers.</p>
+</div>
+
+<hr>
+
+<div class="max-w-6xl px-4 mx-auto prose text-justify"><br><br>
+        <img src="~assets/img/toyota-vellfire-folded-backs.jpg" alt="Paris" class="center">
+			</div>
+      
+      <div class="max-w-6xl px-4 py-12 mx-auto space-y-6"> 
+      <h2 style="font-size:28px;"><a name="Singapore Changi Airport" href="#"><b>Flexible Seats on the Toyota Vellfire</b></a></h2>
+      <p>The last row can be moved around or folded out of the way to increase the amount of luggage space available.<br><br>The huge remote-controlled power sliding doors make it easy for passengers to get in and out. The cabin's design is elegant, with wood grain pattern panels and a display.</p>
+</div>
+<hr>
+
+<div class="max-w-6xl px-4 mx-auto prose text-justify"><br><br>
+        <img src="~assets/img/toyota-vellfire-safety-bg.jpg" alt="Paris" class="center">
+			</div>
+      
+      <div class="max-w-6xl px-4 py-12 mx-auto space-y-6"> 
+      <h2 style="font-size:28px;"><a name="Singapore Changi Airport" href="#"><b>Safety</b></a></h2>
+      <p>Safety on the Vellfire is not a compromise. The Toyota Vellfire comes with ABS with EDB. Airbags and seatbelts with pre-tensioners are also standard.</p>
 </div>
 
 

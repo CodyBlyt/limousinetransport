@@ -2,7 +2,7 @@
   <div>
     <div class="py-12 select-none bg-theme-700">
       <div class="text-xl font-semibold text-center text-white sm:text-4xl">
-        Singapore Limousine   
+        Singapore Malaysia Transfer  
         </div>
     </div>
     <section>
@@ -31,91 +31,36 @@
                   "
                 >
                   <table class="min-w-full divide-y divide-gray-200">
-                    <thead class="bg-theme-100 bg-white " >
-                      <tr class="divide-x divide-gray-200" >
-                        
-                        <th
-                          scope="col"
-                          class="
-                            px-6
-                            py-3
-                            text-xs
-                            font-medium
-                            tracking-wider
-                            text-left text-gray-500
-                            uppercase
-                            text-center
-                          "
-                        >
-                         
-                        </th>
-                        <th
-                          colspan = "2"
-                          scope="col"
-                          class="
-                            px-6
-                            py-3
-                            text-xs
-                            font-medium
-                            tracking-wider
-                            text-left text-gray-500
-                            uppercase
-                            text-center
-                          "
-                        >
-                         Private Hire Car
-                        </th>
-                        
-                        <th
-                          colspan = "4"
-                          scope="col"
-                          class="
-                            px-6
-                            py-3
-                            text-xs
-                            font-medium
-                            tracking-wider
-                            text-left text-gray-500
-                            uppercase
-                            text-center
-                          "
-                        >
-                         Limousine Cab 
-                         (with Taxi sign)
-                        </th>
-                        
-                      </tr>
-                    </thead>
+                    
                     <tbody class="bg-white divide-y divide-gray-200">
                       <tr class="divide-x divide-gray-200" >
-                        <td rowspan="7" class="px-6 py-4 text-center font-semibold">Vehicle Type</td>
+                        <td colspan="2" class="px-6 py-4 text-center font-semibold">Vehicle Type</td>
                         
                         <td colspan="1" id="mercedes" width="130" height= "130"  class="text-center"  ><a href=""><center><img src="~assets/img/small-limo.jpg"  width="100" alt="mercedes" class="center"></center></a> <b><a href="https://www.limousinetransport.com/singapore/mercedes-cab/" style="color:#000; font-size:14px" class="text-center" >Super Car</a></b></td>
                         <td colspan="1" id="mercedes" width="130" height= "130"  class="text-center"  ><a href=""><center><img src="~assets/img/medium-limo.jpg"  width="100" alt="mercedes" class="center"></center></a> <b><a href="https://www.limousinetransport.com/singapore/mercedes-cab/" style="color:#000; font-size:14px" class="text-center" >Super Van</a></b></td>
                         <td colspan="1" id="mercedes" width="130" height= "130"  class="text-center"  ><a href=""><center><img src="~assets/img/mercedes-e-class-vector.jpg"  width="100" alt="mercedes" class="center"></center></a> <b><a href="https://www.limousinetransport.com/singapore/mercedes-cab/" style="color:#000; font-size:14px" class="text-center" >Mercedes Cab</a></b></td>
                         <td colspan="1" id="mercedes" width="130" height= "130"  class="text-center"  ><a href=""><center><img src="~assets/img/super-van.jpg"  width="100" alt="mercedes" class="center"></center></a> <b><a href="https://www.limousinetransport.com/singapore/mercedes-cab/" style="color:#000; font-size:14px" class="text-center" >Maxi Cab</a></b></td>
                         <td colspan="1" id="mercedes" width="130" height= "130"  class="text-center"  ><a href=""><center><img src="~assets/img/toyota-vellfire-vector.jpg"  width="100" alt="mercedes" class="center"></center></a> <b><a href="https://www.limousinetransport.com/singapore/mercedes-cab/" style="color:#000; font-size:14px" class="text-center" >Vellfire Cab</a></b></td>
-                        <td colspan="1" id="mercedes" width="130" height= "130"  class="text-center"  ><a href=""><center><img src="~assets/img/london-cab-vector.jpg"  width="100" alt="mercedes" class="center"></center></a> <b><a href="https://www.limousinetransport.com/singapore/mercedes-cab/" style="color:#000; font-size:14px" class="text-center" >London Cab</a></b></td>
-  
+                        
 
                       </tr>
                       <tr class="divide-x divide-gray-200" >
-                        
-                        <td class="px-6 py-4 text-center" style="color:#000; font-size:14px"><font color="#C24641" style ="text-decoration: underline;">4-Seater</font></td>
-                        <td class="px-6 py-4 text-center" style="color:#000; font-size:14px"><font color="#C24641" style ="text-decoration: underline;">6-Seater</font></td>
-                        <td class="px-6 py-4 text-center" style="color:#000; font-size:14px">Mercedes E Class</td>
-                        <td class="px-6 py-4 text-center" style="color:#000; font-size:14px">Mercedes Viano</td>
-                        <td class="px-6 py-4 text-center" style="color:#000; font-size:14px">Toyota Vellfire</td>
-                        <td class="px-6 py-4 text-center" style="color:#000; font-size:14px">LTI<br>TX4</td>
+                        <td class="px-6 py-4 text-center" style="color:#000; font-size:14px">Popular / <font color="#C24641" style ="text-decoration: underline;">View All</font></td>
+                        <td class="px-6 py-4 text-center" style="color:#000; font-size:14px">w/o <br>traffic</td>
+                        <td class="px-6 py-4 text-center" style="color:#000; font-size:14px">per way<br>(flat rates)</td>
+                        <td class="px-6 py-4 text-center" style="color:#000; font-size:14px">per way<br>(flat rates)</td>
+                        <td class="px-6 py-4 text-center" style="color:#000; font-size:14px">per way<br>(flat rates)</td>
+                        <td class="px-6 py-4 text-center" style="color:#000; font-size:14px">per way<br>(flat rates)</td>
+                        <td class="px-6 py-4 text-center" style="color:#000; font-size:14px">per way<br>(flat rates)</td>
                       </tr>
-                      <tr class="bg-theme-50 divide-x divide-gray-200">
-                        
-                        <td class="px-6 py-4 text-center " style="color:#000; font-size:11px">(flat rates)</td>
-                        <td class="px-6 py-4 text-center" style="color:#000; font-size:11px">(flat rates)</td>
-                        <td class="px-6 py-4 text-center" style="color:#000; font-size:11px">(flat rates)</td>
-                        <td class="px-6 py-4 text-center" style="color:#000; font-size:11px">(flat rates)</td>
-                        <td class="px-6 py-4 text-center" style="color:#000; font-size:11px">(flat rates)</td>
-                        <td class="px-6 py-4 text-center" style="color:#000; font-size:11px">(flat rates)</td>
+                      <tr class="divide-x divide-gray-200" >
+                        <td class="px-6 py-4 text-center" style="color:#000; font-size:14px"><font color="#C24641" style ="text-decoration: underline;">Johor Bahru City Centre</font></td>
+                        <td class="px-6 py-4 text-center" style="color:#000; font-size:14px">1 hr</td>
+                        <td class="px-6 py-4 text-center" style="color:#000; font-size:14px">SGD 65</td>
+                        <td class="px-6 py-4 text-center" style="color:#000; font-size:14px">SGD 80</td>
+                        <td class="px-6 py-4 text-center" style="color:#000; font-size:14px">SGD 140</td>
+                        <td class="px-6 py-4 text-center" style="color:#000; font-size:14px">SGD 140</td>
+                        <td class="px-6 py-4 text-center" style="color:#000; font-size:14px">SGD 270</td>
                       </tr>
                       
                       
@@ -123,108 +68,170 @@
                       
                     </tbody>
                     <tbody class="bg-white divide-y divide-gray-200">
-                      <tr class="divide-x divide-gray-200">
-                        
-                        <td class="px-6 py-4 text-center "><font class="font-semibold">Per</font> <font color="#C24641" style ="text-decoration: underline;">Transfer / Hourly Disposal 
-                          <font color="#C24641" style ="text-decoration: underline; font-size:11px"><br>(min. 2 hrs)</font></font> </td>
-                      <!-- <td rowspan="5">24 hours<br /> Monday to Sunday</td> -->
-                        <td class="px-6 py-4 text-center">S$<font style="color:#000; font-size:30px" >40</font></td>
-                        <td class="px-6 py-4 text-center">S$<font style="color:#000; font-size:30px" >48</font></td>
-                        <td class="px-6 py-4 text-center">S$<font style="color:#000; font-size:30px" >45</font></td>
-                        <td class="px-6 py-4 text-center">S$<font style="color:#000; font-size:30px" >55</font></td>
-                        <td class="px-6 py-4 text-center">S$<font style="color:#000; font-size:30px" >55</font></td>
-                        <td class="px-6 py-4 text-center">S$<font style="color:#000; font-size:30px" >55</font></td>
+                      <tr class="divide-x divide-gray-200" >
+                        <td class="px-6 py-4 text-center" style="color:#000; font-size:14px"><font color="#C24641" style ="text-decoration: underline;">Legoland</font></td>
+                        <td class="px-6 py-4 text-center" style="color:#000; font-size:14px">1.5 hrs</td>
+                        <td class="px-6 py-4 text-center" style="color:#000; font-size:14px">SGD 80</td>
+                        <td class="px-6 py-4 text-center" style="color:#000; font-size:14px">SGD 80</td>
+                        <td class="px-6 py-4 text-center" style="color:#000; font-size:14px">SGD 150</td>
+                        <td class="px-6 py-4 text-center" style="color:#000; font-size:14px">SGD 150</td>
+                        <td class="px-6 py-4 text-center" style="color:#000; font-size:14px">SGD 270</td>
                       </tr>
                     </tbody>
 
 
                     <tbody class="bg-theme-50 divide-gray-200 divide-x divide-gray-200">
-                      <tr class="divide-x divide-gray-200">
-                        <td class="px-6 py-2 text-left" ><font color="#C24641" style ="text-decoration: underline;">Arrival</font><br>
-                        
-                     
-                        
-                        <td class="px-6 py-4 text-center" colspan = "2">No surcharge - <font style="color:#C24641; text-decoration: underline;" >Learn More</font></td>
-                        <td class="px-6 py-4 text-center">+ S$10</td>
-                        <td class="px-6 py-4 text-center">+ S$10</td>
-                        <td class="px-6 py-4 text-center">+ S$10</td>
-                        <td class="px-6 py-4 text-center">+ S$10</td>
+                      <tr class="divide-x divide-gray-200" >
+                        <td class="px-6 py-4 text-center" style="color:#000; font-size:14px"><font color="#C24641" style ="text-decoration: underline;">Mersing</font></td>
+                        <td class="px-6 py-4 text-center" style="color:#000; font-size:14px">3 hrs</td>
+                        <td class="px-6 py-4 text-center" style="color:#000; font-size:14px">SGD 240</td>
+                        <td class="px-6 py-4 text-center" style="color:#000; font-size:14px">SGD 190</td>
+                        <td class="px-6 py-4 text-center" style="color:#000; font-size:14px">SGD 330</td>
+                        <td class="px-6 py-4 text-center" style="color:#000; font-size:14px">SGD 350</td>
+                        <td class="px-6 py-4 text-center" style="color:#000; font-size:14px">SGD 500</td>
                       </tr>
                     </tbody>
                     
 
                     <tbody class="bg-white divide-gray-200 divide-x divide-gray-200">
                       <tr class="divide-x divide-gray-200">
-                        <td class="px-6 py-2 text-left font-semibold"  colspan="7">Wedding Limo<br>
+                        <td class="px-6 py-2 text-left" colspan="2"></td>
                         
-                      </td>
+                     
+                        <td class="px-6 py-4 " colspan="1">
+                        <NuxtLink
+                        to="/book-now"
+                        class="
+                          inline-block
+                          font-medium
+                          text-white
+                          transition
+                          rounded
+                          bg-theme-700
+                          px-4
+                          py-2
+                        "
+                        >
+                          Book Now
+                        </NuxtLink>
+                        </td>
+
+                        <td class="px-6 py-4 " colspan="1">
+                        <NuxtLink
+                        to="/book-now"
+                        class="
+                          inline-block
+                          font-medium
+                          text-white
+                          transition
+                          rounded
+                          bg-theme-700
+                          px-4
+                          py-2
+                        "
+                        >
+                          Book Now
+                        </NuxtLink>
+                        </td>
+
+                        <td class="px-6 py-4 " colspan="1">
+                        <NuxtLink
+                        to="/book-now"
+                        class="
+                          inline-block
+                          font-medium
+                          text-white
+                          transition
+                          rounded
+                          bg-theme-700
+                          px-4
+                          py-2
+                        "
+                        >
+                          Book Now
+                        </NuxtLink>
+                        </td>
+
+                        <td class="px-6 py-4 " colspan="1">
+                        <NuxtLink
+                        to="/book-now"
+                        class="
+                          inline-block
+                          font-medium
+                          text-white
+                          transition
+                          rounded
+                          bg-theme-700
+                          px-4
+                          py-2
+                        "
+                        >
+                          Book Now
+                        </NuxtLink>
+                        </td>
+
+                        <td class="px-6 py-4 " colspan="1">
+                        <NuxtLink
+                        to="/book-now"
+                        class="
+                          inline-block
+                          font-medium
+                          text-white
+                          transition
+                          rounded
+                          bg-theme-700
+                          px-4
+                          py-2
+                        "
+                        >
+                          Book Now
+                        </NuxtLink>
+                        </td>
+
                       </tr>
                     </tbody>
 
 
                     <tbody class="bg-white divide-gray-200 divide-x divide-gray-200">
+                      <tr class="divide-x divide-gray-200" >
+                        <td class="px-6 py-4 text-center" style="color:#000; font-size:14px" colspan="2">Vehicle</td>
+                        <td class="px-6 py-4 text-center" style="color:#000; font-size:14px">4 Seater</td>
+                        <td class="px-6 py-4 text-center" style="color:#000; font-size:14px">6 Seater</td>
+                        <td class="px-6 py-4 text-center" style="color:#000; font-size:14px">10 Seater</td>
+                        <td class="px-6 py-4 text-center" style="color:#000; font-size:14px">6 Seater</td>
+                        <td class="px-6 py-4 text-center" style="color:#000; font-size:14px">4 Seater</td>
+                      </tr>
+                    </tbody>
+
+
+                    
+
+
+
+
+                   
+
+
+                    <tbody class="bg-white divide-gray-200 divide-x divide-gray-200">
                       <tr class="divide-x divide-gray-200">
-                        <td class="px-6 py-2 text-left" >Full Day Package<br><font style="color:#C24641; text-decoration: underline; font-size:11px" >Learn More</font><br>
+                        <td class="px-6 py-2 text-left" colspan="2">Capacity (Full Luggage)</td>
                         
                      
                         
-                        <td class="px-6 py-4 text-center" colspan = "2">N/A</td>
-                        <td class="px-6 py-4 text-center">SGD 588</td>
-                        <td class="px-6 py-4 text-center">SGD 648</td>
-                        <td class="px-6 py-4 text-center">N/A</td>
-                        <td class="px-6 py-4 text-center">SGD 588</td>
-                      </tr>
-                    </tbody>
-
-
-                    <tbody class="bg-white divide-gray-200 divide-x divide-gray-200">
-                      <tr class="divide-x divide-gray-200">
-                        <td class="px-6 py-2 text-left" >Half Day Package<br><font style="color:#C24641; text-decoration: underline; font-size:11px" >Learn More</font><br>
-                        
-                     
-                        
-                        <td class="px-6 py-4 text-center" colspan = "2">N/A</td>
-                        <td class="px-6 py-4 text-center">SGD 438</td>
-                        <td class="px-6 py-4 text-center">SGD 488</td>
-                        <td class="px-6 py-4 text-center">N/A</td>
-                        <td class="px-6 py-4 text-center">SGD 438</td>
-                      </tr>
-                    </tbody>
-
-
-                    <tbody class="bg-white divide-gray-200 divide-x divide-gray-200">
-                      <tr class="divide-x divide-gray-200">
-                        <td class="px-6 py-2 text-left" >ROM Package<br><font style="color:#C24641; text-decoration: underline; font-size:11px" >Learn More</font><br>
-                        
-                     
-                        
-                        <td class="px-6 py-4 text-center" colspan = "2">N/A</td>
-                        <td class="px-6 py-4 text-center">SGD 150</td>
-                        <td class="px-6 py-4 text-center">SGD 165</td>
-                        <td class="px-6 py-4 text-center">N/A</td>
-                        <td class="px-6 py-4 text-center">SGD 150</td>
-                      </tr>
-                    </tbody>
-
-
-                    <tbody class="bg-white divide-gray-200 divide-x divide-gray-200">
-                      <tr class="divide-x divide-gray-200">
-                        <td class="px-6 py-2 text-left font-semibold"  colspan="7">Capacity<br>
-                        
-                      </td>
-                      </tr>
-                    </tbody>
-
-
-                    <tbody class="bg-white divide-gray-200 divide-x divide-gray-200">
-                      <tr class="divide-x divide-gray-200">
-                        <td class="px-6 py-2 text-left" >Full Luggage</td>
-                        
-                     
                         
                         <td class="px-6 py-4 " colspan="1">
                         <div style="display:block;">4<img align="left" src="~assets/img/pax.gif" border="0"></div>
-                        <div style="display:block;">2<img align="left" src="~assets/img/luggage.gif" border="0"></div>
+                        <div style="display:block;">4<img align="left" src="~assets/img/luggage.gif" border="0"></div>
+                        </td>
+
+                        <td class="px-6 py-4 " colspan="1">
+                        <div style="display:block;">4<img align="left" src="~assets/img/pax.gif" border="0"></div>
+                        <div style="display:block;">4<img align="left" src="~assets/img/luggage.gif" border="0"></div>
+                        </td>
+
+                        <td class="px-6 py-4 " colspan="1">
+                        <div style="display:block;">6<img align="left" src="~assets/img/pax.gif" border="0"></div>
+                        <div style="display:block;">6<img align="left" src="~assets/img/luggage.gif" border="0"></div>
                         </td>
 
                         <td class="px-6 py-4 " colspan="1">
@@ -236,28 +243,13 @@
                         <div style="display:block;">2<img align="left" src="~assets/img/pax.gif" border="0"></div>
                         <div style="display:block;">2<img align="left" src="~assets/img/luggage.gif" border="0"></div>
                         </td>
-
-                        <td class="px-6 py-4 " colspan="1">
-                        <div style="display:block;">7<img align="left" src="~assets/img/pax.gif" border="0"></div>
-                        <div style="display:block;">7<img align="left" src="~assets/img/luggage.gif" border="0"></div>
-                        </td>
-
-                        <td class="px-6 py-4 " colspan="1">
-                        <div style="display:block;">7<img align="left" src="~assets/img/pax.gif" border="0"></div>
-                        <div style="display:block;">7<img align="left" src="~assets/img/luggage.gif" border="0"></div>
-                        </td>
-
-                        <td class="px-6 py-4 " colspan="1">
-                        <div style="display:block;">4<img align="left" src="~assets/img/pax.gif" border="0"></div>
-                        <div style="display:block;">4<img align="left" src="~assets/img/luggage.gif" border="0"></div>
-                        </td>
                       </tr>
                     </tbody>
 
 
                     <tbody class="bg-white divide-gray-200 divide-x divide-gray-200">
                       <tr class="divide-x divide-gray-200">
-                        <td class="px-6 py-2 text-left" >No Luggage</td>
+                        <td class="px-6 py-2 text-left" colspan="2">Capacity (No Luggage)</td>
                         
                      
                         
@@ -272,22 +264,17 @@
                         </td>
 
                         <td class="px-6 py-4 " colspan="1">
+                        <div style="display:block;">10<img align="left" src="~assets/img/pax.gif" border="0"></div>
+                        <div style="display:block;">0<img align="left" src="~assets/img/luggage.gif" border="0"></div>
+                        </td>
+
+                        <td class="px-6 py-4 " colspan="1">
+                        <div style="display:block;">6<img align="left" src="~assets/img/pax.gif" border="0"></div>
+                        <div style="display:block;">0<img align="left" src="~assets/img/luggage.gif" border="0"></div>
+                        </td>
+
+                        <td class="px-6 py-4 " colspan="1">
                         <div style="display:block;">4<img align="left" src="~assets/img/pax.gif" border="0"></div>
-                        <div style="display:block;">0<img align="left" src="~assets/img/luggage.gif" border="0"></div>
-                        </td>
-
-                        <td class="px-6 py-4 " colspan="1">
-                        <div style="display:block;">7<img align="left" src="~assets/img/pax.gif" border="0"></div>
-                        <div style="display:block;">0<img align="left" src="~assets/img/luggage.gif" border="0"></div>
-                        </td>
-
-                        <td class="px-6 py-4 " colspan="1">
-                        <div style="display:block;">7<img align="left" src="~assets/img/pax.gif" border="0"></div>
-                        <div style="display:block;">0<img align="left" src="~assets/img/luggage.gif" border="0"></div>
-                        </td>
-
-                        <td class="px-6 py-4 " colspan="1">
-                        <div style="display:block;">5<img align="left" src="~assets/img/pax.gif" border="0"></div>
                         <div style="display:block;">0<img align="left" src="~assets/img/luggage.gif" border="0"></div>
                         </td>
                       </tr>
@@ -295,221 +282,48 @@
 
 
                     <tbody class="bg-white divide-gray-200 divide-x divide-gray-200">
-                      <tr class="divide-x divide-gray-200">
-                        <td class="px-6 py-2 text-left" rowspan="2" >One (1) passenger on Wheelchair<br><font style="color:#C24641; text-decoration: underline; font-size:11px" >Learn More</font></td>
-                        
-                     
-                        
-                        <td class="px-6 py-4 " colspan="2" rowspan="2">
-                        <div style="display:block; text-align: center;">N/A</div>
-                        </td>
-
-                        <td class="px-6 py-4 " colspan="1" rowspan="2">
-                        <div style="display:block; text-align: center;">N/A</div>
-                        </td>
-
-                        <td class="px-6 py-4 " colspan="1" rowspan="2">
-                        <div style="display:block;">1<img align="left" src="~assets/img/wheelchair.gif" border="0"></div>
-                        <div style="display:block;">4<img align="left" src="~assets/img/pax.gif" border="0"></div>
-                        <div style="display:block;">4<img align="left" src="~assets/img/luggage.gif" border="0"></div>
-                        </td>
-
-                        <td class="px-6 py-4 " colspan="1" rowspan="2">
-                        <div style="display:block; text-align: center;">N/A</div>
-                        </td>
-
-                        <td class="px-6 py-4 " colspan="1">
-                        <div style="display:block;">1<img align="left" src="~assets/img/wheelchair.gif" border="0"></div>
-                        <div style="display:block;">3<img align="left" src="~assets/img/pax.gif" border="0"></div>
-                        <div style="display:block;">4<img align="left" src="~assets/img/luggage.gif" border="0"></div>
-                        </td>
-
-                      </tr>
-
-                      <tr class="divide-x divide-gray-200">
-                        
-                        <td class="px-6 py-4 " colspan="1">
-                        <div style="display:block;">1<img align="left" src="~assets/img/wheelchair.gif" border="0"></div>
-                        <div style="display:block;">3<img align="left" src="~assets/img/pax.gif" border="0"></div>
-                        <div style="display:block;">4<img align="left" src="~assets/img/luggage.gif" border="0"></div>
-                        </td>
-
+                      <tr class="divide-x divide-gray-200" >
+                        <td class="px-6 py-4 text-center" style="color:#000; font-size:14px" colspan="2">Height Limit<br><font style="font-size:11px;" >car park entrance</font></td>
+                        <td class="px-6 py-4 text-center" style="color:#000; font-size:14px">2 m</td>
+                        <td class="px-6 py-4 text-center" style="color:#000; font-size:14px">2m</td>
+                        <td class="px-6 py-4 text-center" style="color:#000; font-size:14px">2m</td>
+                        <td class="px-6 py-4 text-center" style="color:#000; font-size:14px">2m</td>
+                        <td class="px-6 py-4 text-center" style="color:#000; font-size:14px">1.8 m</td>
                       </tr>
                     </tbody>
 
 
                      <tbody class="bg-white divide-gray-200 divide-x divide-gray-200">
-                      <tr class="divide-x divide-gray-200">
-                        <td class="px-6 py-2 text-left" >Loading Space<br><font style="color:#C24641; text-decoration: underline; font-size:11px" >Learn More</font></td>
-                        
-                     
-                        
-                        <td class="px-6 py-4 " colspan="2">
-                        <div style="display:block; text-align: center;">N/A</div>
-                        </td>
+                      <tr class="divide-x divide-gray-200" >
+                        <td class="px-6 py-4 text-center" style="color:#000; font-size:14px" colspan="2">Pick-up &amp; Drop off (Singapore)</td>
+                        <td class="px-6 py-4 text-center" style="color:#000; font-size:14px"><font style="font-size:11px;" >Ban San Street Taxi Stand (Queen Street Bus Terminal)</font></td>
+                        <td class="px-6 py-4 text-center" style="color:#000; font-size:14px" colspan="4">Anywhere</td>
+                      </tr>
+                    </tbody>
 
-                        <td class="px-6 py-4 " colspan="1">
-                        <div style="display:block; text-align: center;">N/A</div>
-                        </td>
-
-                        <td class="px-6 py-4 " colspan="1">
-                        <div style="display:block; ">2<img align="left" src="~assets/img/pax.gif" border="0"></div>
-                        <div style="display:block;"> + 2.0m (length) x 1.0m (width) x 1.0m (height)</div>
-                        </td>
-
-                        <td class="px-6 py-4 " colspan="1">
-                        <div style="display:block; text-align: center;">N/A</div>
-                        </td>
-
-                        <td class="px-6 py-4 " colspan="1">
-                        <div style="display:block;">1.7m (length) x 1.2m (width) x 1.2m (height)</div>
-                        </td>
-
+                    <tbody class="bg-white divide-gray-200 divide-x divide-gray-200">
+                      <tr class="divide-x divide-gray-200" >
+                        <td class="px-6 py-4 text-center" style="color:#000; font-size:14px" colspan="2">Customs<br><font style="font-size:11px;" >open 24 hrs daily<br>peak hrs: 4am-8am &amp; 4pm-8pm daily</font></td>
+                        <td class="px-6 py-4 text-left" style="color:#000; font-size:14px" colspan="5">• Seamless travel via <strong>Car Lane at Immigration</strong> - Passenger(s) stays in vehicle for the entire journey. No getting down or changing vehicle required.<br><br>• Driver will take the fastest route via Woodlands or Tuas depending on traffic conditions.</td>
                       </tr>
                     </tbody>
 
 
                     <tbody class="bg-white divide-gray-200 divide-x divide-gray-200">
-                      <tr class="divide-x divide-gray-200">
-                        <td class="px-6 py-2 text-left font-semibold"  colspan="7">Specifications<br>
-                        
-                      </td>
+                      <tr class="divide-x divide-gray-200" >
+                        <td class="px-6 py-4 text-center" style="color:#000; font-size:14px" colspan="2">Includes</td>
+                        <td class="px-6 py-4 text-left" style="color:#000; font-size:14px" colspan="3">• Private limo door-to-door service. By law, Executive Taxi may only pick-up or drop off at Ban San Street Taxi Stand (Queen Street Bus Terminal) in Singapore.<br><br>• Inclusive of fuel, insurance, toll fees (ERP).<br><br>• Complimentary 15 mins waiting time for pickup. Arrival transfers enjoy up to 60 mins. Additional waiting surcharge of SGD 10 for every 10 mins applies thereafter, capped at 20 mins. <strong>An additional SGD 80 per hour is applicable for the driver to continue waiting after the initial 20 mins. Subject to driver's availability on the day of transfer. </strong></td>
+                        <td class="px-6 py-4 text-left" style="color:#000; font-size:14px" colspan="3">• Fits 1 x medium suitcases &amp; 1 x small hand luggage items per passenger for traveling with luggage.<br><br>• Driver will take you to / from the accommodation address you provide on STEP 1 of the booking process.<br><br>• Vehicle will be upgraded to one with greater capacity if the selected vehicle is unavailable.<br><br>• No extra fees for online booking &amp; payment.</td>
                       </tr>
                     </tbody>
 
 
                     <tbody class="bg-white divide-gray-200 divide-x divide-gray-200">
-                      <tr class="divide-x divide-gray-200">
-                        <td class="px-6 py-2 text-left" >Height Limit<br><font  style="font-size:11px" >car park entrance</font></td>
-                        
-                     
-                        
-                        <td class="px-6 py-4 " colspan="1">
-                        <div style="display:block; text-align: center;">1.8 m</div>
-                        </td>
-
-                        <td class="px-6 py-4 " colspan="1">
-                        <div style="display:block; text-align: center;">2 m</div>
-                        </td>
-
-                        <td class="px-6 py-4 " colspan="1">
-                        <div style="display:block; text-align: center;">1.8 m</div>
-                        </td>
-
-                        <td class="px-6 py-4 " colspan="1">
-                        <div style="display:block; ">2 m</div>
-                        </td>
-
-                        <td class="px-6 py-4 " colspan="1">
-                        <div style="display:block; text-align: center;">2 m</div>
-                        </td>
-
-                        <td class="px-6 py-4 " colspan="1">
-                        <div style="display:block;">2 m</div>
-                        </td>
+                      <tr class="divide-x divide-gray-200" >
+                        <td class="px-6 py-4 text-center" style="color:#000; font-size:14px" colspan="2">Availability</td>
+                        <td class="px-6 py-4 text-left" style="color:#000; font-size:14px" colspan="5">• Only available via online booking and payment.<br><br>• Available 24 hours daily including Public Holidays with bookings &amp; payment made online 24 hours in advance. Please book 2-5 days in advance for long-distance trips to Malacca and beyond.<br><br>• For travel within Singapore, Malaysia and Thailand only.</td>
                       </tr>
                     </tbody>
-
-
-                    <tbody class="bg-white divide-gray-200 divide-x divide-gray-200">
-                      <tr class="divide-x divide-gray-200">
-                        <td class="px-6 py-2 text-left" >Vehicle Colour<br><font  style="font-size:11px" >only available in</font></td>
-                        
-                     
-                        
-                        <td class="px-6 py-4 " colspan="2">
-                        <div style="display:block; text-align: center;">N/A</div>
-                        </td>
-
-                        <td class="px-6 py-4 " colspan="1">
-                        <div style="display:block; text-align: center;">White</div>
-                        </td>
-
-                        <td class="px-6 py-4 " colspan="1">
-                        <div style="display:block; ">White</div>
-                        </td>
-
-                        <td class="px-6 py-4 " colspan="1">
-                        <div style="display:block; text-align: center;">Black/White</div>
-                        </td>
-
-                        <td class="px-6 py-4 " colspan="1">
-                        <div style="display:block;">White</div>
-                        </td>
-                      </tr>
-                    </tbody>
-
-
-                    <tbody class="bg-white divide-gray-200 divide-x divide-gray-200">
-                      <tr class="divide-x divide-gray-200">
-                        <td class="px-6 py-2 text-left font-semibold"  colspan="7">Availability<br>
-                        
-                      </td>
-                      </tr>
-                    </tbody>
-
-
-                    <tbody class="bg-white divide-gray-200 divide-x divide-gray-200">
-                      <tr class="divide-x divide-gray-200">
-                        <td class="px-6 py-2 text-left" >Current Bookings<br><font  style="font-size:11px" >within 3 hours by phone</font></td>
-                        
-                     
-                        
-                        <td class="px-6 py-4 " colspan="2">
-                        <div style="display:block; text-align: center;">N/A</div>
-                        </td>
-
-                        <td class="px-6 py-4 " colspan="1">
-                        <div style="display:block; text-align: center;">Immediate<br><font  style="font-size:11px" >subject to availability</font></div>
-                        </td>
-
-                        <td class="px-6 py-4 " colspan="1">
-                        <div style="display:block; text-align: center;">Immediate<br><font  style="font-size:11px" >subject to availability</font></div>
-                        </td>
-
-                        <td class="px-6 py-4 " colspan="1">
-                        <div style="display:block; text-align: center;">Immediate<br><font  style="font-size:11px" >subject to availability</font></div>
-                        </td>
-
-                        <td class="px-6 py-4 " colspan="1">
-                        <div style="display:block; text-align: center;">3 hrs<br><font  style="font-size:11px" >in advance</font></div>
-                        </td>
-                      </tr>
-                    </tbody>
-
-
-                    <tbody class="bg-white divide-gray-200 divide-x divide-gray-200">
-                      <tr class="divide-x divide-gray-200">
-                        <td class="px-6 py-2 text-left" >Advance Bookings</td>
-                        
-                     
-                        
-                        <td class="px-6 py-4 " colspan="1">
-                        <div style="display:block; text-align: center;">14 hrs<font  style="font-size:11px" >in advance</font></div>
-                        </td>
-
-                        <td class="px-6 py-4 " colspan="1">
-                        <div style="display:block; text-align: center;">14 hrs<font  style="font-size:11px" >in advance</font></div>
-                        </td>
-
-                        <td class="px-6 py-4 " colspan="1">
-                        <div style="display:block; text-align: center;">14 hrs<font  style="font-size:11px" >in advance</font></div>
-                        </td>
-
-                        <td class="px-6 py-4 " colspan="1">
-                        <div style="display:block; text-align: center;">14 hrs<font  style="font-size:11px" >in advance</font></div>
-                        </td>
-
-                        <td class="px-6 py-4 " colspan="1">
-                        <div style="display:block; text-align: center;">14 hrs<font  style="font-size:11px" >in advance</font></div>
-                        </td>
-
-                        <td class="px-6 py-4 " colspan="1">
-                        <div style="display:block; text-align: center;">14 hrs<font  style="font-size:11px" >in advance</font></div>
-                        </td>
-                      </tr>
-                    </tbody>
-
 
                     <tbody class="bg-white divide-gray-200 divide-x divide-gray-200">
                       <tr class="divide-x divide-gray-200">
@@ -629,79 +443,203 @@
                     </tbody>
 
 
-                    <tbody class="bg-white divide-gray-200 divide-x divide-gray-200">
+
+
+
+
+
+                    <tbody class="bg-theme-50 divide-gray-200 divide-x divide-gray-200">
                       <tr class="divide-x divide-gray-200">
-                        <td class="px-6 py-2 text-left" rowspan="3" >Private Limousine<br><font  style="font-size:11px" >unmarked vehicles without taxi sign</font></td>
-                        
-                        <td colspan="1" id="mercedes" width="130" height= "130"  class="text-center"  ><a href=""><center><img src="~assets/img/mercedes-e-class.jpg"  width="100" alt="mercedes" class="center"></center></a> <b><a href="https://www.limousinetransport.com/singapore/mercedes-cab/" style="color:#000; font-size:14px" class="text-center" >Mercedes E Class</a></b></td>
-
-                        <td colspan="1" id="mercedes" width="130" height= "130"  class="text-center"  ><a href=""><center><img src="~assets/img/mercedes-minivan.jpg"  width="100" alt="mercedes" class="center"></center></a> <b><a href="https://www.limousinetransport.com/singapore/mercedes-cab/" style="color:#000; font-size:14px" class="text-center" >Mercedes Minivan</a></b></td>
-
-                        <td colspan="1" id="mercedes" width="130" height= "130"  class="text-center"  ><a href=""><center><img src="~assets/img/toyota-mpv.jpg"  width="100" alt="mercedes" class="center"></center></a> <b><a href="https://www.limousinetransport.com/singapore/mercedes-cab/" style="color:#000; font-size:14px" class="text-center" >Toyota MPV</a></b></td>
-
-                        <td colspan="1" id="mercedes" width="130" height= "130"  class="text-center"  ><a href=""><center><img src="~assets/img/minibus.jpg"  width="100" alt="mercedes" class="center"></center></a> <b><a href="https://www.limousinetransport.com/singapore/mercedes-cab/" style="color:#000; font-size:14px" class="text-center" >Minibus</a></b></td>
-
-                        <td colspan="1" id="mercedes" width="130" height= "130"  class="text-center"  ><a href=""><center><img src="~assets/img/mini-coach.jpg"  width="100" alt="mercedes" class="center"></center></a> <b><a href="https://www.limousinetransport.com/singapore/mercedes-cab/" style="color:#000; font-size:14px" class="text-center" >Mini Coach</a></b></td>
-
-                        <td colspan="1" id="mercedes" width="130" height= "130"  class="text-center"  ><a href=""><center><img src="~assets/img/coach-bus.jpg"  width="100" alt="mercedes" class="center"></center></a> <b><a href="https://www.limousinetransport.com/singapore/mercedes-cab/" style="color:#000; font-size:14px" class="text-center" >Coach Bus</a></b></td>
-
-                      </tr>
-
-                      <tr class="divide-x divide-gray-200">
-                        
-                        <td colspan="1" width="130" height= "130"  class="text-center"  >Mercedes E Class</td>
-
-                        <td colspan="1" width="130" height= "130"  class="text-center"  >Mercedes Vito / Viano</td>
-
-                        <td colspan="1" width="130" height= "130"  class="text-center"  >Toyota Alphard</td>
-
-                        <td colspan="1" width="130" height= "130"  class="text-center"  >Toyota Hi-Roof</td>
-
-                        <td colspan="1" width="130" height= "130"  class="text-center"  >Toyota Coaster</td>
-
-                        <td colspan="1" width="130" height= "130"  class="text-center"  >Coach Bus</td>
-
-                      </tr>
-
-                      <tr class="bg-white divide-x divide-gray-200">
-                        
-                        <td class="px-6 py-4 text-center " style="color:#000; font-size:11px">(flat rates)</td>
-                        <td class="px-6 py-4 text-center" style="color:#000; font-size:11px">(flat rates)</td>
-                        <td class="px-6 py-4 text-center" style="color:#000; font-size:11px">(flat rates)</td>
-                        <td class="px-6 py-4 text-center" style="color:#000; font-size:11px">(flat rates)</td>
-                        <td class="px-6 py-4 text-center" style="color:#000; font-size:11px">(flat rates)</td>
-                        <td class="px-6 py-4 text-center" style="color:#000; font-size:11px">(flat rates)</td>
-                      </tr>
-                    </tbody>
-
-
-                    <tbody class="bg-theme-50 divide-y divide-gray-200">
-                      <tr class="divide-x divide-gray-200">
-                        
-                        <td class="px-6 py-4 text-center "><font class="font-semibold">Per</font> <font color="#C24641" style ="text-decoration: underline;">Transfer / Hourly Disposal 
-                          <font color="#C24641" style ="text-decoration: underline; font-size:11px"><br>(min. 2 hrs)</font></font> </td>
-                      <!-- <td rowspan="5">24 hours<br /> Monday to Sunday</td> -->
-                        <td class="px-6 py-4 text-center">S$<font style="color:#000; font-size:30px" >55</font></td>
-                        <td class="px-6 py-4 text-center">S$<font style="color:#000; font-size:30px" >55</font></td>
-                        <td class="px-6 py-4 text-center">S$<font style="color:#000; font-size:30px" >55</font></td>
-                        <td class="px-6 py-4 text-center">S$<font style="color:#000; font-size:30px" >55</font></td>
-                        <td class="px-6 py-4 text-center">S$<font style="color:#000; font-size:30px" >85</font></td>
-                        <td class="px-6 py-4 text-center">S$<font style="color:#000; font-size:30px" >105</font></td>
-                      </tr>
-                    </tbody>
-
-
-                    <tbody class="bg-white divide-gray-200 divide-x divide-gray-200">
-                      <tr class="divide-x divide-gray-200">
-                        <td class="px-6 py-2 text-left" ><font color="#C24641" style ="text-decoration: underline;">Arrival</font><br>
+                        <td class="px-6 py-2 text-left" >Johor</td>
                         
                      
-                        <td class="px-6 py-4 text-center">+ S$10</td>
-                        <td class="px-6 py-4 text-center">+ S$10</td>
-                        <td class="px-6 py-4 text-center">+ S$10</td>
-                        <td class="px-6 py-4 text-center">+ S$10</td>
-                        <td class="px-6 py-4 text-center">+ S$10</td>
-                        <td class="px-6 py-4 text-center">N/A</td>
+                        <td class="px-6 py-4 " colspan="1">
+                        <div style="display:block; text-align: center;">w/o <br>traffic</div>
+                        </td>
+
+                        <td class="px-6 py-4 " colspan="1">
+                        <div style="display:block; text-align: center;">per way<br>(flat rates)</div>
+                        </td>
+
+                        <td class="px-6 py-4 " colspan="1">
+                        <div style="display:block; text-align: center;">per way<br>(flat rates)</div>
+                        </td>
+
+                        <td class="px-6 py-4 " colspan="1">
+                        <div style="display:block; text-align: center;">per way<br>(flat rates)</div>
+                        </td>
+
+                        <td class="px-6 py-4 " colspan="1">
+                        <div style="display:block; text-align: center;">per way<br>(flat rates)</div>
+                        </td>
+
+                        <td class="px-6 py-4 " colspan="1">
+                        <div style="display:block; text-align: center;">per way<br>(flat rates)</div>
+                        </td>
+                      </tr>
+                    </tbody>
+
+
+                    <tbody class="bg-white divide-gray-200 divide-x divide-gray-200">
+                      <tr class="divide-x divide-gray-200">
+                        <td class="px-6 py-2 text-left" >Johor Bahru City Centre <br>• JB City Square<br>• Komtar JBCC<br>• Galleria @ Kotaraya<br>• KSL City Mall, KSL Resort &amp; Hotel<br>• Thistle Hotel Johor Bahru<br>• Grand Paragon Hotel Johor Bahru<br>• DoubleTree by Hilton<br>• Persada Johor International Convention Centre<br>• Danga Bay<br>• Plaza Sentosa<br>• Johor Golf &amp; Country Club<br>• Ponderosa Golf &amp; Country Club<br>• Daiman 18 Golf Club</td>
+                        
+                     
+                        
+                        <td class="px-6 py-4 " colspan="1">
+                        <div style="display:block; text-align: center;">1 hrs</div>
+                        </td>
+
+                        <td class="px-6 py-4 " colspan="1">
+                        <div style="display:block; text-align: center;">SGD 65</div>
+                        </td>
+
+                        <td class="px-6 py-4 " colspan="1">
+                        <div style="display:block; text-align: center;">SGD 80</div>
+                        </td>
+
+                        <td class="px-6 py-4 " colspan="1">
+                        <div style="display:block; text-align: center;">SGD 140</div>
+                        </td>
+
+                        <td class="px-6 py-4 " colspan="1">
+                        <div style="display:block; text-align: center;">SGD 140</div>
+                        </td>
+
+                        <td class="px-6 py-4 " colspan="1">
+                        <div style="display:block; text-align: center;">SGD 270</div>
+                        </td>
+                      </tr>
+                    </tbody>
+
+
+                    <tbody class="bg-white divide-gray-200 divide-x divide-gray-200">
+                      <tr class="divide-x divide-gray-200">
+                        <td class="px-6 py-2 text-left" >Iskandar Puteri<br>(Previously Nusajaya) <br>• LEGOLAND® Malaysia Resort - LEGOLAND® Theme Park, Water Park and Hotel<br>• Mall of Medini<br>• Puteri Harbour<br>• The Little Red Cube - Sanrio Hello Kitty Town, The Little Big Club, Lat's Place (Puteri Harbour)<br>• Hotel Jen Puteri Harbour<br>• Kota Iskandar<br>• Bukit Indah<br>• Poresia Country Club<br>• Horizon Hills, Horizon Hills Golf &amp; Country Club<br>• Educity<br>• Ledang Heights<br>• East Ledang<br>• Medini<br>• Pinewood Iskandar Studios<br>• Avira Wellness Resort<br>• Leisure Farm Resort</td>
+                        
+                     
+                        
+                        <td class="px-6 py-4 " colspan="1">
+                        <div style="display:block; text-align: center;">1.5 hrs</div>
+                        </td>
+
+                        <td class="px-6 py-4 " colspan="1">
+                        <div style="display:block; text-align: center;">SGD 80</div>
+                        </td>
+
+                        <td class="px-6 py-4 " colspan="1">
+                        <div style="display:block; text-align: center;">SGD 80</div>
+                        </td>
+
+                        <td class="px-6 py-4 " colspan="1">
+                        <div style="display:block; text-align: center;">SGD 150</div>
+                        </td>
+
+                        <td class="px-6 py-4 " colspan="1">
+                        <div style="display:block; text-align: center;">SGD 150</div>
+                        </td>
+
+                        <td class="px-6 py-4 " colspan="1">
+                        <div style="display:block; text-align: center;">SGD 270</div>
+                        </td>
+                      </tr>
+                    </tbody>
+
+
+                   <tbody class="bg-white divide-gray-200 divide-x divide-gray-200">
+                      <tr class="divide-x divide-gray-200">
+                        <td class="px-6 py-2 text-left" >Larkin<br>• Larkin Bus Terminal</td>
+                        
+                     
+                        
+                        <td class="px-6 py-4 " colspan="1">
+                        <div style="display:block; text-align: center;">1.5 hrs</div>
+                        </td>
+
+                        <td class="px-6 py-4 " colspan="1">
+                        <div style="display:block; text-align: center;">SGD 51</div>
+                        </td>
+
+                        <td class="px-6 py-4 " colspan="1">
+                        <div style="display:block; text-align: center;">SGD 80</div>
+                        </td>
+
+                        <td class="px-6 py-4 " colspan="1">
+                        <div style="display:block; text-align: center;">SGD 140</div>
+                        </td>
+
+                        <td class="px-6 py-4 " colspan="1">
+                        <div style="display:block; text-align: center;">SGD 140</div>
+                        </td>
+
+                        <td class="px-6 py-4 " colspan="1">
+                        <div style="display:block; text-align: center;">SGD 270</div>
+                        </td>
+                      </tr>
+                    </tbody>
+
+                    <tbody class="bg-white divide-gray-200 divide-x divide-gray-200">
+                      <tr class="divide-x divide-gray-200">
+                        <td class="px-6 py-2 text-left" >Skudai<br>• Sutera Mall</td>
+                        
+                     
+                        
+                        <td class="px-6 py-4 " colspan="1">
+                        <div style="display:block; text-align: center;">1.5 hrs</div>
+                        </td>
+
+                        <td class="px-6 py-4 " colspan="1">
+                        <div style="display:block; text-align: center;">SGD 70</div>
+                        </td>
+
+                        <td class="px-6 py-4 " colspan="1">
+                        <div style="display:block; text-align: center;">SGD 100</div>
+                        </td>
+
+                        <td class="px-6 py-4 " colspan="1">
+                        <div style="display:block; text-align: center;">SGD 150</div>
+                        </td>
+
+                        <td class="px-6 py-4 " colspan="1">
+                        <div style="display:block; text-align: center;">SGD 150</div>
+                        </td>
+
+                        <td class="px-6 py-4 " colspan="1">
+                        <div style="display:block; text-align: center;">SGD 270</div>
+                        </td>
+                      </tr>
+                    </tbody>
+
+
+                    <tbody class="bg-white divide-gray-200 divide-x divide-gray-200">
+                      <tr class="divide-x divide-gray-200">
+                        <td class="px-6 py-2 text-left" >Skudai<br>• Sutera Mall</td>
+                        
+                     
+                        
+                        <td class="px-6 py-4 " colspan="1">
+                        <div style="display:block; text-align: center;">1.5 hrs</div>
+                        </td>
+
+                        <td class="px-6 py-4 " colspan="1">
+                        <div style="display:block; text-align: center;">SGD 70</div>
+                        </td>
+
+                        <td class="px-6 py-4 " colspan="1">
+                        <div style="display:block; text-align: center;">SGD 100</div>
+                        </td>
+
+                        <td class="px-6 py-4 " colspan="1">
+                        <div style="display:block; text-align: center;">SGD 150</div>
+                        </td>
+
+                        <td class="px-6 py-4 " colspan="1">
+                        <div style="display:block; text-align: center;">SGD 150</div>
+                        </td>
+
+                        <td class="px-6 py-4 " colspan="1">
+                        <div style="display:block; text-align: center;">SGD 270</div>
+                        </td>
                       </tr>
                     </tbody>
 

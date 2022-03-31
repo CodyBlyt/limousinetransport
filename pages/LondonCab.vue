@@ -2,13 +2,13 @@
   <div>
     <div class="py-12 select-none bg-theme-700">
       <div class="text-xl font-semibold text-center text-white sm:text-4xl">
-        Maxi Cab
+        London Cab
       </div>
     </div>
       <div class="max-w-6xl px-4 mx-auto prose text-justify"><br><br>
-        <img src="~assets/img/maxi-cab.jpg" alt="Paris" class="center">
-        <p style="font-size:11px;" class="center">*For illustrative purposes only. Limousine Cabs come with taxi signs. Maxi Cabs are only available in
-white. Private<font style="color:#C24641; text-decoration: underline;" > Minivan</font> limos are available here.</p>
+        <img src="~assets/img/london-cab-home.jpg" alt="Paris" class="center">
+        <p style="font-size:11px;" class="center">*For illustrative purposes only. Limousine Cabs come with taxi signs. London Cab is only available in
+white. Private<font style="color:#C24641; text-decoration: underline;" >Minivan</font> <font style="color:#C24641; text-decoration: underline;" >limos</font> are available <font style="color:#C24641; text-decoration: underline;" >here</font>.</p>
 			</div>
      <section>
    <div>
@@ -52,7 +52,7 @@ white. Private<font style="color:#C24641; text-decoration: underline;" > Minivan
                             text-left
                           "
                         >
-                        Maxi Cab Transfer Type
+                        Flat rates
                         </th>
                         <th
                           colspan = "1"
@@ -109,7 +109,7 @@ white. Private<font style="color:#C24641; text-decoration: underline;" > Minivan
                       <tr class="divide-x divide-gray-200">
                         
                      
-                        <td class="px-6 py-4 text-left"><font style ="text-decoration: underline;">Maxi Cab Transfer</font></td>
+                        <td class="px-6 py-4 text-left"><font style ="text-decoration: underline;">London Cab Transfer</font></td>
                         <td class="px-6 py-4 text-left">$55</td>
                         <td class="px-6 py-4 text-left">$67</td>
                         <td class="px-6 py-4 text-left"><font style ="color:#C24641; text-decoration: underline;">Learn More</font></td>
@@ -150,7 +150,7 @@ white. Private<font style="color:#C24641; text-decoration: underline;" > Minivan
                       <tr class="divide-x divide-gray-200">
                         
                      
-                        <td class="px-6 py-4 text-left" colspan="4">Flat rates quoted in Singapore Dollars (SGD), per vehicle per transfer. Learn more about the <font style="color:#C24641; text-decoration: underline;" >applicable surcharge</font> or compare Limousine Cab <font style="color:#C24641; text-decoration: underline;" >rates</font>here.</td>
+                        <td class="px-6 py-4 text-left" colspan="4"><font style="color:#C24641; text-decoration: underline;" >Flat rates</font>  quoted in Singapore Dollars (SGD), per vehicle per transfer / hour. Learn more about the <font style="color:#C24641; text-decoration: underline;" >applicable surcharge</font> or compare Limousine Cab <font style="color:#C24641; text-decoration: underline;" >rates</font>.</td>
                       </tr>
                     </tbody>
                   </table>
@@ -166,13 +166,97 @@ white. Private<font style="color:#C24641; text-decoration: underline;" > Minivan
 
 
 <hr>
+ <div class="max-w-6xl px-4 mx-auto prose text-justify"><br><br>
+        <img src="~assets/img/london-cab-seating-capacity.jpg" alt="Paris" class="center">
+			</div>
+      
+      <div class="max-w-6xl px-4 py-12 mx-auto space-y-6"> 
+        <h3 style="font-size:28px;"><a name="Singapore Changi Airport" href="#"><b>London Cab Seating Capacity</b></a></h3>
+      <p>No Luggage:</p><div style="display:block;">5<img align="left" src="~assets/img/pax.gif" border="0"></div>
+                        <div style="display:block;">0<img align="left" src="~assets/img/luggage.gif" border="0"></div>
+      <p>With Luggage:</p><div style="display:block;">4<img align="left" src="~assets/img/pax.gif" border="0"></div>
+                        <div style="display:block;">4<img align="left" src="~assets/img/luggage.gif" border="0"></div>
+      <p>With Wheelchair:</p><div style="display:block;">3<img align="left" src="~assets/img/pax.gif" border="0"></div>
+                        <div style="display:block;">4<img align="left" src="~assets/img/luggage.gif" border="0"></div>
+                        <div style="display:block;">1<img align="left" src="~assets/img/wheelchair.gif" border="0"></div>
+      
+      
+      
+      </div>
+      
+      
+
+<hr>
 
 
      <div class="max-w-6xl px-4 mx-auto prose text-justify"><br><br>
-        <img src="~assets/img/airport-arrival-transfer.jpg" alt="Paris" class="center">
+        <img src="~assets/img/london-cab-features.jpg" alt="Paris" class="center">
 			</div>
      <section>
-       <br><h2 style="font-size:28px;" class="center"><a name="Singapore Changi Airport" href="#"><b>Maxi Cab Package Rates</b></a></h2>
+       <br><h2 style="font-size:28px;" class="center"><a name="Singapore Changi Airport" href="#"><b>London Cab Wheelchair Transfer</b></a></h2>
+   <div class="Table1">
+      <div class="max-w-6xl px-4 py-12 mx-auto space-y-6">
+        <div class="space-y-6">
+          
+          <div class="flex flex-col">
+            <div class="-my-2 overflow-x-auto sm:-mx-6 lg:-mx-8">
+              <div
+                class="
+                  inline-block
+                  min-w-full
+                  py-2
+                  align-middle
+                  sm:px-6
+                  lg:px-8
+                "
+              >
+                <div
+                  class="
+                    overflow-hidden
+                    border-b border-gray-200
+                    shadow
+                    sm:rounded-lg
+                  "
+                >
+                  <table class="min-w-full divide-y divide-gray-200">
+                    <thead class="bg-theme-100 bg-white " >
+                     
+                    </thead>
+                    
+                    <tbody class="bg-theme-50 divide-gray-200 divide-x divide-gray-200">
+                      <tr class="divide-x divide-gray-200">
+                        <td class="px-6 py-4 text-left"></td>
+                        <td class="px-6 py-4 text-left">Normal</td>
+                        <td class="px-6 py-4 text-left">Midnight</td>
+                      </tr>
+                    </tbody>
+                    <tbody class="bg-theme-50 divide-gray-200 divide-x divide-gray-200">
+                      <tr class="divide-x divide-gray-200">
+                        <td class="px-6 py-4 text-left">Wheelchair Transfer</td>
+                        <td class="px-6 py-4 text-left">$55</td>
+                        <td class="px-6 py-4 text-left">$62</td>
+                      </tr>
+                    </tbody>
+                  </table>
+                  
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      </div>
+    </section>
+    
+
+
+<hr>
+
+ <div class="max-w-6xl px-4 mx-auto prose text-justify"><br><br>
+        <img src="~assets/img/london-cab-home.jpg" alt="Paris" class="center">
+			</div>
+     <section>
+       <br><h2 style="font-size:28px;" class="center"><a name="Singapore Changi Airport" href="#"><b>London Cab Package Rates</b></a></h2>
    <div class="Table1">
       <div class="max-w-6xl px-4 py-12 mx-auto space-y-6">
         <div class="space-y-6">
@@ -232,32 +316,45 @@ white. Private<font style="color:#C24641; text-decoration: underline;" > Minivan
     </section>
     
 
+    <hr>
+   
 
+
+<div class="max-w-6xl px-4 mx-auto prose text-justify"><br><br>
+        <img src="~assets/img/london-cab-maneuverability.jpg" alt="Paris" class="center">
+			</div>
+      
+      <div class="max-w-6xl px-4 py-12 mx-auto space-y-6"> 
+      <h2 style="font-size:28px;"><a name="Singapore Changi Airport" href="#"><b>Maneuverability of a London Cab</b></a></h2>
+      <p>Remarkably engineered, the London Cab features a legendary tight turning circle that is the envy of others. Greater manoeuvrability means easier, safer and convenient operation for the driver and passengers.<br><br>The tight turning circle is of constant benefit on busy city streets in congested traffic.</p>
+</div>
 <hr>
 
-
-    <div class="max-w-6xl px-4 mx-auto prose text-justify"><br><br>
-        <img src="~assets/img/seating-capacity.jpg" alt="Paris" class="center">
+<div class="max-w-6xl px-4 mx-auto prose text-justify"><br><br>
+        <img src="~assets/img/london-cab-suspension.jpg" alt="Paris" class="center">
 			</div>
+      
       <div class="max-w-6xl px-4 py-12 mx-auto space-y-6"> 
-        <h3 style="font-size:28px;"><a name="Singapore Changi Airport" href="#"><b>Maxi Cab Seating Capacity</b></a></h3>
-      <p>No Luggage:</p><div style="display:block;">7<img align="left" src="~assets/img/pax.gif" border="0"></div>
-                        <div style="display:block;">0<img align="left" src="~assets/img/luggage.gif" border="0"></div>
-      </div>
+      <h2 style="font-size:28px;"><a name="Singapore Changi Airport" href="#"><b>LTI TXI Suspension</b></a></h2>
+      <p>The new all-round coil suspension system with anti-roll control improves driver stability when cornering and gives passengers a feeling of security and comfort when seated in the back.<br><br>The 6-seater London Cab's suspension is designed to meet the comfort standards expected of a modern passenger vehicle and has been developed for all situations whether you are driving alone or carrying five passengers.</p>
+</div>
+<hr>
+
+<div class="max-w-6xl px-4 mx-auto prose text-justify"><br><br>
+        <img src="~assets/img/london-cab-wedding-limousine.jpg" alt="Paris" class="center">
+			</div>
+      
       <div class="max-w-6xl px-4 py-12 mx-auto space-y-6"> 
-      <p>With Luggage:</p><div style="display:block;">7<img align="left" src="~assets/img/pax.gif" border="0"></div>
-                        <div style="display:block;">7<img align="left" src="~assets/img/luggage.gif" border="0"></div>
-      </div>
+      <h2 style="font-size:28px;"><a name="Singapore Changi Airport" href="#"><b>London Cab for your Wedding Limousine</b></a></h2>
+      <p>London Cab is one of the most popular choice available for wedding limousine service with its stylish and distinctive exterior body styling.<br><br>Fetch your bride in the age-old traditional Chinese wedding ceremony at the crack of dawn and drive you and your bride around Singapore for that picture taking session.<br><br>Wedding limousine decor will be one day before the actual event at your bridal shop.</p>
+</div>
+<hr>
 
-
-      <hr>
-
-
-     <div class="max-w-6xl px-4 mx-auto prose text-justify"><br><br>
-        <img src="~assets/img/airport-arrival-transfer.jpg" alt="Paris" class="center">
+<div class="max-w-6xl px-4 mx-auto prose text-justify"><br><br>
+        <img src="~assets/img/london-cab-home.jpg" alt="Paris" class="center">
 			</div>
      <section>
-       <br><h2 style="font-size:28px;" class="center"><a name="Singapore Changi Airport" href="#"><b>Maxi Cab Services</b></a></h2>
+       <br><h2 style="font-size:28px;" class="center"><a name="Singapore Changi Airport" href="#"><b>London Cab Wedding Limousine</b></a></h2>
    <div class="Table1">
       <div class="max-w-6xl px-4 py-12 mx-auto space-y-6">
         <div class="space-y-6">
@@ -290,27 +387,35 @@ white. Private<font style="color:#C24641; text-decoration: underline;" > Minivan
                     <tbody class="bg-white divide-gray-200 divide-x divide-gray-200">
                       <tr class="divide-x divide-gray-200">
                         <td class="px-6 py-4 text-left"></td>
-                        <td class="px-6 py-4 text-left">Normal</td>
-                        <td class="px-6 py-4 text-left">Midnight</td>
-                      </tr>
-                    </tbody>
-                    <tbody class="bg-white divide-gray-200 divide-x divide-gray-200">
-                      <tr class="divide-x divide-gray-200">
-                        <td class="px-6 py-4 text-left">Item Transfer (Pick &amp; Go)</td>
-                        <td class="px-6 py-4 text-left">$65</td>
-                        <td class="px-6 py-4 text-left">$75</td>
+                        <td class="px-6 py-4 text-left">Rates</td>
                       </tr>
                     </tbody>
                     <tbody class="bg-theme-50 divide-gray-200 divide-x divide-gray-200">
                       <tr class="divide-x divide-gray-200">
-                        <td class="px-6 py-4 text-left">Item Transfer (2 Hrs Disposal)</td>
-                        <td class="px-6 py-4 text-left">$110</td>
-                        <td class="px-6 py-4 text-left">$120</td>
+                        <td class="px-6 py-4 text-left">Full-Day Wedding Package<br>- Up to 12 consecutive hrs usage. Additional hours at $55 per hour<br>- Complimentary 30 mins usage on wedding eve for bridal car deco at your deco shop.</td>
+                        <td class="px-6 py-4 text-left">$588</td>
+                      </tr>
+                    </tbody>
+                    <tbody class="bg-white divide-gray-200 divide-x divide-gray-200">
+                      <tr class="divide-x divide-gray-200">
+                        <td class="px-6 py-4 text-left">Half-Day Wedding Package<br>- Up to 8 consecutive hrs usage. Additional hours at $55 per hour<br>- Complimentary 30 mins usage on wedding eve for bridal car deco at your deco shop.</td>
+                        <td class="px-6 py-4 text-left">$150</td>
+                      </tr>
+                    </tbody>
+                    <tbody class="bg-theme-50 divide-gray-200 divide-x divide-gray-200">
+                      <tr class="divide-x divide-gray-200">
+                        <td class="px-6 py-4 text-left">ROM Package (3 Hrs)<br>- Additional hours at $55 per hour thereafter</td>
+                        <td class="px-6 py-4 text-left">$150</td>
+                      </tr>
+                    </tbody>
+                    <tbody class="bg-white divide-gray-200 divide-x divide-gray-200">
+                      <tr class="divide-x divide-gray-200">
+                        <td class="px-6 py-4 text-left" colspan="2">Flat rates quoted in Singapore Dollars (SGD), per wedding vehicle per package.</td>
                       </tr>
                     </tbody>
                   </table>
                   
-                </div><p>Excludes: Additional S$12 per hour for midnight surcharge (23:00 - 06:59 Hrs). Learn more about the <font style="color:#C24641; text-decoration: underline;" >applicable surcharge</font> or compare Limousine Cab <font style="color:#C24641; text-decoration: underline;" >rates</font>.</p>
+                </div>
               </div>
             </div>
           </div>
@@ -318,58 +423,7 @@ white. Private<font style="color:#C24641; text-decoration: underline;" > Minivan
       </div>
       </div>
     </section>
-    
-
-
-<hr>
-
-
-<div class="max-w-6xl px-4 mx-auto prose text-justify"><br><br>
-        <img src="~assets/img/layouts.jpg" alt="Paris" class="center">
-			</div>
-      
-      <div class="max-w-6xl px-4 py-12 mx-auto space-y-6"> 
-      <h2 style="font-size:28px;"><a name="Singapore Changi Airport" href="#"><b>Flexible Layouts on a Maxi Cab</b></a></h2>
-      <p>Maxi Cab (7 seater) offers the flexibility of changing to different seat layouts to fit your traveling needs. <br><br>Maxi Cab seats five passengers comfortably and can <strong>seat up to seven adult passengers</strong> with ample space for luggage and personal belongings. Do let us know if you require any specific layout and we will adjust for you accordingly.</p>
-</div>
-<hr>
-
-<div class="max-w-6xl px-4 mx-auto prose text-justify"><br><br>
-        <img src="~assets/img/minivan-package-rates.jpg" alt="Paris" class="center">
-			</div>
-      
-      <div class="max-w-6xl px-4 py-12 mx-auto space-y-6"> 
-      <h2 style="font-size:28px;"><a name="Singapore Changi Airport" href="#"><b>Maxi Cab at a glance</b></a></h2>
-      <p>Enjoy exclusive use of the Maxi Cab, which can easily accommodate up to 7 adult passengers with full luggage or; a maximum of 4 adult passengers with a wheelchair bounded passenger and a maximum of 5-sets of luggage.<br><br>The ideal and friendly choice for business or pleasure, complementing large family units or group transfers that do not fit into the usual 4-seaters.</p>
-</div>
-<hr>
-
-<div class="max-w-6xl px-4 mx-auto prose text-justify"><br><br>
-        <img src="~assets/img/maxicab-airport-transfer-departure.jpg" alt="Paris" class="center">
-			</div>
-      
-      <div class="max-w-6xl px-4 py-12 mx-auto space-y-6"> 
-      <h2 style="font-size:28px;"><a name="Singapore Changi Airport" href="#"><b>Maxi Cab Limousine Services</b></a></h2>
-      <p> • Executive Chauffeur&emsp;&emsp;&emsp;&emsp;• Wedding Limousine<br><br><br><br>
-          • Meetings Transfers&emsp;&emsp;&emsp;&emsp;&nbsp;• Tri Bike Transfer<br><br><br><br>
-          • Client Pickup&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;• Wheelchair Transfer<br><br><br><br>
-          • Airport Transfer&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;• Singapore Transporter<br><br><br><br>
-
-      </p>
-</div>
-<hr>
-
-<div class="max-w-6xl px-4 mx-auto prose text-justify"><br><br>
-        <img src="~assets/img/maxi-cab-singapore-specifications.jpg" alt="Paris" class="center">
-			</div>
-      
-      <div class="max-w-6xl px-4 py-12 mx-auto space-y-6"> 
-      <h2 style="font-size:28px;"><a name="Singapore Changi Airport" href="#"><b>Maxi Cab Vehicle Specifications</b></a></h2>
-      <p>Model: Mercedes Benz Viano 2.2 CDI<br><br>Seating capacity: 7 adult passengers + 1 driver (8 sets of 3-point seat belts)<br><br>Engine: 2143cc diesel engine, Euro IV compliant<br><br>Maxi Cab offers loading space of up to 2 meters (length) x 1 meter (width) x 1 meter (height).</p>
-</div>
-
-
-<hr>
+    <hr>
   
     <div class="max-w-6xl px-4 mx-auto prose text-justify">
 

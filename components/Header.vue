@@ -2573,6 +2573,244 @@
                               >Maxi Cab<br><font style="font-size:11px;" >7 Seater</font></NuxtLink
                             >
                           </li>
+						  <li
+                            class="
+                              ml-3
+                              transition
+                              hover:text-theme-600
+                              mobile-sub-menu
+                            "
+                          >
+                            <NuxtLink
+                              to="/VellfireCab"
+                              class="inline-block w-full"
+                              >Vellfire Cab<br><font style="font-size:11px;" >6 Seater</font></NuxtLink
+                            >
+                          </li>
+						  <li
+                            class="
+                              ml-3
+                              transition
+                              hover:text-theme-600
+                              mobile-sub-menu
+                            "
+                          >
+                            <NuxtLink
+                              to="/SpaceTaxi"
+                              class="inline-block w-full"
+                              >Space Taxi<br><font style="font-size:11px;" >4 Seater</font></NuxtLink
+                            >
+                          </li>
+						  <li
+                            class="
+                              ml-3
+                              transition
+                              hover:text-theme-600
+                              mobile-sub-menu
+                            "
+                          >
+                            <NuxtLink
+                              to="/LondonCab"
+                              class="inline-block w-full"
+                              >London Cab<br><font style="font-size:11px;" >4 Seater</font></NuxtLink
+                            >
+                          </li>
+						  <li
+                            class="
+                              ml-3
+                              transition
+                              hover:text-theme-600
+                              mobile-sub-menu
+                            "
+                          >
+                            <NuxtLink
+                              to="/SuperCar"
+                              class="inline-block w-full"
+                              >Super Car<br><font style="font-size:11px;" >4 Seater</font></NuxtLink
+                            >
+                          </li>
+						  <li
+                            class="
+                              ml-3
+                              transition
+                              hover:text-theme-600
+                              mobile-sub-menu
+                            "
+                          >
+                            <NuxtLink
+                              to="/SuperVan"
+                              class="inline-block w-full"
+                              >Super Van<br><font style="font-size:11px;" >6 Seater</font></NuxtLink
+                            >
+                          </li>
+						  <li
+                            class="
+                              ml-3
+                              transition
+                              hover:text-theme-600
+                              mobile-sub-menu
+                            "
+                          >
+                            <NuxtLink
+                              to="/SingaporeWeddingCar"
+                              class="inline-block w-full"
+                              >Singapore Wedding Car</NuxtLink
+                            >
+                          </li>
+						  <li
+                            class="
+                              ml-3
+                              transition
+                              hover:text-theme-600
+                              mobile-sub-menu
+                            "
+                          >
+                            <NuxtLink
+                              to="/WheelchairTransfer"
+                              class="inline-block w-full"
+                              >Wheelchair Transfer</NuxtLink
+                            >
+                          </li>
+						  <li
+                            class="
+                              ml-3
+                              transition
+                              hover:text-theme-600
+                              mobile-sub-menu
+                            "
+                          >
+                            <NuxtLink
+                              to="/ItemTransfer"
+                              class="inline-block w-full"
+                              >Item Transfer</NuxtLink
+                            >
+                          </li>
+						  <li
+                            class="
+                              ml-3
+                              transition
+                              hover:text-theme-600
+                              mobile-sub-menu
+                            "
+                          >
+                            <NuxtLink
+                              to="/SingaporeLimousine"
+                              class="inline-block w-full"
+                              >View Private Limousine<br><font style="font-size:11px;" >Unmarked Vehicle (No Taxi Sign)</font></NuxtLink
+                            >
+                          </li>
+						  <li
+                            class="
+                              ml-3
+                              transition
+                              hover:text-theme-600
+                              mobile-sub-menu
+                            "
+                          >
+                            <NuxtLink
+                              to="/MercedesEClass"
+                              class="inline-block w-full"
+                              >Mercedes E-Class<br><font style="font-size:11px;" >2 Seater</font></NuxtLink
+                            >
+                          </li>
+						  <li
+                            class="
+                              ml-3
+                              transition
+                              hover:text-theme-600
+                              mobile-sub-menu
+                            "
+                          >
+                            <NuxtLink
+                              to="/MercedesVito"
+                              class="inline-block w-full"
+                              >Mercedes Vito<br><font style="font-size:11px;" >7 Seater</font></NuxtLink
+                            >
+                          </li>
+						  <li
+                            class="
+                              ml-3
+                              transition
+                              hover:text-theme-600
+                              mobile-sub-menu
+                            "
+                          >
+                            <NuxtLink
+                              to="/ToyotaAlphard"
+                              class="inline-block w-full"
+                              >Toyota Alphard<br><font style="font-size:11px;" >4 Seater</font></NuxtLink
+                            >
+                          </li>
+						  <li
+                            class="
+                              ml-3
+                              transition
+                              hover:text-theme-600
+                              mobile-sub-menu
+                            "
+                          >
+                            <NuxtLink
+                              to="/Minibus"
+                              class="inline-block w-full"
+                              >Minibus<br><font style="font-size:11px;" >9 Seater</font></NuxtLink
+                            >
+                          </li>
+						  <li
+                            class="
+                              ml-3
+                              transition
+                              hover:text-theme-600
+                              mobile-sub-menu
+                            "
+                          >
+                            <NuxtLink
+                              to="/MiniCoach"
+                              class="inline-block w-full"
+                              >Mini Coach<br><font style="font-size:11px;" >15 Seater</font></NuxtLink
+                            >
+                          </li>
+						  <li
+                            class="
+                              ml-3
+                              transition
+                              hover:text-theme-600
+                              mobile-sub-menu
+                            "
+                          >
+                            <NuxtLink
+                              to="/CoachBus"
+                              class="inline-block w-full"
+                              >Coach Bus<br><font style="font-size:11px;" >35 Seater</font></NuxtLink
+                            >
+                          </li>
+						  <li
+                            class="
+                              ml-3
+                              transition
+                              hover:text-theme-600
+                              mobile-sub-menu
+                            "
+                          >
+                            <NuxtLink
+                              to="/SingaporeLimousine"
+                              class="inline-block w-full"
+                              >Additional Surcharge</NuxtLink
+                            >
+                          </li>
+						  <li
+                            class="
+                              ml-3
+                              transition
+                              hover:text-theme-600
+                              mobile-sub-menu
+                            "
+                          >
+                            <NuxtLink
+                              to="/VehicleCapacity"
+                              class="inline-block w-full"
+                              >Vehicle Capacity</NuxtLink
+                            >
+                          </li>
                           
                           
                         </ul>
@@ -2622,9 +2860,9 @@
                             "
                           >
                             <NuxtLink
-                              to="/gazania/project-details"
+                              to="/pointtopoint"
                               class="inline-block w-full"
-                              >Project Details</NuxtLink
+                              >Point to Point Transfer</NuxtLink
                             >
                           </li>
                           
@@ -2869,6 +3107,21 @@
                           </li>
                         </ul>
                       </div>
+                    </div>
+					<div>
+                      <a href="https://www.agoda.com/search?pcs=1&amp;cid=1740416&amp;hl=en&amp;city=4064&amp;checkin=2022-03-24&amp;checkout=2022-03-25&amp;adults=1&amp;children=0&amp;rooms=1&amp;los=1" 
+						class="	inline-block
+								w-full
+								px-2
+								py-1
+								font-medium
+								rounded
+								bg-theme-100
+								hover:bg-theme-200
+								mobile-menu
+								hover:text-theme-900"
+						>Hotels</a
+					>
                     </div>
 					<div>
                       <NuxtLink
