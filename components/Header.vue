@@ -3068,10 +3068,70 @@
                             "
                           >
                             <NuxtLink
-                              to="/serangoon-ura-masterplan"
+                              to="/JBCC"
                               class="inline-block w-full"
                             >
-                              Serangoon Ura Master Plan
+                              Johor Bahru City Centre (JBCC)
+                            </NuxtLink>
+                          </li>
+						  <li
+                            class="
+                              ml-3
+                              transition
+                              hover:text-theme-600
+                              mobile-sub-menu
+                            "
+                          >
+                            <NuxtLink
+                              to="/Legoland"
+                              class="inline-block w-full"
+                            >
+                              Legoland
+                            </NuxtLink>
+                          </li>
+						  <li
+                            class="
+                              ml-3
+                              transition
+                              hover:text-theme-600
+                              mobile-sub-menu
+                            "
+                          >
+                            <NuxtLink
+                              to="/SenaiAirport"
+                              class="inline-block w-full"
+                            >
+                              Senai Airport
+                            </NuxtLink>
+                          </li>
+						  <li
+                            class="
+                              ml-3
+                              transition
+                              hover:text-theme-600
+                              mobile-sub-menu
+                            "
+                          >
+                            <NuxtLink
+                              to="/Mersing"
+                              class="inline-block w-full"
+                            >
+                              Mersing
+                            </NuxtLink>
+                          </li>
+						  <li
+                            class="
+                              ml-3
+                              transition
+                              hover:text-theme-600
+                              mobile-sub-menu
+                            "
+                          >
+                            <NuxtLink
+                              to="/Malacca"
+                              class="inline-block w-full"
+                            >
+                              Malacca
                             </NuxtLink>
                           </li>
 						  

@@ -2900,7 +2900,7 @@
               >
                 <li>
                   <NuxtLink
-                    to="/serangoon-ura-masterplan"
+                    to="/JBCC"
                     class="
                       inline-block
                       w-full
@@ -2911,7 +2911,71 @@
                       hover:bg-theme-100
                     "
                   >
-                    Serangoon URA Master Plan
+                    Johor Bahru City Centre
+                  </NuxtLink>
+                </li>
+				<li>
+                  <NuxtLink
+                    to="/Legoland"
+                    class="
+                      inline-block
+                      w-full
+                      px-2
+                      py-2
+                      menu-item
+                      text-theme-900
+                      hover:bg-theme-100
+                    "
+                  >
+                    Legoland
+                  </NuxtLink>
+                </li>
+				<li>
+                  <NuxtLink
+                    to="/SenaiAirport"
+                    class="
+                      inline-block
+                      w-full
+                      px-2
+                      py-2
+                      menu-item
+                      text-theme-900
+                      hover:bg-theme-100
+                    "
+                  >
+                    Senai Airport
+                  </NuxtLink>
+                </li>
+				<li>
+                  <NuxtLink
+                    to="/Mersing"
+                    class="
+                      inline-block
+                      w-full
+                      px-2
+                      py-2
+                      menu-item
+                      text-theme-900
+                      hover:bg-theme-100
+                    "
+                  >
+                    Mersing
+                  </NuxtLink>
+                </li>
+				<li>
+                  <NuxtLink
+                    to="/Malacca"
+                    class="
+                      inline-block
+                      w-full
+                      px-2
+                      py-2
+                      menu-item
+                      text-theme-900
+                      hover:bg-theme-100
+                    "
+                  >
+                    Malacca
                   </NuxtLink>
                 </li>
               </ul>
