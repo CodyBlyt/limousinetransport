@@ -2978,6 +2978,88 @@
                     Malacca
                   </NuxtLink>
                 </li>
+				<li>
+                  <NuxtLink
+                    to="/KualaLumpur"
+                    class="
+                      inline-block
+                      w-full
+                      px-2
+                      py-2
+                      menu-item
+                      text-theme-900
+                      hover:bg-theme-100
+                    "
+                  >
+                    Kuala Lumpur
+                  </NuxtLink>
+                </li>
+				<li>
+                  <NuxtLink
+                    to="/KLIA"
+                    class="
+                      inline-block
+                      w-full
+                      px-2
+                      py-2
+                      menu-item
+                      text-theme-900
+                      hover:bg-theme-100
+                    "
+                  >
+                    KLIA
+                  </NuxtLink>
+                </li>
+				<li>
+                  <NuxtLink
+                    to="/HourlyDisposalMalaysia"
+                    class="
+                      inline-block
+                      w-full
+                      px-2
+                      py-2
+                      menu-item
+                      text-theme-900
+                      hover:bg-theme-100
+					  border-b border-dashed
+					  -mt-3 text-gray-400
+                    "
+                  >
+                    Hourly Disposal
+                  </NuxtLink>
+                </li>
+				<li>
+                  <NuxtLink
+                    to="/HourlyDisposalKualaLumpur"
+                    class="
+                      inline-block
+                      w-full
+                      px-2
+                      py-2
+                      menu-item
+                      text-theme-900
+                      hover:bg-theme-100
+                    "
+                  >
+                    Hourly Disposal Kuala Lumpur
+                  </NuxtLink>
+                </li>
+				<li>
+                  <NuxtLink
+                    to="/HourlyDisposalJohorBahru"
+                    class="
+                      inline-block
+                      w-full
+                      px-2
+                      py-2
+                      menu-item
+                      text-theme-900
+                      hover:bg-theme-100
+                    "
+                  >
+                    Hourly Disposal Johor Bahru
+                  </NuxtLink>
+                </li>
               </ul>
             </div>
           </li>
@@ -3004,7 +3086,7 @@
               >
                 <li>
                   <NuxtLink
-                    to="/press/press-one"
+                    to="/EventTransfer"
                     class="
                       inline-block
                       w-full
@@ -3015,16 +3097,129 @@
                       hover:bg-theme-100
                     "
                   >
-                    New Private Home Sales Up 57%, Highest For December In 8 Years: Ura Data
+                    Event Transfer
                   </NuxtLink>
                 </li>
-               
+				<li>
+                  <NuxtLink
+                    to="/F1Singapore"
+                    class="
+                      inline-block
+                      w-full
+                      px-2
+                      py-2
+                      menu-item
+                      text-theme-900
+                      hover:bg-theme-100
+                    "
+                  >
+                    F1 Singapore Grand Prix 2020
+                  </NuxtLink>
+                </li>
+				<li>
+                  <NuxtLink
+                    to="/ChineseNewYear"
+                    class="
+                      inline-block
+                      w-full
+                      px-2
+                      py-2
+                      menu-item
+                      text-theme-900
+                      hover:bg-theme-100
+                    "
+                  >
+                    Chinese New Year
+                  </NuxtLink>
+                </li>
+				<li>
+                  <NuxtLink
+                    to="/SingaporeAirshow"
+                    class="
+                      inline-block
+                      w-full
+                      px-2
+                      py-2
+                      menu-item
+                      text-theme-900
+                      hover:bg-theme-100
+                    "
+                  >
+                    Singapore Airshow
+                  </NuxtLink>
+                </li>
+				<li>
+                  <NuxtLink
+                    to="/SingaporeExhibitions"
+                    class="
+                      inline-block
+                      w-full
+                      px-2
+                      py-2
+                      menu-item
+                      text-theme-900
+                      hover:bg-theme-100
+                    "
+                  >
+                    Singapore Exhibtiions
+                  </NuxtLink>
+                </li>
+				<li>
+                  <NuxtLink
+                    to="/SingaporeAirportTransfer"
+                    class="
+                      inline-block
+                      w-full
+                      px-2
+                      py-2
+                      menu-item
+                      text-theme-900
+                      hover:bg-theme-100
+					  border-b border-dashed
+					  -mt-3 text-gray-400
+                    "
+                  >
+                    Singapore Airport Tranfser
+                  </NuxtLink>
+                </li>
+               <li>
+                  <NuxtLink
+                    to="/SingaporeAirportArrival"
+                    class="
+                      inline-block
+                      w-full
+                      px-2
+                      py-2
+                      menu-item
+                      text-theme-900
+                      hover:bg-theme-100
+                    "
+                  >
+                    Arrival Transfer
+                  </NuxtLink>
+                </li>
+				<li>
+                  <NuxtLink
+                    to="/SingaporeAirportDeparture"
+                    class="
+                      inline-block
+                      w-full
+                      px-2
+                      py-2
+                      menu-item
+                      text-theme-900
+                      hover:bg-theme-100
+                    "
+                  >
+                    Departure Transfer
+                  </NuxtLink>
+                </li>
               </ul>
             </div>
           </li>
 		  <li class="hover:bg-theme-700">
             <NuxtLink
-              to="/FAQs"
+              to="/SingaporeLimousine"
               class="
                 inline-block
                 px-2

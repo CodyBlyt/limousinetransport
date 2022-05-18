@@ -3134,6 +3134,82 @@
                               Malacca
                             </NuxtLink>
                           </li>
+						  <li
+                            class="
+                              ml-3
+                              transition
+                              hover:text-theme-600
+                              mobile-sub-menu
+                            "
+                          >
+                            <NuxtLink
+                              to="/KualaLumpur"
+                              class="inline-block w-full"
+                            >
+                              Kuala Lumpur
+                            </NuxtLink>
+                          </li>
+						  <li
+                            class="
+                              ml-3
+                              transition
+                              hover:text-theme-600
+                              mobile-sub-menu
+                            "
+                          >
+                            <NuxtLink
+                              to="/KLIA"
+                              class="inline-block w-full"
+                            >
+                              KLIA
+                            </NuxtLink>
+                          </li>
+						  <li
+                            class="
+                              ml-3
+                              transition
+                              hover:text-theme-600
+                              mobile-sub-menu
+							  border-b border-dashed
+                            "
+                          >
+                            <NuxtLink
+                              to="/HourlyDisposalMalaysia"
+                              class="inline-block w-full -mt-3 text-gray-400"
+                            >
+                              Hourly Disposal
+                            </NuxtLink>
+                          </li>
+						  <li
+                            class="
+                              ml-3
+                              transition
+                              hover:text-theme-600
+                              mobile-sub-menu
+                            "
+                          >
+                            <NuxtLink
+                              to="/HourlyDisposalKualaLumpur"
+                              class="inline-block w-full"
+                            >
+                              Hourly Disposal Kuala Lumpur
+                            </NuxtLink>
+                          </li>
+						  <li
+                            class="
+                              ml-3
+                              transition
+                              hover:text-theme-600
+                              mobile-sub-menu
+                            "
+                          >
+                            <NuxtLink
+                              to="/HourlyDisposalJohorBahru"
+                              class="inline-block w-full"
+                            >
+                              Hourly Disposal Johor Bahru
+                            </NuxtLink>
+                          </li>
 						  
                         </ul>
                       </div>
@@ -3183,10 +3259,116 @@
                             "
                           >
                             <NuxtLink
-                              to="/press/press-one"
+                              to="/EventTransfer"
                               class="inline-block w-full"
                             >
-                              New Private Home Sales Up 57%, Highest For December In 8 Years: Ura Data
+                              Event Transfer
+                            </NuxtLink>
+                          </li>
+						  <li
+                            class="
+                              ml-3
+                              transition
+                              hover:text-theme-600
+                              mobile-sub-menu
+                            "
+                          >
+                            <NuxtLink
+                              to="/F1Singapore"
+                              class="inline-block w-full"
+                            >
+                              F1 Singapore Grand Prix 2020
+                            </NuxtLink>
+                          </li>
+						  <li
+                            class="
+                              ml-3
+                              transition
+                              hover:text-theme-600
+                              mobile-sub-menu
+                            "
+                          >
+                            <NuxtLink
+                              to="/ChineseNewYear"
+                              class="inline-block w-full"
+                            >
+                              Chinese New Year
+                            </NuxtLink>
+                          </li>
+						  <li
+                            class="
+                              ml-3
+                              transition
+                              hover:text-theme-600
+                              mobile-sub-menu
+                            "
+                          >
+                            <NuxtLink
+                              to="/SingaporeAirshow"
+                              class="inline-block w-full"
+                            >
+                              Singapore Airshow
+                            </NuxtLink>
+                          </li>
+						  <li
+                            class="
+                              ml-3
+                              transition
+                              hover:text-theme-600
+                              mobile-sub-menu
+                            "
+                          >
+                            <NuxtLink
+                              to="/SingaporeExhibitions"
+                              class="inline-block w-full"
+                            >
+                              Singapore Exhibitions
+                            </NuxtLink>
+                          </li>
+						  <li
+                            class="
+                              ml-3
+                              transition
+                              hover:text-theme-600
+                              mobile-sub-menu
+							  border-b border-dashed
+                            "
+                          >
+                            <NuxtLink
+                              to="/SingaporeAirportTransfer"
+                              class="inline-block w-full -mt-3 text-gray-400"
+                            >
+                              Singapore Airport Transfer
+                            </NuxtLink>
+                          </li>
+						  <li
+                            class="
+                              ml-3
+                              transition
+                              hover:text-theme-600
+                              mobile-sub-menu
+                            "
+                          >
+                            <NuxtLink
+                              to="/SingaporeAirportArrival"
+                              class="inline-block w-full"
+                            >
+                              Arrival Transfer
+                            </NuxtLink>
+                          </li>
+						  <li
+                            class="
+                              ml-3
+                              transition
+                              hover:text-theme-600
+                              mobile-sub-menu
+                            "
+                          >
+                            <NuxtLink
+                              to="/SingaporeAirportDeparture"
+                              class="inline-block w-full"
+                            >
+                              Departure Transfer
                             </NuxtLink>
                           </li>
                           
@@ -3195,7 +3377,7 @@
                     </div>
 					<div>
                       <NuxtLink
-                        to="FAQs"
+                        to="SingaporeLimousine"
                         class="
                           inline-block
                           w-full

@@ -2,7 +2,7 @@
   <div>
     <div class="py-12 select-none bg-theme-700">
       <div class="text-xl font-semibold text-center text-white sm:text-4xl">
-        Malacca Limousine Transfer
+        Kuala Lumpur Limousine Transfer
         </div>
     </div>
     <section>
@@ -37,6 +37,7 @@
                         <td colspan="2" class="px-6 py-3 text-left font-semibold" ><strong>Private Limousine</strong><br>unmarked vehicles</td>
                         <td colspan="1" id="mercedes" width="130" height= "130"  class="text-center"  ><a href=""><center><img src="~assets/img/toyota-innova.jpg"  width="100" alt="mercedes" class="center"></center></a> <b><a href="https://www.limousinetransport.com/singapore/mercedes-cab/" style="color:#000; font-size:14px" class="text-center" >Toyota<br>Innova</a></b></td>
                         <td colspan="1" id="mercedes" width="130" height= "130"  class="text-center"  ><a href=""><center><img src="~assets/img/hyundai-starex.jpg"  width="100" alt="mercedes" class="center"></center></a> <b><a href="https://www.limousinetransport.com/singapore/mercedes-cab/" style="color:#000; font-size:14px" class="text-center" >Hyundai<br>Starex</a></b></td>
+                        <td colspan="1" id="mercedes" width="130" height= "130"  class="text-center"  ><a href=""><center><img src="~assets/img/toyota-alphard.jpg"  width="100" alt="mercedes" class="center"></center></a> <b><a href="https://www.limousinetransport.com/singapore/mercedes-cab/" style="color:#000; font-size:14px" class="text-center" >Toyota<br>Alphard</a></b></td>
                         
 
                       </tr>
@@ -57,6 +58,11 @@
                         <div style="display:block;">6<img align="left" src="~assets/img/pax.gif" border="0"></div>
                         <div style="display:block;">6<img align="left" src="~assets/img/luggage.gif" border="0"></div>
                         </td>
+
+                        <td class="px-6 py-4 " colspan="1">
+                        <div style="display:block;">4<img align="left" src="~assets/img/pax.gif" border="0"></div>
+                        <div style="display:block;">4<img align="left" src="~assets/img/luggage.gif" border="0"></div>
+                        </td>
                       </tr>
                     </tbody>
 
@@ -70,9 +76,14 @@
                         <div style="display:block;">6<img align="left" src="~assets/img/pax.gif" border="0"></div>
                         <div style="display:block;">0<img align="left" src="~assets/img/luggage.gif" border="0"></div>
                         </td>
-
+                        
                         <td class="px-6 py-4 " colspan="1">
                         <div style="display:block;">10<img align="left" src="~assets/img/pax.gif" border="0"></div>
+                        <div style="display:block;">0<img align="left" src="~assets/img/luggage.gif" border="0"></div>
+                        </td>
+
+                        <td class="px-6 py-4 " colspan="1">
+                        <div style="display:block;">6<img align="left" src="~assets/img/pax.gif" border="0"></div>
                         <div style="display:block;">0<img align="left" src="~assets/img/luggage.gif" border="0"></div>
                         </td>
                       </tr>
@@ -84,6 +95,7 @@
                         <td class="px-6 py-4 text-left" style="color:#000; font-size:14px" colspan="2">Height Limit<br><font style="font-size:11px;" >car park entrance</font></td>
                         <td class="px-6 py-4 text-center" style="color:#000; font-size:14px">2 m</td>
                         <td class="px-6 py-4 text-center" style="color:#000; font-size:14px">2 m</td>
+                        <td class="px-6 py-4 text-center" style="color:#000; font-size:14px">2 m</td>
                       </tr>
                     </tbody>
                     
@@ -93,9 +105,24 @@
                         <td class="px-6 py-4 text-center" colspan="2"></td>
                         
                      
-                        
 
-                        
+                        <td class="px-6 py-4 " colspan="1">
+                        <NuxtLink
+                        to="/book-now"
+                        class="
+                          inline-block
+                          font-medium
+                          text-white
+                          transition
+                          rounded
+                          bg-theme-700
+                          px-4
+                          py-4
+                        "
+                        >
+                          Book Now
+                        </NuxtLink>
+                        </td>
 
                         <td class="px-6 py-4 " colspan="1">
                         <NuxtLink
@@ -140,14 +167,14 @@
                     <tbody class="bg-white divide-gray-200 divide-x divide-gray-200">
                       <tr class="divide-x divide-gray-200" >
                         <td class="px-6 py-4 text-left" style="color:#000; font-size:14px" colspan="2">Includes</td>
-                        <td class="px-6 py-4 text-left" style="color:#000; font-size:14px" colspan="2">• Private limo door-to-door service.<br><br>• Inclusive of toll fees (ERP / Customs) charges.<br><br>• Complimentary 15 mins waiting time for pickup.Arrival transfers enjoy up to 60 mins. Additional waiting surcharge of MYR 20 for every 10 mins applies thereafter, capped at 20 mins. Hourly disposal surcharge applies if the waiting time exceeds the initial 35 mins. Subject to availability on the day of transfer.<br><br>• Fits 1 x medium suitcases &amp; 1 x small hand luggage items per passenger for traveling with luggage.<br><br>• Driver will take you to / from the accommodation address you provide on STEP 1 of the booking process.<br><br>• Vehicle may be upgraded to one with greater capacity depending on availability.<br><br>• No extra fees for online booking &amp; payment.</td>
+                        <td class="px-6 py-4 text-left" style="color:#000; font-size:14px" colspan="4">• Private limo door-to-door service.<br><br>• Inclusive of toll fees (ERP / Customs) charges.<br><br>• Complimentary 15 mins waiting time for pickup. Arrival transfers enjoy up to 60 mins. Additional waiting surcharge of MYR 20 for every 10 mins applies thereafter, capped at 20 mins. Hourly disposal surcharge applies if the waiting time exceeds the initial 35 mins. Subject to availability on the day of transfer.<br><br>• Fits 1 x medium suitcases &amp; 1 x small hand luggage items per passenger for traveling with luggage.<br><br>• Driver will take you to / from the accommodation address you provide on STEP 1 of the booking process.<br><br>• Vehicle may be upgraded to one with greater capacity depending on availability.<br><br>• No extra fees for online booking &amp; payment.</td>
                       </tr>
                     </tbody>
 
                    <tbody class="bg-white divide-gray-200 divide-x divide-gray-200">
                       <tr class="divide-x divide-gray-200" >
                         <td class="px-6 py-4 text-left" style="color:#000; font-size:14px" colspan="2">Availability</td>
-                        <td class="px-6 py-4 text-left" style="color:#000; font-size:14px" colspan="2">• Only available via online booking and payment.<br><br>• Available 24 hours daily including Public Holidays with bookings &amp; payment made online 24 hours in advance. Please book 2-5 days in advance for long-distance trips to Malacca and beyond.<br><br>• For travel within Singapore, Malaysia and Thailand only.<br></td>
+                        <td class="px-6 py-4 text-left" style="color:#000; font-size:14px" colspan="4">• Only available via online booking and payment.<br><br>• Available 24 hours daily including Public Holidays with bookings &amp; payment made online 24 hours in advance. Please book 2-5 days in advance for long-distance trips to Malacca and beyond.<br><br>• For travel within Singapore, Malaysia and Thailand only.<br></td>
                       </tr>
                     </tbody>
 
@@ -159,8 +186,24 @@
                         <td class="px-6 py-4 text-center" colspan="2"></td>
                         
                      
-                        
-                        
+
+                        <td class="px-6 py-4 " colspan="1">
+                        <NuxtLink
+                        to="/book-now"
+                        class="
+                          inline-block
+                          font-medium
+                          text-white
+                          transition
+                          rounded
+                          bg-theme-700
+                          px-4
+                          py-4
+                        "
+                        >
+                          Book Now
+                        </NuxtLink>
+                        </td>
 
                         <td class="px-6 py-4 " colspan="1">
                         <NuxtLink
@@ -198,11 +241,10 @@
                         </td>
                       </tr>
                     </tbody>
-
                     
                     <tbody class="bg-theme-50 divide-gray-200 divide-x divide-gray-200">
                       <tr class="divide-x divide-gray-200">
-                        <td class="px-6 py-4 text-left" >Traveling to / from Malacca</td>
+                        <td class="px-6 py-4 text-left" >Traveling from Kuala Lumpur</td>
                         
                      
                         <td class="px-6 py-4 " colspan="1">
@@ -217,14 +259,15 @@
                         <div style="display:block; text-align: center;">per way<br>(flat rates)</div>
                         </td>
 
+                        <td class="px-6 py-4 " colspan="1">
+                        <div style="display:block; text-align: center;">per way<br>(flat rates)</div>
+                        </td>
+
                       </tr>
                     </tbody>
-
-
-
                     <tbody class="bg-white divide-gray-200 divide-x divide-gray-200">
                       <tr class="divide-x divide-gray-200">
-                        <td class="px-6 py-4 text-left" >Within Malacca City Centre</td>
+                        <td class="px-6 py-4 text-left" >Bandar Tun Razak</td>
                         
                      
                         
@@ -233,19 +276,77 @@
                         </td>
 
                         <td class="px-6 py-4 " colspan="1">
+                        <div style="display:block; text-align: center;">MYR 110</div>
+                        </td>
+
+                        <td class="px-6 py-4 " colspan="1">
                         <div style="display:block; text-align: center;">MYR 205</div>
                         </td>
 
                         <td class="px-6 py-4 " colspan="1">
                         <div style="display:block; text-align: center;">MYR 205</div>
                         </td>
+
+                      </tr>
+                    </tbody>
+
+                    
+
+
+                     <tbody class="bg-theme-50 divide-gray-200 divide-x divide-gray-200">
+                      <tr class="divide-x divide-gray-200">
+                        <td class="px-6 py-4 text-left" >Bukit Bintang</td>
+                        
+                     
+                        
+                        <td class="px-6 py-4 " colspan="1">
+                        <div style="display:block; text-align: center;">1 hrs</div>
+                        </td>
+
+                        <td class="px-6 py-4 " colspan="1">
+                        <div style="display:block; text-align: center;">MYR 110</div>
+                        </td>
+
+                        <td class="px-6 py-4 " colspan="1">
+                        <div style="display:block; text-align: center;">MYR 205</div>
+                        </td>
+
+                        <td class="px-6 py-4 " colspan="1">
+                        <div style="display:block; text-align: center;">MYR 205</div>
+                        </td>
+
+                      </tr>
+                    </tbody>
+
+                    <tbody class="bg-white divide-gray-200 divide-x divide-gray-200">
+                      <tr class="divide-x divide-gray-200">
+                        <td class="px-6 py-4 text-left" >Cheras</td>
+                        
+                     
+                        
+                        <td class="px-6 py-4 " colspan="1">
+                        <div style="display:block; text-align: center;">1 hrs</div>
+                        </td>
+
+                        <td class="px-6 py-4 " colspan="1">
+                        <div style="display:block; text-align: center;">MYR 110</div>
+                        </td>
+
+                        <td class="px-6 py-4 " colspan="1">
+                        <div style="display:block; text-align: center;">MYR 205</div>
+                        </td>
+
+                        <td class="px-6 py-4 " colspan="1">
+                        <div style="display:block; text-align: center;">MYR 205</div>
+                        </td>
+
                       </tr>
                     </tbody>
 
 
                     <tbody class="bg-theme-50 divide-gray-200 divide-x divide-gray-200">
                       <tr class="divide-x divide-gray-200">
-                        <td class="px-6 py-4 text-left" >Ayer Keroh<br></td>
+                        <td class="px-6 py-4 text-left" >Kepong</td>
                         
                      
                         
@@ -254,19 +355,123 @@
                         </td>
 
                         <td class="px-6 py-4 " colspan="1">
+                        <div style="display:block; text-align: center;">MYR 110</div>
+                        </td>
+
+                        <td class="px-6 py-4 " colspan="1">
                         <div style="display:block; text-align: center;">MYR 205</div>
                         </td>
 
                         <td class="px-6 py-4 " colspan="1">
                         <div style="display:block; text-align: center;">MYR 205</div>
                         </td>
+
+                      </tr>
+                    </tbody>
+
+                     <tbody class="bg-white divide-gray-200 divide-x divide-gray-200">
+                      <tr class="divide-x divide-gray-200">
+                        <td class="px-6 py-4 text-left" >Lembah Pantai</td>
+                        
+                     
+                        
+                        <td class="px-6 py-4 " colspan="1">
+                        <div style="display:block; text-align: center;">1 hrs</div>
+                        </td>
+
+                        <td class="px-6 py-4 " colspan="1">
+                        <div style="display:block; text-align: center;">MYR 110</div>
+                        </td>
+
+                        <td class="px-6 py-4 " colspan="1">
+                        <div style="display:block; text-align: center;">MYR 205</div>
+                        </td>
+
+                        <td class="px-6 py-4 " colspan="1">
+                        <div style="display:block; text-align: center;">MYR 205</div>
+                        </td>
+
+                      </tr>
+                    </tbody>
+                    <tbody class="bg-theme-50 divide-gray-200 divide-x divide-gray-200">
+                      <tr class="divide-x divide-gray-200">
+                        <td class="px-6 py-4 text-left" >Segambut</td>
+                        
+                     
+                        
+                        <td class="px-6 py-4 " colspan="1">
+                        <div style="display:block; text-align: center;">1 hrs</div>
+                        </td>
+
+                        <td class="px-6 py-4 " colspan="1">
+                        <div style="display:block; text-align: center;">MYR 110</div>
+                        </td>
+
+                        <td class="px-6 py-4 " colspan="1">
+                        <div style="display:block; text-align: center;">MYR 205</div>
+                        </td>
+
+                        <td class="px-6 py-4 " colspan="1">
+                        <div style="display:block; text-align: center;">MYR 205</div>
+                        </td>
+
+                      </tr>
+                    </tbody>
+
+                    <tbody class="bg-white divide-gray-200 divide-x divide-gray-200">
+                      <tr class="divide-x divide-gray-200">
+                        <td class="px-6 py-4 text-left" >Sentul</td>
+                        
+                     
+                        
+                        <td class="px-6 py-4 " colspan="1">
+                        <div style="display:block; text-align: center;">1 hrs</div>
+                        </td>
+
+                        <td class="px-6 py-4 " colspan="1">
+                        <div style="display:block; text-align: center;">MYR 110</div>
+                        </td>
+
+                        <td class="px-6 py-4 " colspan="1">
+                        <div style="display:block; text-align: center;">MYR 205</div>
+                        </td>
+
+                        <td class="px-6 py-4 " colspan="1">
+                        <div style="display:block; text-align: center;">MYR 205</div>
+                        </td>
+
+                      </tr>
+                    </tbody>
+
+                     <tbody class="bg-theme-50 divide-gray-200 divide-x divide-gray-200">
+                      <tr class="divide-x divide-gray-200">
+                        <td class="px-6 py-4 text-left" >Seputeh</td>
+                        
+                     
+                        
+                        <td class="px-6 py-4 " colspan="1">
+                        <div style="display:block; text-align: center;">1 hrs</div>
+                        </td>
+
+                        <td class="px-6 py-4 " colspan="1">
+                        <div style="display:block; text-align: center;">MYR 110</div>
+                        </td>
+
+                        <td class="px-6 py-4 " colspan="1">
+                        <div style="display:block; text-align: center;">MYR 205</div>
+                        </td>
+
+                        <td class="px-6 py-4 " colspan="1">
+                        <div style="display:block; text-align: center;">MYR 205</div>
+                        </td>
+
                       </tr>
                     </tbody>
 
 
                     <tbody class="bg-white divide-gray-200 divide-x divide-gray-200">
                       <tr class="divide-x divide-gray-200">
-                        <td class="px-6 py-4 text-left" >Alor Gajah<br></td>
+                        <td class="px-6 py-4 text-left" >Setiawangsa</td>
                         
                      
                         
@@ -275,18 +480,24 @@
                         </td>
 
                         <td class="px-6 py-4 " colspan="1">
-                        <div style="display:block; text-align: center;">MYR 210</div>
+                        <div style="display:block; text-align: center;">MYR 110</div>
                         </td>
 
                         <td class="px-6 py-4 " colspan="1">
-                        <div style="display:block; text-align: center;">MYR 210</div>
+                        <div style="display:block; text-align: center;">MYR 205</div>
                         </td>
+
+                        <td class="px-6 py-4 " colspan="1">
+                        <div style="display:block; text-align: center;">MYR 205</div>
+                        </td>
+
                       </tr>
                     </tbody>
 
+
                     <tbody class="bg-theme-50 divide-gray-200 divide-x divide-gray-200">
                       <tr class="divide-x divide-gray-200">
-                        <td class="px-6 py-4 text-left" >Jasin<br></td>
+                        <td class="px-6 py-4 text-left" >Titiwangsa</td>
                         
                      
                         
@@ -295,12 +506,72 @@
                         </td>
 
                         <td class="px-6 py-4 " colspan="1">
-                        <div style="display:block; text-align: center;">MYR 210</div>
+                        <div style="display:block; text-align: center;">MYR 110</div>
                         </td>
 
                         <td class="px-6 py-4 " colspan="1">
-                        <div style="display:block; text-align: center;">MYR 210</div>
+                        <div style="display:block; text-align: center;">MYR 205</div>
                         </td>
+
+                        <td class="px-6 py-4 " colspan="1">
+                        <div style="display:block; text-align: center;">MYR 205</div>
+                        </td>
+
+                      </tr>
+                    </tbody>
+
+
+                   
+
+
+                     <tbody class="bg-white divide-gray-200 divide-x divide-gray-200">
+                      <tr class="divide-x divide-gray-200">
+                        <td class="px-6 py-4 text-left" >Wangsa Maju</td>
+                        
+                     
+                        
+                        <td class="px-6 py-4 " colspan="1">
+                        <div style="display:block; text-align: center;">1 hrs</div>
+                        </td>
+
+                        <td class="px-6 py-4 " colspan="1">
+                        <div style="display:block; text-align: center;">MYR 110</div>
+                        </td>
+
+                        <td class="px-6 py-4 " colspan="1">
+                        <div style="display:block; text-align: center;">MYR 205</div>
+                        </td>
+
+                        <td class="px-6 py-4 " colspan="1">
+                        <div style="display:block; text-align: center;">MYR 205</div>
+                        </td>
+
+                      </tr>
+                    </tbody>
+
+
+                    <tbody class="bg-theme-50 divide-gray-200 divide-x divide-gray-200">
+                      <tr class="divide-x divide-gray-200">
+                        <td class="px-6 py-4 text-left" >Sunway Lagoon</td>
+                        
+                     
+                        
+                        <td class="px-6 py-4 " colspan="1">
+                        <div style="display:block; text-align: center;">1 hrs</div>
+                        </td>
+
+                        <td class="px-6 py-4 " colspan="1">
+                        <div style="display:block; text-align: center;">MYR 110</div>
+                        </td>
+
+                        <td class="px-6 py-4 " colspan="1">
+                        <div style="display:block; text-align: center;">MYR 205</div>
+                        </td>
+
+                        <td class="px-6 py-4 " colspan="1">
+                        <div style="display:block; text-align: center;">MYR 205</div>
+                        </td>
+
                       </tr>
                     </tbody>
                   </table>
@@ -342,128 +613,7 @@
                     <thead class="bg-theme-100 bg-white " >
                       <tr class="divide-x divide-gray-200" >
                         <th
-                          colspan = "4"
-                          scope="col"
-                          class="
-                            px-6
-                            py-3
-                            text-xs
-                            font-medium
-                            tracking-wider
-                            text-left text-gray-500
-                            uppercase
-                            text-left
-                          "
-                        >
-                         Negeri Sembilan
-                        </th>
-                      </tr>
-                    </thead>
-                    <tbody class="bg-white divide-gray-200 divide-x divide-gray-200">
-                      <tr class="divide-x divide-gray-200" >
-                        <td class="px-6 py-4 text-left">Tampin</td>
-                        <td class="px-20 py-4 text-center">1 hrs<br> </td>
-                        <td class="px-20 py-4 text-center">MYR 220<br> </td>
-                        <td class="px-20 py-4 text-center">MYR 220<br> </td>
-                      </tr>
-                    </tbody>
-                    <tbody class="bg-theme-50 divide-gray-200 divide-x divide-gray-200">
-                      <tr class="divide-x divide-gray-200" >
-                        <td class="px-6 py-4 text-left">Ayer Kuning (Tampin)</td>
-                        <td class="px-20 py-4 text-center">1.5 hrs<br> </td>
-                        <td class="px-20 py-4 text-center">MYR 260<br> </td>
-                        <td class="px-20 py-4 text-center">MYR 260<br> </td>
-                      </tr>
-                    </tbody>
-                    <tbody class="bg-white divide-gray-200 divide-x divide-gray-200">
-                      <tr class="divide-x divide-gray-200" >
-                        <td class="px-6 py-4 text-left">Rembau</td>
-                        <td class="px-20 py-4 text-center">1 hrs<br> </td>
-                        <td class="px-20 py-4 text-center">MYR 260<br> </td>
-                        <td class="px-20 py-4 text-center">MYR 260<br> </td>
-                      </tr>
-                    </tbody>
-                    <tbody class="bg-theme-50 divide-gray-200 divide-x divide-gray-200">
-                      <tr class="divide-x divide-gray-200" >
-                        <td class="px-6 py-4 text-left">Port Dickson</td>
-                        <td class="px-20 py-4 text-center">1.5 hrs<br> </td>
-                        <td class="px-20 py-4 text-center">MYR 375<br> </td>
-                        <td class="px-20 py-4 text-center">MYR 375<br> </td>
-                      </tr>
-                    </tbody>
-                    <tbody class="bg-white divide-gray-200 divide-x divide-gray-200">
-                      <tr class="divide-x divide-gray-200" >
-                        <td class="px-6 py-4 text-left">Kuala Pilah</td>
-                        <td class="px-20 py-4 text-center">1.5 hrs<br> </td>
-                        <td class="px-20 py-4 text-center">MYR 375<br> </td>
-                        <td class="px-20 py-4 text-center">MYR 375<br> </td>
-                      </tr>
-                    </tbody>
-                    <tbody class="bg-theme-50 divide-gray-200 divide-x divide-gray-200">
-                      <tr class="divide-x divide-gray-200" >
-                        <td class="px-6 py-4 text-left">Seremban</td>
-                        <td class="px-20 py-4 text-center">1.5 hrs<br> </td>
-                        <td class="px-20 py-4 text-center">MYR 400<br> </td>
-                        <td class="px-20 py-4 text-center">MYR 400<br> </td>
-                      </tr>
-                    </tbody>
-                    <tbody class="bg-white divide-gray-200 divide-x divide-gray-200">
-                      <tr class="divide-x divide-gray-200" >
-                        <td class="px-6 py-4 text-left">Jempol</td>
-                        <td class="px-20 py-4 text-center">2 hrs<br> </td>
-                        <td class="px-20 py-4 text-center">MYR 435<br> </td>
-                        <td class="px-20 py-4 text-center">MYR 435<br> </td>
-                      </tr>
-                    </tbody>
-                    <tbody class="bg-theme-50 divide-gray-200 divide-x divide-gray-200">
-                      <tr class="divide-x divide-gray-200" >
-                        <td class="px-6 py-4 text-left">Jelebu</td>
-                        <td class="px-20 py-4 text-center">2 hrs<br> </td>
-                        <td class="px-20 py-4 text-center">MYR 480<br> </td>
-                        <td class="px-20 py-4 text-center">MYR 480<br> </td>
-                      </tr>
-                    </tbody>
-                    </table>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-      </div>
-    </section>
-
-    
-    <section>
-   <div class="Table1">
-      <div class="max-w-6xl px-4 py-12 mx-auto space-y-6">
-        <div class="space-y-6">
-          
-          <div class="flex flex-col">
-            <div class="-my-2 overflow-x-auto sm:-mx-6 lg:-mx-8">
-              <div
-                class="
-                  inline-block
-                  min-w-full
-                  py-4
-                  align-middle
-                  sm:px-6
-                  lg:px-8
-                "
-              >
-                <div
-                  class="
-                    overflow-hidden
-                    border-b border-gray-200
-                    shadow
-                    sm:rounded-lg
-                  "
-                >
-                  <table class="min-w-full divide-y divide-gray-200">
-                    <thead class="bg-theme-100 bg-white " >
-                      <tr class="divide-x divide-gray-200" >
-                        <th
-                          colspan = "4"
+                          colspan = "6"
                           scope="col"
                           class="
                             px-6
@@ -482,42 +632,38 @@
                     </thead>
                     <tbody class="bg-white divide-gray-200 divide-x divide-gray-200">
                       <tr class="divide-x divide-gray-200" >
-                        <td class="px-6 py-4 text-left">Sepang</td>
-                        <td class="px-20 py-4 text-center">2 hrs<br> </td>
-                        <td class="px-20 py-4 text-center">MYR 465<br> </td>
-                        <td class="px-20 py-4 text-center">MYR 465<br> </td>
+                        <td class="px-6 py-4 text-left">KLIA/KLIA2</td>
+                        <td class="px-20 py-4 text-center">1 hrs<br> </td>
+                        <td class="px-20 py-4 text-center">MYR 180<br> </td>
+                        <td class="px-20 py-4 text-center">MYR 245<br> </td>
+                        <td class="px-20 py-4 text-center">MYR 245<br> </td>
                       </tr>
                     </tbody>
                     <tbody class="bg-theme-50 divide-gray-200 divide-x divide-gray-200">
                       <tr class="divide-x divide-gray-200" >
-                        <td class="px-6 py-4 text-left">KLIA / KLIA2</td>
-                        <td class="px-20 py-4 text-center">2 hrs<br> </td>
-                        <td class="px-20 py-4 text-center">MYR 560<br> </td>
-                        <td class="px-20 py-4 text-center">MYR 560<br> </td>
+                        <td class="px-6 py-4 text-left">Sepang</td>
+                        <td class="px-20 py-4 text-center">1 hrs<br> </td>
+                        <td class="px-20 py-4 text-center">MYR 180<br> </td>
+                        <td class="px-20 py-4 text-center">MYR 275<br> </td>
+                        <td class="px-20 py-4 text-center">MYR 275<br> </td>
                       </tr>
                     </tbody>
                     <tbody class="bg-white divide-gray-200 divide-x divide-gray-200">
                       <tr class="divide-x divide-gray-200" >
-                        <td class="px-6 py-4 text-left">Shah Alam</td>
-                        <td class="px-20 py-4 text-center">2 hrs<br> </td>
-                        <td class="px-20 py-4 text-center">MYR 645<br> </td>
-                        <td class="px-20 py-4 text-center">MYR 645<br> </td>
-                      </tr>
-                    </tbody>
-                     <tbody class="bg-theme-50 divide-gray-200 divide-x divide-gray-200">
-                      <tr class="divide-x divide-gray-200" >
                         <td class="px-6 py-4 text-left">Port Klang</td>
-                        <td class="px-20 py-4 text-center">2 hrs<br> </td>
-                        <td class="px-20 py-4 text-center">MYR 725<br> </td>
-                        <td class="px-20 py-4 text-center">MYR 725<br> </td>
+                        <td class="px-20 py-4 text-center">1 hrs<br> </td>
+                        <td class="px-20 py-4 text-center">MYR 205<br> </td>
+                        <td class="px-20 py-4 text-center">MYR 300<br> </td>
+                        <td class="px-20 py-4 text-center">MYR 300<br> </td>
                       </tr>
                     </tbody>
-                     <tbody class="bg-white divide-gray-200 divide-x divide-gray-200">
+                    <tbody class="bg-theme-50 divide-gray-200 divide-x divide-gray-200">
                       <tr class="divide-x divide-gray-200" >
                         <td class="px-6 py-4 text-left">Sekinchan</td>
-                        <td class="px-20 py-4 text-center">2 hrs<br> </td>
-                        <td class="px-20 py-4 text-center">MYR 985<br> </td>
-                        <td class="px-20 py-4 text-center">MYR 985<br> </td>
+                        <td class="px-20 py-4 text-center">1 hrs<br> </td>
+                        <td class="px-20 py-4 text-center">MYR 340<br> </td>
+                        <td class="px-20 py-4 text-center">MYR 480<br> </td>
+                        <td class="px-20 py-4 text-center">MYR 480<br> </td>
                       </tr>
                     </tbody>
                     </table>
@@ -529,8 +675,6 @@
       </div>
       </div>
     </section>
-
-
 
     <section>
    <div class="Table1">
@@ -561,7 +705,7 @@
                     <thead class="bg-theme-100 bg-white " >
                       <tr class="divide-x divide-gray-200" >
                         <th
-                          colspan = "4"
+                          colspan = "6"
                           scope="col"
                           class="
                             px-6
@@ -574,18 +718,83 @@
                             text-left
                           "
                         >
-                         Kuala Lumpur
+                         Negeri Sembilan
                         </th>
                       </tr>
                     </thead>
                     <tbody class="bg-white divide-gray-200 divide-x divide-gray-200">
                       <tr class="divide-x divide-gray-200" >
-                        <td class="px-6 py-4 text-left">Within Kuala Lumpur</td>
-                        <td class="px-20 py-4 text-center">2 hrs<br> </td>
-                        <td class="px-20 py-4 text-center">MYR 615<br> </td>
-                        <td class="px-20 py-4 text-center">MYR 615<br> </td>
+                        <td class="px-6 py-4 text-left">Seremban</td>
+                        <td class="px-20 py-4 text-center">1 hrs<br> </td>
+                        <td class="px-20 py-4 text-center">MYR 300<br> </td>
+                        <td class="px-20 py-4 text-center">MYR 340<br> </td>
+                        <td class="px-20 py-4 text-center">MYR 340<br> </td>
                       </tr>
                     </tbody>
+                    <tbody class="bg-theme-50 divide-gray-200 divide-x divide-gray-200">
+                      <tr class="divide-x divide-gray-200" >
+                        <td class="px-6 py-4 text-left">Port Dickson</td>
+                        <td class="px-20 py-4 text-center">1.5 hrs<br> </td>
+                        <td class="px-20 py-4 text-center">MYR 300<br> </td>
+                        <td class="px-20 py-4 text-center">MYR 395<br> </td>
+                        <td class="px-20 py-4 text-center">MYR 395<br> </td>
+                      </tr>
+                    </tbody>
+                    <tbody class="bg-white divide-gray-200 divide-x divide-gray-200">
+                      <tr class="divide-x divide-gray-200" >
+                        <td class="px-6 py-4 text-left">Rembau</td>
+                        <td class="px-20 py-4 text-center">1.5 hrs<br> </td>
+                        <td class="px-20 py-4 text-center">MYR 300<br> </td>
+                        <td class="px-20 py-4 text-center">MYR 395<br> </td>
+                        <td class="px-20 py-4 text-center">MYR 395<br> </td>
+                      </tr>
+                    </tbody>
+                    <tbody class="bg-theme-50 divide-gray-200 divide-x divide-gray-200">
+                      <tr class="divide-x divide-gray-200" >
+                        <td class="px-6 py-4 text-left">Jelebu</td>
+                        <td class="px-20 py-4 text-center">1.5 hrs<br> </td>
+                        <td class="px-20 py-4 text-center">MYR 300<br> </td>
+                        <td class="px-20 py-4 text-center">MYR 395<br> </td>
+                        <td class="px-20 py-4 text-center">MYR 395<br> </td>
+                      </tr>
+                    </tbody>
+                    <tbody class="bg-white divide-gray-200 divide-x divide-gray-200">
+                      <tr class="divide-x divide-gray-200" >
+                        <td class="px-6 py-4 text-left">Tampin</td>
+                        <td class="px-20 py-4 text-center">1.5 hrs<br> </td>
+                        <td class="px-20 py-4 text-center">MYR 370<br> </td>
+                        <td class="px-20 py-4 text-center">MYR 465<br> </td>
+                        <td class="px-20 py-4 text-center">MYR 465<br> </td>
+                      </tr>
+                    </tbody>
+                    <tbody class="bg-theme-50 divide-gray-200 divide-x divide-gray-200">
+                      <tr class="divide-x divide-gray-200" >
+                        <td class="px-6 py-4 text-left">Kuala Pilah</td>
+                        <td class="px-20 py-4 text-center">1.5 hrs<br> </td>
+                        <td class="px-20 py-4 text-center">MYR 410<br> </td>
+                        <td class="px-20 py-4 text-center">MYR 545<br> </td>
+                        <td class="px-20 py-4 text-center">MYR 545<br> </td>
+                      </tr>
+                    </tbody>
+                    <tbody class="bg-white divide-gray-200 divide-x divide-gray-200">
+                      <tr class="divide-x divide-gray-200" >
+                        <td class="px-6 py-4 text-left">Jempol</td>
+                        <td class="px-20 py-4 text-center">2 hrs<br> </td>
+                        <td class="px-20 py-4 text-center">MYR 435<br> </td>
+                        <td class="px-20 py-4 text-center">MYR 530<br> </td>
+                        <td class="px-20 py-4 text-center">MYR 530<br> </td>
+                      </tr>
+                    </tbody>
+                    <tbody class="bg-theme-50 divide-gray-200 divide-x divide-gray-200">
+                      <tr class="divide-x divide-gray-200" >
+                        <td class="px-6 py-4 text-left">Ayer Kuning Tampin</td>
+                        <td class="px-20 py-4 text-center">2.5 hrs<br> </td>
+                        <td class="px-20 py-4 text-center">MYR 680<br> </td>
+                        <td class="px-20 py-4 text-center">MYR 815<br> </td>
+                        <td class="px-20 py-4 text-center">MYR 815<br> </td>
+                      </tr>
+                    </tbody>
+                    
                     </table>
                 </div>
               </div>
@@ -595,13 +804,6 @@
       </div>
       </div>
     </section>
-
-
-    
-
-
-
-
 
     <section>
    <div class="Table1">
@@ -632,7 +834,204 @@
                     <thead class="bg-theme-100 bg-white " >
                       <tr class="divide-x divide-gray-200" >
                         <th
-                          colspan = "4"
+                          colspan = "6"
+                          scope="col"
+                          class="
+                            px-6
+                            py-3
+                            text-xs
+                            font-medium
+                            tracking-wider
+                            text-left text-gray-500
+                            uppercase
+                            text-left
+                          "
+                        >
+                         Malacca
+                        </th>
+                      </tr>
+                    </thead>
+                    <tbody class="bg-white divide-gray-200 divide-x divide-gray-200">
+                      <tr class="divide-x divide-gray-200" >
+                        <td class="px-6 py-4 text-left">Within Malacca</td>
+                        <td class="px-20 py-4 text-center">2 hrs<br> </td>
+                        <td class="px-20 py-4 text-center">MYR 480<br> </td>
+                        <td class="px-20 py-4 text-center">MYR 615<br> </td>
+                        <td class="px-20 py-4 text-center">MYR 615<br> </td>
+                      </tr>
+                    </tbody>
+                    </table>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      </div>
+    </section>
+    <section>
+   <div class="Table1">
+      <div class="max-w-6xl px-4 py-12 mx-auto space-y-6">
+        <div class="space-y-6">
+          
+          <div class="flex flex-col">
+            <div class="-my-2 overflow-x-auto sm:-mx-6 lg:-mx-8">
+              <div
+                class="
+                  inline-block
+                  min-w-full
+                  py-4
+                  align-middle
+                  sm:px-6
+                  lg:px-8
+                "
+              >
+                <div
+                  class="
+                    overflow-hidden
+                    border-b border-gray-200
+                    shadow
+                    sm:rounded-lg
+                  "
+                >
+                  <table class="min-w-full divide-y divide-gray-200">
+                    <thead class="bg-theme-100 bg-white " >
+                      <tr class="divide-x divide-gray-200" >
+                        <th
+                          colspan = "6"
+                          scope="col"
+                          class="
+                            px-6
+                            py-3
+                            text-xs
+                            font-medium
+                            tracking-wider
+                            text-left text-gray-500
+                            uppercase
+                            text-left
+                          "
+                        >
+                         Johor
+                        </th>
+                      </tr>
+                    </thead>
+                    <tbody class="bg-white divide-gray-200 divide-x divide-gray-200">
+                      <tr class="divide-x divide-gray-200" >
+                        <td class="px-6 py-4 text-left">Chaah</td>
+                        <td class="px-20 py-4 text-center">3 hrs<br> </td>
+                        <td class="px-20 py-4 text-center">MYR 830<br> </td>
+                        <td class="px-20 py-4 text-center">-<br> </td>
+                        <td class="px-20 py-4 text-center">-<br> </td>
+                      </tr>
+                    </tbody>
+                    <tbody class="bg-theme-50 divide-gray-200 divide-x divide-gray-200">
+                      <tr class="divide-x divide-gray-200" >
+                        <td class="px-6 py-4 text-left">Johor Bahru City Centre<br>• JB City Square<br>• Komtar JBCC<br>• Galleria @ Kotaraya<br>• KSL City Mall, KSL Resort &amp; Hotel<br>• Thistle Hotel Johor Bahru<br>• Grand Paragon Hotel Johor Bahru<br>• DoubleTree by Hilton<br>• Persada Johor International Convention Centre<br>• Danga Bay<br>• Plaza Sentosa<br>• Johor Golf &amp; Country Club<br>• Ponderosa Golf &amp; Country Club<br>• Daiman 18 Golf Club</td>
+                        <td class="px-20 py-4 text-center">3 hrs<br> </td>
+                        <td class="px-20 py-4 text-center">MYR 885<br> </td>
+                        <td class="px-20 py-4 text-center">-<br> </td>
+                        <td class="px-20 py-4 text-center">-<br> </td>
+                      </tr>
+                    </tbody>
+                    <tbody class="bg-white divide-gray-200 divide-x divide-gray-200">
+                      <tr class="divide-x divide-gray-200">
+                        <td class="px-6 py-4 text-left" >Within Iskandar Puteri (Previously Nusajaya) <br>• LEGOLAND® Malaysia Resort - LEGOLAND® Theme Park, Water Park and Hotel<br>• Mall of Medini<br>• Puteri Harbour<br>• The Little Red Cube - Sanrio Hello Kitty Town, The Little Big Club, Lat's Place (Puteri Harbour)<br>• Hotel Jen Puteri Harbour<br>• Kota Iskandar<br>• Bukit Indah<br>• Poresia Country Club<br>• Horizon Hills, Horizon Hills Golf &amp; Country Club<br>• Educity<br>• Ledang Heights<br>• East Ledang<br>• Medini<br>• Pinewood Iskandar Studios<br>• Avira Wellness Resort<br>• Leisure Farm Resort<br></td>
+                        
+                     
+                        
+                        <td class="px-6 py-4 " colspan="1">
+                        <div style="display:block; text-align: center;">3 hrs</div>
+                        </td>
+
+                        <td class="px-6 py-4 " colspan="1">
+                        <div style="display:block; text-align: center;">MYR 885</div>
+                        </td>
+
+                        <td class="px-6 py-4 " colspan="1">
+                        <div style="display:block; text-align: center;">-</div>
+                        </td>
+
+                        <td class="px-6 py-4 " colspan="1">
+                        <div style="display:block; text-align: center;">-</div>
+                        </td>
+                      </tr>
+                    </tbody>
+                    <tbody class="bg-theme-50 divide-gray-200 divide-x divide-gray-200">
+                      <tr class="divide-x divide-gray-200" >
+                        <td class="px-6 py-4 text-left">Permas Jaya</td>
+                        <td class="px-20 py-4 text-center">4 hrs<br> </td>
+                        <td class="px-20 py-4 text-center">MYR 885<br> </td>
+                        <td class="px-20 py-4 text-center">-<br> </td>
+                        <td class="px-20 py-4 text-center">-<br> </td>
+                      </tr>
+                    </tbody>
+                    <tbody class="bg-white divide-gray-200 divide-x divide-gray-200">
+                      <tr class="divide-x divide-gray-200" >
+                        <td class="px-6 py-4 text-left">Skudai</td>
+                        <td class="px-20 py-4 text-center">4 hrs<br> </td>
+                        <td class="px-20 py-4 text-center">MYR 885<br> </td>
+                        <td class="px-20 py-4 text-center">-<br> </td>
+                        <td class="px-20 py-4 text-center">-<br> </td>
+                      </tr>
+                    </tbody>
+                    <tbody class="bg-theme-50 divide-gray-200 divide-x divide-gray-200">
+                      <tr class="divide-x divide-gray-200" >
+                        <td class="px-6 py-4 text-left">Senai</td>
+                        <td class="px-20 py-4 text-center">4 hrs<br> </td>
+                        <td class="px-20 py-4 text-center">MYR 885<br> </td>
+                        <td class="px-20 py-4 text-center">-<br> </td>
+                        <td class="px-20 py-4 text-center">-<br> </td>
+                      </tr>
+                    </tbody>
+                    <tbody class="bg-white divide-gray-200 divide-x divide-gray-200">
+                      <tr class="divide-x divide-gray-200" >
+                        <td class="px-6 py-4 text-left">Mersing</td>
+                        <td class="px-20 py-4 text-center">4.5 hrs<br> </td>
+                        <td class="px-20 py-4 text-center">MYR 1100<br> </td>
+                        <td class="px-20 py-4 text-center">-<br> </td>
+                        <td class="px-20 py-4 text-center">-<br> </td>
+                      </tr>
+                    </tbody>
+                    </table>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      </div>
+    </section>
+
+    <section>
+   <div class="Table1">
+      <div class="max-w-6xl px-4 py-12 mx-auto space-y-6">
+        <div class="space-y-6">
+          
+          <div class="flex flex-col">
+            <div class="-my-2 overflow-x-auto sm:-mx-6 lg:-mx-8">
+              <div
+                class="
+                  inline-block
+                  min-w-full
+                  py-4
+                  align-middle
+                  sm:px-6
+                  lg:px-8
+                "
+              >
+                <div
+                  class="
+                    overflow-hidden
+                    border-b border-gray-200
+                    shadow
+                    sm:rounded-lg
+                  "
+                >
+                  <table class="min-w-full divide-y divide-gray-200">
+                    <thead class="bg-theme-100 bg-white " >
+                      <tr class="divide-x divide-gray-200" >
+                        <th
+                          colspan = "6"
                           scope="col"
                           class="
                             px-6
@@ -652,359 +1051,64 @@
                     <tbody class="bg-white divide-gray-200 divide-x divide-gray-200">
                       <tr class="divide-x divide-gray-200" >
                         <td class="px-6 py-4 text-left">Genting Highlands</td>
-                        <td class="px-20 py-4 text-center">3 hrs<br> </td>
-                        <td class="px-20 py-4 text-center">MYR 800<br> </td>
-                        <td class="px-20 py-4 text-center">MYR 800<br> </td>
+                        <td class="px-20 py-4 text-center">1.5 hrs<br> </td>
+                        <td class="px-20 py-4 text-center">MYR 410<br> </td>
+                        <td class="px-20 py-4 text-center">MYR 545<br> </td>
+                        <td class="px-20 py-4 text-center">MYR 545<br> </td>
                       </tr>
                     </tbody>
                     <tbody class="bg-theme-50 divide-gray-200 divide-x divide-gray-200">
                       <tr class="divide-x divide-gray-200" >
                         <td class="px-6 py-4 text-left">Berjaya Hills Bukit Tinggi</td>
-                        <td class="px-20 py-4 text-center">3 hrs<br> </td>
-                        <td class="px-20 py-4 text-center">MYR 800<br> </td>
-                        <td class="px-20 py-4 text-center">MYR 800<br> </td>
-                      </tr>
-                    </tbody>
-                    <tbody class="bg-white divide-gray-200 divide-x divide-gray-200">
-                      <tr class="divide-x divide-gray-200" >
-                        <td class="px-6 py-4 text-left">Kuala Rompin</td>
-                        <td class="px-20 py-4 text-center">3.5 hrs<br> </td>
-                        <td class="px-20 py-4 text-center">MYR 995<br> </td>
-                        <td class="px-20 py-4 text-center">MYR 995<br> </td>
-                      </tr>
-                    </tbody>
-                    <tbody class="bg-theme-50 divide-gray-200 divide-x divide-gray-200">
-                      <tr class="divide-x divide-gray-200" >
-                        <td class="px-6 py-4 text-left">Kuantan</td>
-                        <td class="px-20 py-4 text-center">4 hrs<br> </td>
-                        <td class="px-20 py-4 text-center">MYR 1090<br> </td>
-                        <td class="px-20 py-4 text-center">MYR 1090<br> </td>
-                      </tr>
-                    </tbody>
-                    <tbody class="bg-white divide-gray-200 divide-x divide-gray-200">
-                      <tr class="divide-x divide-gray-200" >
-                        <td class="px-6 py-4 text-left">Marina Tanjung Gemok</td>
-                        <td class="px-20 py-4 text-center">4 hrs<br> </td>
-                        <td class="px-20 py-4 text-center">MYR 1095<br> </td>
-                        <td class="px-20 py-4 text-center">MYR 1095<br> </td>
-                      </tr>
-                    </tbody>
-                    <tbody class="bg-theme-50 divide-gray-200 divide-x divide-gray-200">
-                      <tr class="divide-x divide-gray-200" >
-                        <td class="px-6 py-4 text-left">Cherating Beach</td>
-                        <td class="px-20 py-4 text-center">4 hrs<br> </td>
-                        <td class="px-20 py-4 text-center">MYR 1300<br> </td>
-                        <td class="px-20 py-4 text-center">MYR 1300<br> </td>
+                        <td class="px-20 py-4 text-center">1 hrs<br> </td>
+                        <td class="px-20 py-4 text-center">MYR 410<br> </td>
+                        <td class="px-20 py-4 text-center">MYR 545<br> </td>
+                        <td class="px-20 py-4 text-center">MYR 545<br> </td>
                       </tr>
                     </tbody>
                     <tbody class="bg-white divide-gray-200 divide-x divide-gray-200">
                       <tr class="divide-x divide-gray-200" >
                         <td class="px-6 py-4 text-left">Cameron Highlands</td>
-                        <td class="px-20 py-4 text-center">5 hrs<br> </td>
-                        <td class="px-20 py-4 text-center">MYR 1465<br> </td>
-                        <td class="px-20 py-4 text-center">MYR 1465<br> </td>
-                      </tr>
-                    </tbody>
-                    </table>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-      </div>
-    </section>
-
-
-
-
-
-
-
-     <section>
-   <div class="Table1">
-      <div class="max-w-6xl px-4 py-12 mx-auto space-y-6">
-        <div class="space-y-6">
-          
-          <div class="flex flex-col">
-            <div class="-my-2 overflow-x-auto sm:-mx-6 lg:-mx-8">
-              <div
-                class="
-                  inline-block
-                  min-w-full
-                  py-4
-                  align-middle
-                  sm:px-6
-                  lg:px-8
-                "
-              >
-                <div
-                  class="
-                    overflow-hidden
-                    border-b border-gray-200
-                    shadow
-                    sm:rounded-lg
-                  "
-                >
-                  <table class="min-w-full divide-y divide-gray-200">
-                    <thead class="bg-theme-100 bg-white " >
-                      <tr class="divide-x divide-gray-200" >
-                        <th
-                          colspan = "4"
-                          scope="col"
-                          class="
-                            px-6
-                            py-3
-                            text-xs
-                            font-medium
-                            tracking-wider
-                            text-left text-gray-500
-                            uppercase
-                            text-left
-                          "
-                        >
-                         Johor
-                        </th>
-                      </tr>
-                    </thead>
-                    <tbody class="bg-white divide-gray-200 divide-x divide-gray-200">
-                      <tr class="divide-x divide-gray-200" >
-                        <td class="px-6 py-4 text-left">Muar</td>
-                        <td class="px-20 py-4 text-center">1 hrs<br> </td>
-                        <td class="px-20 py-4 text-center">MYR 210<br> </td>
-                        <td class="px-20 py-4 text-center">MYR 210<br> </td>
-                      </tr>
-                    </tbody>
-                    <tbody class="bg-theme-50 divide-gray-200 divide-x divide-gray-200">
-                      <tr class="divide-x divide-gray-200" >
-                        <td class="px-6 py-4 text-left">Tangkak</td>
-                        <td class="px-20 py-4 text-center">1 hrs<br> </td>
-                        <td class="px-20 py-4 text-center">MYR 210<br> </td>
-                        <td class="px-20 py-4 text-center">MYR 210<br> </td>
-                      </tr>
-                    </tbody>
-                    <tbody class="bg-white divide-gray-200 divide-x divide-gray-200">
-                      <tr class="divide-x divide-gray-200" >
-                        <td class="px-6 py-4 text-left">Batu Pahat</td>
-                        <td class="px-20 py-4 text-center">2 hrs<br> </td>
-                        <td class="px-20 py-4 text-center">MYR 415<br> </td>
-                        <td class="px-20 py-4 text-center">MYR 415<br> </td>
-                      </tr>
-                    </tbody>
-                    <tbody class="bg-theme-50 divide-gray-200 divide-x divide-gray-200">
-                      <tr class="divide-x divide-gray-200" >
-                        <td class="px-6 py-4 text-left">Segamat</td>
-                        <td class="px-20 py-4 text-center">2 hrs<br> </td>
-                        <td class="px-20 py-4 text-center">MYR 415<br> </td>
-                        <td class="px-20 py-4 text-center">MYR 415<br> </td>
-                      </tr>
-                    </tbody>
-                    <tbody class="bg-white divide-gray-200 divide-x divide-gray-200">
-                      <tr class="divide-x divide-gray-200" >
-                        <td class="px-6 py-4 text-left">Yong Peng</td>
-                        <td class="px-20 py-4 text-center">1.5 hrs<br> </td>
-                        <td class="px-20 py-4 text-center">MYR 500<br> </td>
-                        <td class="px-20 py-4 text-center">MYR 500<br> </td>
-                      </tr>
-                    </tbody>
-                    <tbody class="bg-theme-50 divide-gray-200 divide-x divide-gray-200">
-                      <tr class="divide-x divide-gray-200" >
-                        <td class="px-6 py-4 text-left">Chaah</td>
-                        <td class="px-20 py-4 text-center">2 hrs<br> </td>
-                        <td class="px-20 py-4 text-center">MYR 600<br> </td>
-                        <td class="px-20 py-4 text-center">MYR 600<br> </td>
-                      </tr>
-                    </tbody>
-                    <tbody class="bg-white divide-gray-200 divide-x divide-gray-200">
-                      <tr class="divide-x divide-gray-200" >
-                        <td class="px-6 py-4 text-left">Kluang</td>
-                        <td class="px-20 py-4 text-center">2 hrs<br> </td>
-                        <td class="px-20 py-4 text-center">MYR 650<br> </td>
-                        <td class="px-20 py-4 text-center">MYR 650<br> </td>
-                      </tr>
-                    </tbody>
-                    <tbody class="bg-theme-50 divide-gray-200 divide-x divide-gray-200">
-                      <tr class="divide-x divide-gray-200" >
-                        <td class="px-6 py-4 text-left">Kulai</td>
-                        <td class="px-20 py-4 text-center">2.5 hrs<br> </td>
-                        <td class="px-20 py-4 text-center">MYR 800<br> </td>
-                        <td class="px-20 py-4 text-center">MYR 800<br> </td>
-                      </tr>
-                    </tbody>
-                    <tbody class="bg-white divide-gray-200 divide-x divide-gray-200">
-                      <tr class="divide-x divide-gray-200" >
-                        <td class="px-6 py-4 text-left">Pontian</td>
-                        <td class="px-20 py-4 text-center">2.5 hrs<br> </td>
-                        <td class="px-20 py-4 text-center">MYR 835<br> </td>
-                        <td class="px-20 py-4 text-center">MYR 835<br> </td>
-                      </tr>
-                    </tbody>
-                    <tbody class="bg-theme-50 divide-gray-200 divide-x divide-gray-200">
-                      <tr class="divide-x divide-gray-200" >
-                        <td class="px-6 py-4 text-left">Senai<br>• Johor Senai Airport<br>• Johor Premium Outlets (JPO)<br></td>
-                        <td class="px-20 py-4 text-center">2.5 hrs<br> </td>
-                        <td class="px-20 py-4 text-center">MYR 855<br> </td>
-                        <td class="px-20 py-4 text-center">MYR 855<br> </td>
-                      </tr>
-                    </tbody>
-                    <tbody class="bg-white divide-gray-200 divide-x divide-gray-200">
-                      <tr class="divide-x divide-gray-200" >
-                        <td class="px-6 py-4 text-left">Skudai</td>
-                        <td class="px-20 py-4 text-center">2.5 hrs<br> </td>
-                        <td class="px-20 py-4 text-center">MYR 870<br> </td>
-                        <td class="px-20 py-4 text-center">MYR 870<br> </td>
-                      </tr>
-                    </tbody>
-                    <tbody class="bg-theme-50 divide-gray-200 divide-x divide-gray-200">
-                      <tr class="divide-x divide-gray-200" >
-                        <td class="px-6 py-4 text-left">Pekan Nanas</td>
-                        <td class="px-20 py-4 text-center">2.5 hrs<br> </td>
-                        <td class="px-20 py-4 text-center">MYR 875<br> </td>
-                        <td class="px-20 py-4 text-center">MYR 875<br> </td>
-                      </tr>
-                    </tbody>
-                    <tbody class="bg-white divide-gray-200 divide-x divide-gray-200">
-                      <tr class="divide-x divide-gray-200" >
-                        <td class="px-6 py-4 text-left">Pulai Springs Resort</td>
-                        <td class="px-20 py-4 text-center">2.5 hrs<br> </td>
+                        <td class="px-20 py-4 text-center">3 hrs<br> </td>
+                        <td class="px-20 py-4 text-center">MYR 750<br> </td>
                         <td class="px-20 py-4 text-center">MYR 885<br> </td>
                         <td class="px-20 py-4 text-center">MYR 885<br> </td>
                       </tr>
                     </tbody>
                     <tbody class="bg-theme-50 divide-gray-200 divide-x divide-gray-200">
                       <tr class="divide-x divide-gray-200" >
-                        <td class="px-6 py-4 text-left">Gelang Patah</td>
-                        <td class="px-20 py-4 text-center">2.5 hrs<br> </td>
-                        <td class="px-20 py-4 text-center">MYR 900<br> </td>
-                        <td class="px-20 py-4 text-center">MYR 900<br> </td>
+                        <td class="px-6 py-4 text-left">Cherating Beach</td>
+                        <td class="px-20 py-4 text-center">8 hrs<br> </td>
+                        <td class="px-20 py-4 text-center">MYR 815<br> </td>
+                        <td class="px-20 py-4 text-center">MYR 955<br> </td>
+                        <td class="px-20 py-4 text-center">MYR 955<br> </td>
                       </tr>
                     </tbody>
                     <tbody class="bg-white divide-gray-200 divide-x divide-gray-200">
                       <tr class="divide-x divide-gray-200" >
-                        <td class="px-6 py-4 text-left">Nusajaya</td>
-                        <td class="px-20 py-4 text-center">2.5 hrs<br> </td>
-                        <td class="px-20 py-4 text-center">MYR 915<br> </td>
-                        <td class="px-20 py-4 text-center">MYR 915<br> </td>
-                      </tr>
-                    </tbody>
-                    <tbody class="bg-theme-50 divide-gray-200 divide-x divide-gray-200">
-                      <tr class="divide-x divide-gray-200" >
-                        <td class="px-6 py-4 text-left">Nusajaya <br>• LEGOLAND® Malaysia<br>• The Little Red Cube - Sanrio Hello Kitty Town, The Little Big Club, Lat's Place (Puteri Harbour)<br>• Traders Hotel, Puteri Harbour<br>• Kota Iskandar<br>• Bukit Indah<br>• Horizon Hills, Horizon Hills Golf &amp; Country Club<br>• Educity<br>• Ledang Heights<br>• East Ledang<br>• Medini<br>• Pinewood Iskandar Studios<br></td>
-                        <td class="px-20 py-4 text-center">2.5 hrs<br> </td>
-                        <td class="px-20 py-4 text-center">MYR 915<br> </td>
-                        <td class="px-20 py-4 text-center">MYR 915<br> </td>
-                      </tr>
-                    </tbody>
-                    <tbody class="bg-white divide-gray-200 divide-x divide-gray-200">
-                      <tr class="divide-x divide-gray-200" >
-                        <td class="px-6 py-4 text-left">Johor Bahru City Centre</td>
-                        <td class="px-20 py-4 text-center">2.5 hrs<br> </td>
-                        <td class="px-20 py-4 text-center">MYR 915<br> </td>
-                        <td class="px-20 py-4 text-center">MYR 915<br> </td>
-                      </tr>
-                    </tbody>
-                    <tbody class="bg-theme-50 divide-gray-200 divide-x divide-gray-200">
-                      <tr class="divide-x divide-gray-200" >
-                        <td class="px-6 py-4 text-left">Bandar Baru Permas Jaya</td>
-                        <td class="px-20 py-4 text-center">2.5 hrs<br> </td>
-                        <td class="px-20 py-4 text-center">MYR 915<br> </td>
-                        <td class="px-20 py-4 text-center">MYR 915<br> </td>
-                      </tr>
-                    </tbody>
-                    <tbody class="bg-white divide-gray-200 divide-x divide-gray-200">
-                      <tr class="divide-x divide-gray-200" >
-                        <td class="px-6 py-4 text-left">Ulu Tiram</td>
+                        <td class="px-6 py-4 text-left">Kuantan</td>
                         <td class="px-20 py-4 text-center">3 hrs<br> </td>
-                        <td class="px-20 py-4 text-center">MYR 960<br> </td>
-                        <td class="px-20 py-4 text-center">MYR 960<br> </td>
+                        <td class="px-20 py-4 text-center">MYR 885<br> </td>
+                        <td class="px-20 py-4 text-center">MYR 955<br> </td>
+                        <td class="px-20 py-4 text-center">MYR 955<br> </td>
                       </tr>
                     </tbody>
                     <tbody class="bg-theme-50 divide-gray-200 divide-x divide-gray-200">
                       <tr class="divide-x divide-gray-200" >
-                        <td class="px-6 py-4 text-left">Kampong Tanah Abang Johor<br>(Bukit Tanah Abang)</td>
-                        <td class="px-20 py-4 text-center">3 hrs<br> </td>
-                        <td class="px-20 py-4 text-center">MYR 960<br> </td>
-                        <td class="px-20 py-4 text-center">MYR 960<br> </td>
+                        <td class="px-6 py-4 text-left">Marina Tanjung Gemok</td>
+                        <td class="px-20 py-4 text-center">4.5 hrs<br> </td>
+                        <td class="px-20 py-4 text-center">MYR 885<br> </td>
+                        <td class="px-20 py-4 text-center">MYR 980<br> </td>
+                        <td class="px-20 py-4 text-center">MYR 980<br> </td>
                       </tr>
                     </tbody>
                     <tbody class="bg-white divide-gray-200 divide-x divide-gray-200">
                       <tr class="divide-x divide-gray-200" >
-                        <td class="px-6 py-4 text-left">Masai<br></td>
-                        <td class="px-20 py-4 text-center">2.5 hrs<br> </td>
-                        <td class="px-20 py-4 text-center">MYR 960<br> </td>
-                        <td class="px-20 py-4 text-center">MYR 960<br> </td>
-                      </tr>
-                    </tbody>
-                    <tbody class="bg-theme-50 divide-gray-200 divide-x divide-gray-200">
-                      <tr class="divide-x divide-gray-200" >
-                        <td class="px-6 py-4 text-left">Kukup<br></td>
-                        <td class="px-20 py-4 text-center">3 hrs<br> </td>
-                        <td class="px-20 py-4 text-center">MYR 965<br> </td>
-                        <td class="px-20 py-4 text-center">MYR 965<br> </td>
-                      </tr>
-                    </tbody>
-                    <tbody class="bg-white divide-gray-200 divide-x divide-gray-200">
-                      <tr class="divide-x divide-gray-200" >
-                        <td class="px-6 py-4 text-left">Pasir Gudang<br></td>
-                        <td class="px-20 py-4 text-center">3 hrs<br> </td>
-                        <td class="px-20 py-4 text-center">MYR 970<br> </td>
-                        <td class="px-20 py-4 text-center">MYR 970<br> </td>
-                      </tr>
-                    </tbody>
-                    <tbody class="bg-theme-50 divide-gray-200 divide-x divide-gray-200">
-                      <tr class="divide-x divide-gray-200" >
-                        <td class="px-6 py-4 text-left">Mersing<br></td>
-                        <td class="px-20 py-4 text-center">3.5 hrs<br> </td>
-                        <td class="px-20 py-4 text-center">MYR 1000<br> </td>
-                        <td class="px-20 py-4 text-center">MYR 1000<br> </td>
-                      </tr>
-                    </tbody>
-                    <tbody class="bg-white divide-gray-200 divide-x divide-gray-200">
-                      <tr class="divide-x divide-gray-200" >
-                        <td class="px-6 py-4 text-left">Kota Tinggi<br></td>
-                        <td class="px-20 py-4 text-center">3 hrs<br> </td>
-                        <td class="px-20 py-4 text-center">MYR 1000<br> </td>
-                        <td class="px-20 py-4 text-center">MYR 1000<br> </td>
-                      </tr>
-                    </tbody>
-                    <tbody class="bg-theme-50 divide-gray-200 divide-x divide-gray-200">
-                      <tr class="divide-x divide-gray-200" >
-                        <td class="px-6 py-4 text-left">Tanjung Langsat<br></td>
-                        <td class="px-20 py-4 text-center">3 hrs<br> </td>
-                        <td class="px-20 py-4 text-center">MYR 1070<br> </td>
-                        <td class="px-20 py-4 text-center">MYR 1070<br> </td>
-                      </tr>
-                    </tbody>
-                    <tbody class="bg-white divide-gray-200 divide-x divide-gray-200">
-                      <tr class="divide-x divide-gray-200" >
-                        <td class="px-6 py-4 text-left">Desaru<br></td>
-                        <td class="px-20 py-4 text-center">3 hrs<br> </td>
-                        <td class="px-20 py-4 text-center">MYR 1160<br> </td>
-                        <td class="px-20 py-4 text-center">MYR 1160<br> </td>
-                      </tr>
-                    </tbody>
-                    <tbody class="bg-theme-50 divide-gray-200 divide-x divide-gray-200">
-                      <tr class="divide-x divide-gray-200" >
-                        <td class="px-6 py-4 text-left">Tanjung Sutera<br></td>
-                        <td class="px-20 py-4 text-center">3.5 hrs<br> </td>
-                        <td class="px-20 py-4 text-center">MYR 1200<br> </td>
-                        <td class="px-20 py-4 text-center">MYR 1200<br> </td>
-                      </tr>
-                    </tbody>
-                    <tbody class="bg-white divide-gray-200 divide-x divide-gray-200">
-                      <tr class="divide-x divide-gray-200" >
-                        <td class="px-6 py-4 text-left">Pengerang<br></td>
-                        <td class="px-20 py-4 text-center">3.5 hrs<br> </td>
-                        <td class="px-20 py-4 text-center">MYR 1280<br> </td>
-                        <td class="px-20 py-4 text-center">MYR 1280<br> </td>
-                      </tr>
-                    </tbody>
-                    <tbody class="bg-theme-50 divide-gray-200 divide-x divide-gray-200">
-                      <tr class="divide-x divide-gray-200" >
-                        <td class="px-6 py-4 text-left">Tanjung Leman<br></td>
-                        <td class="px-20 py-4 text-center">4 hrs<br> </td>
-                        <td class="px-20 py-4 text-center">MYR 1335<br> </td>
-                        <td class="px-20 py-4 text-center">MYR 1335<br> </td>
+                        <td class="px-6 py-4 text-left">Kuala Rompin</td>
+                        <td class="px-20 py-4 text-center">4.5 hrs<br> </td>
+                        <td class="px-20 py-4 text-center">MYR 885<br> </td>
+                        <td class="px-20 py-4 text-center">MYR 980<br> </td>
+                        <td class="px-20 py-4 text-center">MYR 980<br> </td>
                       </tr>
                     </tbody>
                     </table>
@@ -1019,6 +1123,8 @@
 
 
     
+
+
     <section>
    <div class="Table1">
       <div class="max-w-6xl px-4 py-12 mx-auto space-y-6">
@@ -1068,99 +1174,118 @@
                     <tbody class="bg-white divide-gray-200 divide-x divide-gray-200">
                       <tr class="divide-x divide-gray-200" >
                         <td class="px-6 py-4 text-left">Mualim (Tanjung Malim)</td>
-                        <td class="px-20 py-4 text-center">3 hrs<br> </td>
-                        <td class="px-20 py-4 text-center">MYR 950<br> </td>
-                        <td class="px-20 py-4 text-center">MYR 950<br> </td>
+                        <td class="px-20 py-4 text-center">1.5 hrs<br> </td>
+                        <td class="px-20 py-4 text-center">MYR 340<br> </td>
+                        <td class="px-20 py-4 text-center">MYR 435<br> </td>
+                        <td class="px-20 py-4 text-center">MYR 435<br> </td>
                       </tr>
                     </tbody>
-
                     <tbody class="bg-theme-50 divide-gray-200 divide-x divide-gray-200">
                       <tr class="divide-x divide-gray-200" >
-                        <td class="px-6 py-4 text-left">Batang Padang</td>
-                        <td class="px-20 py-4 text-center">3.5 hrs<br> </td>
-                        <td class="px-20 py-4 text-center">MYR 1245<br> </td>
-                        <td class="px-20 py-4 text-center">MYR 1245<br> </td>
+                        <td class="px-6 py-4 text-left">Hilir Perak<br>• Kampar</td>
+                        <td class="px-20 py-4 text-center">2.5 hrs<br> </td>
+                        <td class="px-20 py-4 text-center">MYR 545<br> </td>
+                        <td class="px-20 py-4 text-center">MYR 435<br> </td>
+                        <td class="px-20 py-4 text-center">MYR 435<br> </td>
                       </tr>
                     </tbody>
-
                     <tbody class="bg-white divide-gray-200 divide-x divide-gray-200">
                       <tr class="divide-x divide-gray-200" >
-                        <td class="px-6 py-4 text-left">Kampar / Hilir Perak</td>
-                        <td class="px-20 py-4 text-center">4 hrs<br> </td>
-                        <td class="px-20 py-4 text-center">MYR 1325<br> </td>
-                        <td class="px-20 py-4 text-center">MYR 1325<br> </td>
+                        <td class="px-6 py-4 text-left">Batang Padang</td>
+                        <td class="px-20 py-4 text-center">2 hrs<br> </td>
+                        <td class="px-20 py-4 text-center">MYR 545<br> </td>
+                        <td class="px-20 py-4 text-center">MYR 680<br> </td>
+                        <td class="px-20 py-4 text-center">MYR 680<br> </td>
                       </tr>
                     </tbody>
-
                     <tbody class="bg-theme-50 divide-gray-200 divide-x divide-gray-200">
                       <tr class="divide-x divide-gray-200" >
                         <td class="px-6 py-4 text-left">Ipoh</td>
-                        <td class="px-20 py-4 text-center">4 hrs<br> </td>
-                        <td class="px-20 py-4 text-center">MYR 1465<br> </td>
-                        <td class="px-20 py-4 text-center">MYR 1465<br> </td>
+                        <td class="px-20 py-4 text-center">2.5 hrs<br> </td>
+                        <td class="px-20 py-4 text-center">MYR 680<br> </td>
+                        <td class="px-20 py-4 text-center">MYR 815<br> </td>
+                        <td class="px-20 py-4 text-center">MYR 815<br> </td>
                       </tr>
                     </tbody>
-
                     <tbody class="bg-white divide-gray-200 divide-x divide-gray-200">
                       <tr class="divide-x divide-gray-200" >
                         <td class="px-6 py-4 text-left">Perak Tengah</td>
-                        <td class="px-20 py-4 text-center">4.5 hrs<br> </td>
-                        <td class="px-20 py-4 text-center">MYR 1530<br> </td>
-                        <td class="px-20 py-4 text-center">MYR 1530<br> </td>
+                        <td class="px-20 py-4 text-center">3 hrs<br> </td>
+                        <td class="px-20 py-4 text-center">MYR 680<br> </td>
+                        <td class="px-20 py-4 text-center">MYR 815<br> </td>
+                        <td class="px-20 py-4 text-center">MYR 815<br> </td>
                       </tr>
                     </tbody>
-
                     <tbody class="bg-theme-50 divide-gray-200 divide-x divide-gray-200">
                       <tr class="divide-x divide-gray-200" >
-                        <td class="px-6 py-4 text-left">Lumut</td>
-                        <td class="px-20 py-4 text-center">5 hrs<br> </td>
-                        <td class="px-20 py-4 text-center">MYR 1560<br> </td>
-                        <td class="px-20 py-4 text-center">MYR 1560<br> </td>
+                        <td class="px-6 py-4 text-left">Matang</td>
+                        <td class="px-20 py-4 text-center">3 hrs	<br> </td>
+                        <td class="px-20 py-4 text-center">MYR 815<br> </td>
+                        <td class="px-20 py-4 text-center">MYR 910<br> </td>
+                        <td class="px-20 py-4 text-center">MYR 910<br> </td>
                       </tr>
                     </tbody>
-
                     <tbody class="bg-white divide-gray-200 divide-x divide-gray-200">
                       <tr class="divide-x divide-gray-200" >
-                        <td class="px-6 py-4 text-left">Kuala Kangsar</td>
-                        <td class="px-20 py-4 text-center">4.5 hrs<br> </td>
-                        <td class="px-20 py-4 text-center">MYR 1610<br> </td>
-                        <td class="px-20 py-4 text-center">MYR 1610<br> </td>
+                        <td class="px-6 py-4 text-left">Selama</td>
+                        <td class="px-20 py-4 text-center">4 hrs<br> </td>
+                        <td class="px-20 py-4 text-center">MYR 815<br> </td>
+                        <td class="px-20 py-4 text-center">MYR 910<br> </td>
+                        <td class="px-20 py-4 text-center">MYR 910<br> </td>
                       </tr>
                     </tbody>
-
                     <tbody class="bg-theme-50 divide-gray-200 divide-x divide-gray-200">
                       <tr class="divide-x divide-gray-200" >
                         <td class="px-6 py-4 text-left">Manjung</td>
-                        <td class="px-20 py-4 text-center">5 hrs<br> </td>
-                        <td class="px-20 py-4 text-center">MYR 1680<br> </td>
-                        <td class="px-20 py-4 text-center">MYR 1680<br> </td>
+                        <td class="px-20 py-4 text-center">3.5 hrs	<br> </td>
+                        <td class="px-20 py-4 text-center">MYR 815<br> </td>
+                        <td class="px-20 py-4 text-center">MYR 955<br> </td>
+                        <td class="px-20 py-4 text-center">MYR 955<br> </td>
                       </tr>
                     </tbody>
-
                     <tbody class="bg-white divide-gray-200 divide-x divide-gray-200">
                       <tr class="divide-x divide-gray-200" >
-                        <td class="px-6 py-4 text-left">Larut</td>
-                        <td class="px-20 py-4 text-center">5 hrs<br> </td>
-                        <td class="px-20 py-4 text-center">MYR 1710<br> </td>
-                        <td class="px-20 py-4 text-center">MYR 1710<br> </td>
+                        <td class="px-6 py-4 text-left">Kuala Kangsar</td>
+                        <td class="px-20 py-4 text-center">3 hrs<br> </td>
+                        <td class="px-20 py-4 text-center">MYR 815<br> </td>
+                        <td class="px-20 py-4 text-center">MYR 955<br> </td>
+                        <td class="px-20 py-4 text-center">MYR 955<br> </td>
                       </tr>
                     </tbody>
-
                     <tbody class="bg-theme-50 divide-gray-200 divide-x divide-gray-200">
                       <tr class="divide-x divide-gray-200" >
-                        <td class="px-6 py-4 text-left">Matang &amp; Selama</td>
-                        <td class="px-20 py-4 text-center">5 hrs<br> </td>
-                        <td class="px-20 py-4 text-center">MYR 1710<br> </td>
-                        <td class="px-20 py-4 text-center">MYR 1710<br> </td>
+                        <td class="px-6 py-4 text-left">Lumut</td>
+                        <td class="px-20 py-4 text-center">3.5 hrs<br> </td>
+                        <td class="px-20 py-4 text-center">MYR 885<br> </td>
+                        <td class="px-20 py-4 text-center">MYR 1020<br> </td>
+                        <td class="px-20 py-4 text-center">MYR 1020<br> </td>
                       </tr>
                     </tbody>
-
                     <tbody class="bg-white divide-gray-200 divide-x divide-gray-200">
                       <tr class="divide-x divide-gray-200" >
                         <td class="px-6 py-4 text-left">Hulu Perak</td>
-                        <td class="px-20 py-4 text-center">5.5 hrs<br> </td>
-                        <td class="px-20 py-4 text-center">MYR 1970<br> </td>
-                        <td class="px-20 py-4 text-center">MYR 1970<br> </td>
+                        <td class="px-20 py-4 text-center">4 hrs<br> </td>
+                        <td class="px-20 py-4 text-center">MYR 885<br> </td>
+                        <td class="px-20 py-4 text-center">MYR 980<br> </td>
+                        <td class="px-20 py-4 text-center">MYR 980<br> </td>
+                      </tr>
+                    </tbody>
+                    <tbody class="bg-theme-50 divide-gray-200 divide-x divide-gray-200">
+                      <tr class="divide-x divide-gray-200" >
+                        <td class="px-6 py-4 text-left">Larut</td>
+                        <td class="px-20 py-4 text-center">3 hrs<br> </td>
+                        <td class="px-20 py-4 text-center">MYR 885<br> </td>
+                        <td class="px-20 py-4 text-center">MYR 1020<br> </td>
+                        <td class="px-20 py-4 text-center">MYR 1020<br> </td>
+                      </tr>
+                    </tbody>
+                    <tbody class="bg-white divide-gray-200 divide-x divide-gray-200">
+                      <tr class="divide-x divide-gray-200" >
+                        <td class="px-6 py-4 text-left">Kerian</td>
+                        <td class="px-20 py-4 text-center">3.5 hrs	<br> </td>
+                        <td class="px-20 py-4 text-center">MYR 1125<br> </td>
+                        <td class="px-20 py-4 text-center">MYR 1350<br> </td>
+                        <td class="px-20 py-4 text-center">MYR 1350<br> </td>
                       </tr>
                     </tbody>
                     </table>
@@ -1172,6 +1297,8 @@
       </div>
       </div>
     </section>
+
+    
 
     <section>
    <div class="Table1">
@@ -1202,7 +1329,7 @@
                     <thead class="bg-theme-100 bg-white " >
                       <tr class="divide-x divide-gray-200" >
                         <th
-                          colspan = "4"
+                          colspan = "6"
                           scope="col"
                           class="
                             px-6
@@ -1215,16 +1342,17 @@
                             text-left
                           "
                         >
-                         Penang
+                         Kelantan
                         </th>
                       </tr>
                     </thead>
                     <tbody class="bg-white divide-gray-200 divide-x divide-gray-200">
                       <tr class="divide-x divide-gray-200" >
-                        <td class="px-6 py-4 text-left">Within Penang</td>
-                        <td class="px-20 py-4 text-center">5.5 hrs<br> </td>
-                        <td class="px-20 py-4 text-center">MYR 2090<br> </td>
-                        <td class="px-20 py-4 text-center">MYR 2090<br> </td>
+                        <td class="px-6 py-4 text-left">Within Kelantan</td>
+                        <td class="px-20 py-4 text-center">7 hrs<br> </td>
+                        <td class="px-20 py-4 text-center">MYR 1225<br> </td>
+                        <td class="px-20 py-4 text-center">MYR 1360<br> </td>
+                        <td class="px-20 py-4 text-center">MYR 1360<br> </td>
                       </tr>
                     </tbody>
                     </table>
@@ -1236,7 +1364,6 @@
       </div>
       </div>
     </section>
-
 
     <section>
    <div class="Table1">
@@ -1267,7 +1394,7 @@
                     <thead class="bg-theme-100 bg-white " >
                       <tr class="divide-x divide-gray-200" >
                         <th
-                          colspan = "4"
+                          colspan = "6"
                           scope="col"
                           class="
                             px-6
@@ -1280,16 +1407,26 @@
                             text-left
                           "
                         >
-                         Kedah
+                         Terengganu
                         </th>
                       </tr>
                     </thead>
                     <tbody class="bg-white divide-gray-200 divide-x divide-gray-200">
                       <tr class="divide-x divide-gray-200" >
-                        <td class="px-6 py-4 text-left">Within Kedah</td>
-                        <td class="px-20 py-4 text-center">6.5 hrs<br> </td>
-                        <td class="px-20 py-4 text-center">MYR 2400<br> </td>
-                        <td class="px-20 py-4 text-center">MYR 2400<br> </td>
+                        <td class="px-6 py-4 text-left">Kuala Terengganu</td>
+                        <td class="px-20 py-4 text-center">5 hrs<br> </td>
+                        <td class="px-20 py-4 text-center">MYR 1090<br> </td>
+                        <td class="px-20 py-4 text-center">MYR 1225<br> </td>
+                        <td class="px-20 py-4 text-center">MYR 1225<br> </td>
+                      </tr>
+                    </tbody>
+                    <tbody class="bg-theme-50 divide-gray-200 divide-x divide-gray-200">
+                      <tr class="divide-x divide-gray-200" >
+                        <td class="px-6 py-4 text-left">Kuala Besut</td>
+                        <td class="px-20 py-4 text-center">6 hrs<br> </td>
+                        <td class="px-20 py-4 text-center">MYR 1360<br> </td>
+                        <td class="px-20 py-4 text-center">MYR 1455<br> </td>
+                        <td class="px-20 py-4 text-center">MYR 1455<br> </td>
                       </tr>
                     </tbody>
                     </table>
@@ -1301,18 +1438,6 @@
       </div>
       </div>
     </section>
-
-
-
-
-
-
-
-
-
-
-
-
 
 
     <section>
@@ -1344,7 +1469,7 @@
                     <thead class="bg-theme-100 bg-white " >
                       <tr class="divide-x divide-gray-200" >
                         <th
-                          colspan = "4"
+                          colspan = "6"
                           scope="col"
                           class="
                             px-6
@@ -1364,9 +1489,10 @@
                     <tbody class="bg-white divide-gray-200 divide-x divide-gray-200">
                       <tr class="divide-x divide-gray-200" >
                         <td class="px-6 py-4 text-left">Within Singapore</td>
-                        <td class="px-20 py-4 text-center">3 hrs<br> </td>
-                        <td class="px-20 py-4 text-center">MYR 1440<br> </td>
-                        <td class="px-20 py-4 text-center">MYR 1440<br> </td>
+                        <td class="px-20 py-4 text-center">4 hrs<br> </td>
+                        <td class="px-20 py-4 text-center">MYR 1200<br> </td>
+                        <td class="px-20 py-4 text-center">MYR 2160<br> </td>
+                        <td class="px-20 py-4 text-center">MYR 2160<br> </td>
                       </tr>
                     </tbody>
                     <tbody class="bg-white divide-gray-200 divide-x divide-gray-200 text-center">
@@ -1410,6 +1536,25 @@
                           Book Now
                         </NuxtLink>
                         </td>
+
+                        <td class="px-6 py-4 " colspan="1">
+                        <NuxtLink
+                        to="/book-now"
+                        class="
+                          inline-block
+                          font-medium
+                          text-white
+                          transition
+                          rounded
+                          bg-theme-700
+                          px-4
+                          py-4
+                        "
+                        >
+                          Book Now
+                        </NuxtLink>
+                        </td>
+
                       </tr>
                     </tbody>
                     </table>
@@ -1487,6 +1632,7 @@
                         
                         <td class="px-20 py-4 text-center">MYR 20<br></td>
                         <td class="px-20 py-4 text-center">MYR 20<br></td>
+                        <td class="px-20 py-4 text-center">MYR 20<br></td>
                       </tr>
                     </tbody>
                     <tbody class="bg-theme-50 divide-gray-200 divide-x divide-gray-200">
@@ -1497,28 +1643,21 @@
                         
                         <td class="px-20 py-4 text-center">MYR 36<br> </td>
                         <td class="px-20 py-4 text-center">MYR 36<br> </td>
+                        <td class="px-20 py-4 text-center">MYR 36<br> </td>
                       </tr>
                     </tbody>
 
                     <tbody class="bg-white  divide-gray-200 divide-x divide-gray-200">
                       <tr class="divide-x divide-gray-200">
-                        <td class="px-6 py-4 text-left">Additional stop in Singapore<br><ul style="margin:0;">
-                                        <li style="padding:0;list-style: disc;text-align: justify; font-size:15px" ><small>Per enroute stop, within 4 km of pick up / drop off point. Maximum 2 stops.</small></li>
-                                         <li style="padding:0;list-style: disc;text-align: justify; font-size:15px" ><small>Complimentary 15 mins waiting time per stop. Additional waiting surcharge of RM 20 for every 10 mins applies there after.</small></li>
+                        <td class="px-6 py-4 text-left">Arrivals<br><ul style="margin:0;">
+                                        <li style="padding:0;list-style: disc;text-align: justify; font-size:15px" ><small>Tracking of flight 3 hrs before arrival</small></li>
+                                         <li style="padding:0;list-style: disc;text-align: justify; font-size:15px" ><small>Driver meet &amp; greet at arrival hall</small></li>
+                                         <li style="padding:0;list-style: disc;text-align: justify; font-size:15px" ><small>Complimentary 60 mins waiting time from flight arrival time (following flight no.)</small></li>
+                                         <li style="padding:0;list-style: disc;text-align: justify; font-size:15px" ><small>Learn More</small></li>
                                     </ul></td>
-                        <td class="px-20 py-4 text-center">MYR 60<br></td>
-                        <td class="px-20 py-4 text-center">MYR 60<br></td>
-                      </tr>
-                    </tbody>
-
-                    <tbody class="bg-theme-50  divide-gray-200 divide-x divide-gray-200">
-                      <tr class="divide-x divide-gray-200">
-                        <td class="px-6 py-4 text-left">Additional stop in Malaysia<br><ul style="margin:0;">
-                                        <li style="padding:0;list-style: disc;text-align: justify; font-size:15px" ><small>Per enroute stop, within 10 km of pick up / drop off point. Maximum 2 stops.</small></li>
-                                        <li style="padding:0;list-style: disc;text-align: justify; font-size:15px" ><small>Complimentary 15 mins waiting time per stop. Additional waiting surcharge of RM 20 for every 10 mins applies there after.</small></li>
-                                    </ul></td>
-                        <td class="px-20 py-4 text-center">MYR 60<br></td>
-                        <td class="px-20 py-4 text-center">MYR 60<br></td>
+                        <td class="px-20 py-4 text-center">MYR 20<br></td>
+                        <td class="px-20 py-4 text-center">MYR 20<br></td>
+                        <td class="px-20 py-4 text-center">MYR 20<br></td>
                       </tr>
                     </tbody>
                     </table>
@@ -1560,7 +1699,7 @@
                     <thead class="bg-theme-100 bg-white " >
                       <tr class="divide-x divide-gray-200" >
                         <th
-                          colspan = "4"
+                          colspan = "6"
                           scope="col"
                           class="
                             px-6
@@ -1585,6 +1724,7 @@
                         <td class="px-6 py-4 text-left" colspan = "1">24 hrs in advance</td>
                         <td class="px-6 py-4 text-left text-center" colspan = "1">YES</td>
                         <td class="px-6 py-4 text-left text-center" colspan = "1">YES</td>
+                        <td class="px-6 py-4 text-left text-center" colspan = "1">YES</td>
                       </tr>
                     </tbody>
                     <tbody class="bg-theme-50 divide-gray-200 divide-x divide-gray-200">
@@ -1592,6 +1732,7 @@
                         
                      
                         <td class="px-6 py-4 text-left" colspan = "1">Within 24 hrs <br><font style="color:#000; font-size:11px" >Vehicle arranged.</font></td>
+                        <td class="px-6 py-4 text-left text-center" colspan = "1">No amendment &amp; refund allowed.</td>
                         <td class="px-6 py-4 text-left text-center" colspan = "1">No amendment &amp; refund allowed.</td>
                         <td class="px-6 py-4 text-left text-center" colspan = "1">No amendment &amp; refund allowed.</td>
                       </tr>
@@ -1637,7 +1778,7 @@
                     <thead class="bg-theme-100 bg-white " >
                       <tr class="divide-x divide-gray-200" >
                         <th
-                          colspan = "4"
+                          colspan = "6"
                           scope="col"
                           class="
                             px-6
@@ -1662,6 +1803,7 @@
                         <td class="px-6 py-4 text-left" colspan = "1">24 hrs in advance<br><font style="color:#000; font-size:11px" >Refund processing fee is applicable</font></td>
                         <td class="px-6 py-4 text-left text-center" colspan = "1">YES</td>
                         <td class="px-6 py-4 text-left text-center" colspan = "1">YES</td>
+                        <td class="px-6 py-4 text-left text-center" colspan = "1">YES</td>
                       </tr>
                     </tbody>
                     <tbody class="bg-theme-50 divide-gray-200 divide-x divide-gray-200">
@@ -1669,6 +1811,7 @@
                         
                      
                         <td class="px-6 py-4 text-left" colspan = "1">Within 24 hrs <br><font style="color:#000; font-size:11px" >Vehicle arranged.</font></td>
+                        <td class="px-6 py-4 text-left text-center" colspan = "1">No cancellation &amp; refund allowed.</td>
                         <td class="px-6 py-4 text-left text-center" colspan = "1">No cancellation &amp; refund allowed.</td>
                         <td class="px-6 py-4 text-left text-center" colspan = "1">No cancellation &amp; refund allowed.</td>
                       </tr>
@@ -1714,7 +1857,7 @@
                     <thead class="bg-theme-100 bg-white " >
                       <tr class="divide-x divide-gray-200" >
                         <th
-                          colspan = "4"
+                          colspan = "6"
                           scope="col"
                           class="
                             px-6
@@ -1739,6 +1882,7 @@
                         <td class="px-6 py-4 text-left" colspan = "1">24 hrs in advance<br><font style="color:#000; font-size:11px" >Refund processing fee is applicable</font></td>
                         <td class="px-6 py-4 text-left text-center" colspan = "1">MYR 15	</td>
                         <td class="px-6 py-4 text-left text-center" colspan = "1">MYR 15	</td>
+                        <td class="px-6 py-4 text-left text-center" colspan = "1">MYR 15	</td>
                       </tr>
                     </tbody>
                     <tbody class="bg-theme-50 divide-gray-200 divide-x divide-gray-200">
@@ -1746,6 +1890,7 @@
                         
                      
                         <td class="px-6 py-4 text-left" colspan = "1">Within 24 hrs <br><font style="color:#000; font-size:11px" >Vehicle arranged.</font></td>
+                        <td class="px-6 py-4 text-left text-center" colspan = "1">No refund allowed.</td>
                         <td class="px-6 py-4 text-left text-center" colspan = "1">No refund allowed.</td>
                         <td class="px-6 py-4 text-left text-center" colspan = "1">No refund allowed.</td>
                       </tr>
@@ -1774,6 +1919,7 @@
                           Book Now
                         </NuxtLink>
                         </td>
+
                         <td class="px-6 py-4 " colspan="1">
                         <NuxtLink
                         to="/book-now"
@@ -1791,6 +1937,25 @@
                           Book Now
                         </NuxtLink>
                         </td>
+
+                        <td class="px-6 py-4 " colspan="1">
+                        <NuxtLink
+                        to="/book-now"
+                        class="
+                          inline-block
+                          font-medium
+                          text-white
+                          transition
+                          rounded
+                          bg-theme-700
+                          px-4
+                          py-4
+                        "
+                        >
+                          Book Now
+                        </NuxtLink>
+                        </td>
+
                       </tr>
                     </tbody>
                     
@@ -1947,7 +2112,7 @@
                       </tbody>
                     <tbody class="bg-white divide-gray-200 divide-x divide-gray-200">
                       <tr class="divide-x divide-gray-200">
-                        <td class="px-6 py-4 text-left" >via KLIA / Senai Airport</td>
+                        <td class="px-6 py-4 text-left" >KLIA</td>
                         <td class="px-6 py-4 text-left" colspan = "3">
                           • For departure transfer, recommended check-in at least 2 hrs before scheduled time of departure (ETD) if you have checked luggage, or 1.5 hrs if you have no luggage.<br><br>
                           • Check-in counters generally close 40 minutes before the departure time.<br><br>
@@ -1998,8 +2163,8 @@
                       <tr class="divide-x divide-gray-200">
                         <td class="px-6 py-4 text-left" >About</td>
                         <td class="px-6 py-4 text-left" colspan = "3">
-                          • <strong>Malacca Limousine Transfer</strong><br><br>
-                            Malacca is a historical city which contains colors of culture. They have the oldest building in the east for everyone to visit and reminisce. Unique Nyonya cuisines are fabulous and coveted. Historic culture with inexplicable attraction that groups of tourists will come here specially to visit. Our limo transfer takes you to witness the traces of time.<br>
+                          • <strong>Kuala Lumpur Limousine Transfer</strong><br><br>
+                            Kuala Lumpur, widely known as KL, is one of the busiest city in the world. Kuala Lumpur International Airport made it become a connection to nearby states which allow people to pass through the cities with memories. KL is an ideal start point for your journey. Enjoy the travel with our limousine transfer.<br>
                         </td>
                       </tr>
                     </tbody>
